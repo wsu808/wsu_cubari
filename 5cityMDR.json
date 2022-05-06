@@ -1,0 +1,39 @@
+{
+  "title": "5city: Mission Death Row",
+  "description": "Komiks na podstawie świata 5city gtaRP z Lipca/Sierpnia 2021. \n\nGłówny bohater: Gregory Montanha.\nHashtag: #5cityMDR",
+  "artist": "Xylax",
+  "author": "Xylax",
+  "cover": "https://pbs.twimg.com/media/FJALvBfWUAQPMKM?format=jpg&name=large",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1651858979",
+      "groups": {
+        "": [
+          "i.imgur.com/98VaFDp.jpg",
+          "i.imgur.com/ijt35EP.jpg",
+          "i.imgur.com/E0S3DXP.jpg",
+          "i.imgur.com/07LoP76.jpg",
+          "i.imgur.com/AeosT1V.jpg",
+          "i.imgur.com/te19Ozv.jpg",
+          "i.imgur.com/mR6FshQ.jpg",
+          "i.imgur.com/wTO6t8C.jpg",
+          "i.imgur.com/d42ilE8.jpg",
+          ""
+        ]
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "last_updated": "1651859101",
+      "groups": {
+        "": [
+          "i.imgur.com/qpavDIQ.jpg",
+          "i.imgur.com/t4mH9gE.jpg"
+        ]
+      }
+    }
+  }
+}
