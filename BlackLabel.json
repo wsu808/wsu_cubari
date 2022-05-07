@@ -3,10 +3,10 @@
   "description": "",
   "artist": "StereoscopeComics",
   "author": "StereoscopeComics",
-  "cover": "",
+  "cover": "https://i.imgur.com/1c16JwG.jpg",
   "chapters": {
     "1": {
-      "title": "1",
+      "title": "The Prank",
       "volume": "1",
       "last_updated": "1545484560",
       "groups": {
@@ -253,6 +253,76 @@
           "https://pictures.hentai-foundry.com/s/StereoscopeComics/970775/StereoscopeComics-970775-Black_Label_pg_194.png",
           "https://pictures.hentai-foundry.com/s/StereoscopeComics/973346/StereoscopeComics-973346-Black_Label_pg_195.png",
           "https://pictures.hentai-foundry.com/s/StereoscopeComics/974741/StereoscopeComics-974741-Black_Label_pg_196.png"
+        ]
+      }
+    },
+    "6.5": {
+      "title": "Arc 1 Epilogue",
+      "volume": "1",
+      "last_updated": "1651936429",
+      "groups": {
+        "wasu": [
+          ""
+        ]
+      }
+    },
+    "1.1": {
+      "title": "Boink",
+      "volume": "1",
+      "last_updated": "1651939877",
+      "groups": {
+        "wasu": [
+          "https://pictures.hentai-foundry.com/s/StereoscopeComics/525678/StereoscopeComics-525678-Boink.jpg"
+        ]
+      }
+    },
+    "2.1": {
+      "title": "The Prank Bonus Comic",
+      "volume": "1",
+      "last_updated": "1651939948",
+      "groups": {
+        "wasu": [
+          "https://pictures.hentai-foundry.com/s/StereoscopeComics/547427/StereoscopeComics-547427-The_Prank_Bonus_Comic_The_Meeting.jpg"
+        ]
+      }
+    },
+    "2.2": {
+      "title": "Chapter 2 Bonus Comic 2 [context on page 80]",
+      "volume": "1",
+      "last_updated": "1651940019",
+      "groups": {
+        "wasu": [
+          "https://pictures.hentai-foundry.com/s/StereoscopeComics/827183/StereoscopeComics-827183-Black_Label_Chapter_2_Bonus_Comic_2.png"
+        ]
+      }
+    },
+    "4.1": {
+      "title": "Chapter 4 Bonus Comic 1 [context on page 122]",
+      "volume": "1",
+      "last_updated": "1651940174",
+      "groups": {
+        "wasu": [
+          "https://pictures.hentai-foundry.com/s/StereoscopeComics/823117/StereoscopeComics-823117-Black_Label_Chapter_4_Bonus_Comic_1.png"
+        ]
+      }
+    },
+    "4.2": {
+      "title": "Chapter 4 Bonus Comic 2",
+      "volume": "1",
+      "last_updated": "1651940228",
+      "groups": {
+        "wasu": [
+          "https://pictures.hentai-foundry.com/s/StereoscopeComics/825334/StereoscopeComics-825334-Black_Label_Chapter_4_Bonus_Comic_2.png"
+        ]
+      }
+    },
+    "5.1": {
+      "title": "Chapter 5 Bonus Comic",
+      "volume": "1",
+      "last_updated": "1651940268",
+      "groups": {
+        "wasu": [
+          "https://pictures.hentai-foundry.com/s/StereoscopeComics/893151/StereoscopeComics-893151-Black_Label_Chapter_5_Bonus_Comic.png"
         ]
       }
     }
