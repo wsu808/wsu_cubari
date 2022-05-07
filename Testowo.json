@@ -1,0 +1,32 @@
+{
+  "title": "Testowo",
+  "description": "tst_desc",
+  "artist": "tst_artist",
+  "author": "tst_author",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1651929880",
+      "groups": {
+        "": [
+          "https://familiar.soushiyo.com/wp-content/uploads/2022/04/2022_cover19-1.jpg",
+          "https://familiar.soushiyo.com/wp-content/uploads/2022/04/Familiar_2x_HEAT_-tinified.jpg"
+        ]
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1651929917",
+      "groups": {
+        "": [
+          "",
+          "https://familiar.soushiyo.com/wp-content/uploads/2022/04/Familiar_2x_HEAT_19-tinified.jpg",
+          "https://familiar.soushiyo.com/wp-content/uploads/2022/04/Familiar_2x_HEAT_20-tinified.jpg"
+        ]
+      }
+    }
+  }
+}
