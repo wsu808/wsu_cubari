@@ -17,10 +17,7 @@
           "http://i.imgur.com/07LoP76.jpg",
           "http://i.imgur.com/AeosT1V.jpg",
           "http://i.imgur.com/te19Ozv.jpg",
-          "http://i.imgur.com/mR6FshQ.jpg",
-          "http://i.imgur.com/wTO6t8C.jpg",
-          "http://i.imgur.com/d42ilE8.jpg",
-          ""
+          "http://i.imgur.com/mR6FshQ.jpg"
         ]
       }
     },
@@ -30,6 +27,8 @@
       "last_updated": "1651859101",
       "groups": {
         "": [
+          "http://i.imgur.com/wTO6t8C.jpg",
+          "http://i.imgur.com/d42ilE8.jpg",
           "https://i.imgur.com/qpavDIQ.jpg",
           "https://i.imgur.com/t4mH9gE.jpg"
         ]
