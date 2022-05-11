@@ -7,7 +7,7 @@
   "chapters": {
     "0": {
       "title": "Familiar",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1569023943",
       "groups": {
         "wasu": [
@@ -43,7 +43,7 @@
     },
     "1": {
       "title": "Diana",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1569067764",
       "groups": {
         "wasu": [
@@ -80,7 +80,7 @@
     },
     "2": {
       "title": "Jack",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1569067872",
       "groups": {
         "wasu": [
@@ -116,7 +116,7 @@
     },
     "3": {
       "title": "Interview",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1569068088",
       "groups": {
         "wasu": [
@@ -151,7 +151,7 @@
     },
     "4": {
       "title": "Frame",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1572527856",
       "groups": {
         "wasu": [
@@ -187,7 +187,7 @@
     },
     "5": {
       "title": "Contract",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1577798323",
       "groups": {
         "wasu": [
@@ -223,7 +223,7 @@
     },
     "6": {
       "title": "Sir",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1582809826",
       "groups": {
         "wasu": [
@@ -260,7 +260,7 @@
     },
     "7": {
       "title": "Center",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1593520270",
       "groups": {
         "wasu": [
@@ -293,7 +293,7 @@
     },
     "8": {
       "title": "Firebird",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1601469637",
       "groups": {
         "wasu": [
@@ -328,7 +328,7 @@
     },
     "9": {
       "title": "Wick",
-      "volume": "",
+      "volume": "2",
       "last_updated": "1617194797",
       "groups": {
         "wasu": [
@@ -365,7 +365,7 @@
     },
     "10": {
       "title": "Four",
-      "volume": "",
+      "volume": "2",
       "last_updated": "1622465318",
       "groups": {
         "wasu": [
@@ -402,7 +402,7 @@
     },
     "11": {
       "title": "Switch",
-      "volume": "",
+      "volume": "2",
       "last_updated": "1633007130",
       "groups": {
         "wasu": [
@@ -441,7 +441,7 @@
     },
     "12": {
       "title": "Invitation",
-      "volume": "",
+      "volume": "2",
       "last_updated": "1646057417",
       "groups": {
         "wasu": [
@@ -474,9 +474,9 @@
         ]
       }
     },
-    "1.1": {
+    "6.5": {
       "title": "Gift",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1588249616",
       "groups": {
         "wasu": [
@@ -506,9 +506,9 @@
         ]
       }
     },
-    "1.2": {
+    "7.5": {
       "title": "Desk Job",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1598877276",
       "groups": {
         "wasu": [
@@ -534,9 +534,9 @@
         ]
       }
     },
-    "2.1": {
+    "8.5": {
       "title": "Elixir",
-      "volume": "",
+      "volume": "2",
       "last_updated": "1606743813",
       "groups": {
         "wasu": [
@@ -567,9 +567,9 @@
         ]
       }
     },
-    "2.2": {
+    "10.5": {
       "title": "Please",
-      "volume": "",
+      "volume": "2",
       "last_updated": "1627735862",
       "groups": {
         "wasu": [
@@ -596,9 +596,9 @@
         ]
       }
     },
-    "2.3": {
+    "11.5": {
       "title": "Gaze",
-      "volume": "",
+      "volume": "2",
       "last_updated": "1638281341",
       "groups": {
         "wasu": [
@@ -623,9 +623,9 @@
         ]
       }
     },
-    "2.4": {
+    "12.5": {
       "title": "Heat",
-      "volume": "",
+      "volume": "2",
       "last_updated": "1651324409",
       "groups": {
         "wasu": [
