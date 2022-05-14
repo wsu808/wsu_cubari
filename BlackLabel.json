@@ -195,7 +195,7 @@
           "https://pictures.hentai-foundry.com/s/StereoscopeComics/859286/StereoscopeComics-859286-Black_Label_pg_146.png",
           "https://pictures.hentai-foundry.com/s/StereoscopeComics/861477/StereoscopeComics-861477-Black_Label_pg_147.png",
           "https://pictures.hentai-foundry.com/s/StereoscopeComics/863087/StereoscopeComics-863087-Black_Label_pg_148.png",
-          "numeration error",
+          "https://pictures.hentai-foundry.com/s/StereoscopeComics/865353/StereoscopeComics-865353-Black_Label_149.jpg",
           "https://pictures.hentai-foundry.com/s/StereoscopeComics/881759/StereoscopeComics-881759-Black_Label_pg_150.png",
           "https://pictures.hentai-foundry.com/s/StereoscopeComics/883632/StereoscopeComics-883632-Black_Label_pg_151.png",
           "https://pictures.hentai-foundry.com/s/StereoscopeComics/885720/StereoscopeComics-885720-Black_Label_pg_152.png",
@@ -277,7 +277,7 @@
       }
     },
     "2.1": {
-      "title": "The Prank Bonus Comic",
+      "title": "The Meeting - The Prank Bonus Comic",
       "volume": "1",
       "last_updated": "1651939948",
       "groups": {
@@ -323,6 +323,16 @@
       "groups": {
         "wasu": [
           "https://pictures.hentai-foundry.com/s/StereoscopeComics/893151/StereoscopeComics-893151-Black_Label_Chapter_5_Bonus_Comic.png"
+        ]
+      }
+    },
+    "1.3": {
+      "title": "Backfire",
+      "volume": "1",
+      "last_updated": "1652563861",
+      "groups": {
+        "wasu": [
+          "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6ffc2edc-2a0d-4787-bd20-244ed7a9e05d/dbpoybo-814f1e16-8ddb-4edf-92c2-4e7ed81ce890.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZmZmMyZWRjLTJhMGQtNDc4Ny1iZDIwLTI0NGVkN2E5ZTA1ZFwvZGJwb3liby04MTRmMWUxNi04ZGRiLTRlZGYtOTJjMi00ZTdlZDgxY2U4OTAuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zRlKM3wUn43WxXDy9Fs2M2_99J5r9fzXLtBuuHXUSIM"
         ]
       }
     }
