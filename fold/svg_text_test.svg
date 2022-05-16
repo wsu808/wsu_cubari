@@ -1,0 +1,47 @@
+<svg width="100%" height="100%" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style>
+svg {
+	background-color:#3d3d3d;
+}
+text {
+	text-anchor: middle;
+	fill: whitesmoke;
+	font-size: 16px;
+	font-family:monospace;
+}
+
+.header {
+	font-size: 2em;
+	font-weight: bold;
+}
+
+.content {
+
+}
+
+.footer {
+	fill: gray;
+	font-size: 10px;
+}
+</style>
+
+
+  
+  
+
+	<text class="header" x="50%" y="10%" >
+		This is text in svg file
+	</text>
+	
+	
+	
+	<text class="content" x="50%" y="40%" >
+		<tspan x="50%" y="35%" >it may be easier to to forward info like that in cases </tspan>
+		<tspan x="50%" y="40%" >where image format is enforced</tspan>
+		
+	</text>
+	<text class="footer" x="50%" y="95%" >
+		made with 🍆 by 
+		
+	</text>
+</svg>
