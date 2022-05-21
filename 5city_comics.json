@@ -1,0 +1,147 @@
+{
+  "title": "5city - Zbiór Komiksów",
+  "description": "KONTEKST:\nCH.5 - https://twitter.com/QSzija/status/1429485771279503370\n\nŹródło: twitter.com/MrXylax",
+  "artist": "Xylax",
+  "author": "Xylax",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "Prezent",
+      "volume": "",
+      "last_updated": "1627882020",
+      "groups": {
+        "Xylax": [
+          "https://pbs.twimg.com/media/E7zWycVXsAswPHn?format=jpg&name=medium",
+          "https://pbs.twimg.com/media/E7zWycRWUAYSKVh?format=jpg&name=medium"
+        ]
+      }
+    },
+    "2": {
+      "title": "To Pastor",
+      "volume": "",
+      "last_updated": "1629274860",
+      "groups": {
+        "Xylax": [
+          "https://pbs.twimg.com/media/E9GYE5XWQAE-kAa?format=jpg&name=900x900"
+        ]
+      }
+    },
+    "3": {
+      "title": "Dasz się porwać? [Oneshot]",
+      "volume": "",
+      "last_updated": "1629533340",
+      "groups": {
+        "Xylax": [
+          "https://pbs.twimg.com/media/E9VyIzZXMAILCNK?format=jpg&name=medium",
+          "https://pbs.twimg.com/media/E9VyIzWWQAEKjLu?format=jpg&name=medium",
+          "https://pbs.twimg.com/media/E9VyIzfXEAAd2ab?format=jpg&name=medium",
+          "https://pbs.twimg.com/media/E9VyIzXXEAoxQFM?format=jpg&name=medium",
+          "https://pbs.twimg.com/media/E9VyJV-XEA0pVnj?format=jpg&name=medium",
+          "https://pbs.twimg.com/media/E9VyJWXWUAQ8F2z?format=jpg&name=medium",
+          "https://pbs.twimg.com/media/E9VyJWtXEAEFVJi?format=jpg&name=medium",
+          "https://pbs.twimg.com/media/E9VyJXJXEAQUMIL?format=jpg&name=medium"
+        ]
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "",
+      "last_updated": "1629771720",
+      "groups": {
+        "Xylax": [
+          "https://pbs.twimg.com/media/E9j_TJbWEA4uz3r?format=jpg&name=900x900"
+        ]
+      }
+    },
+    "5": {
+      "title": "5",
+      "volume": "",
+      "last_updated": "1629600420",
+      "groups": {
+        "Xylax": [
+          "https://pbs.twimg.com/media/E9uYTdOVIAEYw92?format=jpg&name=medium"
+        ]
+      }
+    },
+    "6": {
+      "title": "Kłamałem",
+      "volume": "",
+      "last_updated": "1662804660",
+      "groups": {
+        "Xylax": [
+          "https://pbs.twimg.com/media/E-6o_E_XMAUXsSg?format=jpg&name=medium"
+        ]
+      }
+    },
+    "7": {
+      "title": "Masło",
+      "volume": "",
+      "last_updated": "1637994840",
+      "groups": {
+        "Xylax": [
+          "https://pbs.twimg.com/media/FFOHxnHXsAojgmU?format=jpg&name=medium"
+        ]
+      }
+    },
+    "8": {
+      "title": "Jemioła dla Grzecha",
+      "volume": "",
+      "last_updated": "1638933840",
+      "groups": {
+        "Xylax": [
+          "https://pbs.twimg.com/media/FGDhFEGXwAUCscG?format=jpg&name=large"
+        ]
+      }
+    },
+    "9": {
+      "title": "Kolońska i Szlugi",
+      "volume": "",
+      "last_updated": "1640056200",
+      "groups": {
+        "Xylax": [
+          "https://pbs.twimg.com/media/FHI_GKvXMAIy-Gz?format=jpg&name=4096x4096"
+        ]
+      }
+    },
+    "10": {
+      "title": "Walentynkowy komiksik",
+      "volume": "",
+      "last_updated": "1644828240",
+      "groups": {
+        "Xylax": [
+          "https://pbs.twimg.com/media/FLla_eZWUAQVrE5?format=jpg&name=large"
+        ]
+      }
+    },
+    "11": {
+      "title": "\"Ja Ciebie też\"",
+      "volume": "",
+      "last_updated": "1644984720",
+      "groups": {
+        "Xylax": [
+          "https://pbs.twimg.com/media/FLsLnhcWYAE9SJL?format=jpg&name=large"
+        ]
+      }
+    },
+    "12": {
+      "title": "Nożyk",
+      "volume": "",
+      "last_updated": "1646274540",
+      "groups": {
+        "Xylax": [
+          "https://pbs.twimg.com/media/FM7ohK9VgAEJP0I?format=jpg&name=large"
+        ]
+      }
+    },
+    "13": {
+      "title": "Rozprawa",
+      "volume": "",
+      "last_updated": "1653034860",
+      "groups": {
+        "Xylax": [
+          "https://pbs.twimg.com/media/FTOk4F3XoAERka_?format=jpg&name=medium"
+        ]
+      }
+    }
+  }
+}
