@@ -5,9 +5,8 @@
   "author": "Tatsuya Ishida",
   "cover": "https://sinfest.xyz/favicon.ico",
   "chapters": {
-    "1": {
+    "0": {
       "title": "2000",
-      "volume": "",
       "last_updated": "978217631",
       "groups": {
         "wasu": [
@@ -356,9 +355,8 @@
         ]
       }
     },
-    "2": {
+    "1": {
       "title": "2001",
-      "volume": "",
       "last_updated": "1009753904",
       "groups": {
         "wasu": [
@@ -730,9 +728,8 @@
         ]
       }
     },
-    "3": {
+    "2": {
       "title": "2002",
-      "volume": "",
       "last_updated": "1041289951",
       "groups": {
         "wasu": [
@@ -1104,9 +1101,8 @@
         ]
       }
     },
-    "4": {
+    "3": {
       "title": "2003",
-      "volume": "",
       "last_updated": "1072826016",
       "groups": {
         "wasu": [
@@ -1478,9 +1474,8 @@
         ]
       }
     },
-    "5": {
+    "4": {
       "title": "2004",
-      "volume": "",
       "last_updated": "1104448514",
       "groups": {
         "wasu": [
@@ -1833,9 +1828,8 @@
         ]
       }
     },
-    "6": {
+    "5": {
       "title": "2005",
-      "volume": "",
       "last_updated": "1135987136",
       "groups": {
         "wasu": [
@@ -2115,9 +2109,8 @@
         ]
       }
     },
-    "7": {
+    "6": {
       "title": "2006",
-      "volume": "",
       "last_updated": "1167523183",
       "groups": {
         "wasu": [
@@ -2376,9 +2369,8 @@
         ]
       }
     },
-    "8": {
+    "7": {
       "title": "2007",
-      "volume": "",
       "last_updated": "1199059247",
       "groups": {
         "wasu": [
@@ -2751,9 +2743,8 @@
         ]
       }
     },
-    "9": {
+    "8": {
       "title": "2008",
-      "volume": "",
       "last_updated": "1230681691",
       "groups": {
         "wasu": [
@@ -3126,9 +3117,8 @@
         ]
       }
     },
-    "10": {
+    "9": {
       "title": "2009",
-      "volume": "",
       "last_updated": "1262217757",
       "groups": {
         "wasu": [
@@ -3500,9 +3490,8 @@
         ]
       }
     },
-    "11": {
+    "10": {
       "title": "2010",
-      "volume": "",
       "last_updated": "1293753804",
       "groups": {
         "wasu": [
@@ -3874,9 +3863,8 @@
         ]
       }
     },
-    "12": {
+    "11": {
       "title": "2011",
-      "volume": "",
       "last_updated": "1325289929",
       "groups": {
         "wasu": [
@@ -4248,9 +4236,8 @@
         ]
       }
     },
-    "13": {
+    "12": {
       "title": "2012",
-      "volume": "",
       "last_updated": "1356912354",
       "groups": {
         "wasu": [
@@ -4624,9 +4611,8 @@
         ]
       }
     },
-    "14": {
+    "13": {
       "title": "2013",
-      "volume": "",
       "last_updated": "1388448393",
       "groups": {
         "wasu": [
@@ -4998,9 +4984,8 @@
         ]
       }
     },
-    "15": {
+    "14": {
       "title": "2014",
-      "volume": "",
       "last_updated": "1419984432",
       "groups": {
         "wasu": [
@@ -5373,9 +5358,8 @@
         ]
       }
     },
-    "16": {
+    "15": {
       "title": "2015",
-      "volume": "",
       "last_updated": "1451520489",
       "groups": {
         "wasu": [
@@ -5747,9 +5731,8 @@
         ]
       }
     },
-    "17": {
+    "16": {
       "title": "2016",
-      "volume": "",
       "last_updated": "1483142929",
       "groups": {
         "wasu": [
@@ -6122,9 +6105,8 @@
         ]
       }
     },
-    "18": {
+    "17": {
       "title": "2017",
-      "volume": "",
       "last_updated": "1514678954",
       "groups": {
         "wasu": [
@@ -6496,9 +6478,8 @@
         ]
       }
     },
-    "19": {
+    "18": {
       "title": "2018",
-      "volume": "",
       "last_updated": "1546214999",
       "groups": {
         "wasu": [
@@ -6870,9 +6851,8 @@
         ]
       }
     },
-    "20": {
+    "19": {
       "title": "2019",
-      "volume": "",
       "last_updated": "1577751043",
       "groups": {
         "wasu": [
@@ -7244,9 +7224,8 @@
         ]
       }
     },
-    "21": {
+    "20": {
       "title": "2020",
-      "volume": "",
       "last_updated": "1609373492",
       "groups": {
         "wasu": [
@@ -7619,9 +7598,8 @@
         ]
       }
     },
-    "22": {
+    "21": {
       "title": "2021",
-      "volume": "",
       "last_updated": "1640910211",
       "groups": {
         "wasu": [
