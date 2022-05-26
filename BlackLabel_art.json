@@ -40,8 +40,8 @@
         ]
       }
     },
-    "4": {
-      "title": "Too Much To Handle",
+    "26.1": {
+      "title": "Q&A: Too Much To Handle",
       "volume": "1",
       "last_updated": "1651941656",
       "groups": {
@@ -52,8 +52,8 @@
         ]
       }
     },
-    "5": {
-      "title": "She Makes Them",
+    "26.2": {
+      "title": "Q&A: She Makes Them",
       "volume": "1",
       "last_updated": "1651941674",
       "groups": {
@@ -83,7 +83,7 @@
         ]
       }
     },
-    "8": {
+    "26.3": {
       "title": "Q&A: Favorite Position",
       "volume": "1",
       "last_updated": "1651941733",
@@ -93,7 +93,7 @@
         ]
       }
     },
-    "9": {
+    "26.4": {
       "title": "Q&A: How did you meet?",
       "volume": "1",
       "last_updated": "1651941762",
@@ -105,7 +105,7 @@
         ]
       }
     },
-    "10": {
+    "11.1": {
       "title": "Valentine's Day Comic Uncesored Highlights",
       "volume": "1",
       "last_updated": "1651941841",
@@ -116,7 +116,7 @@
       }
     },
     "11": {
-      "title": "Valentine's Day Comic Pt.1",
+      "title": "Valentine's Day Comic Pt.1/2",
       "volume": "1",
       "last_updated": "1651941859",
       "groups": {
@@ -142,8 +142,8 @@
         ]
       }
     },
-    "13": {
-      "title": "Meet Black Label Characters",
+    "99": {
+      "title": "Artwork: Meet Black Label Characters",
       "volume": "2",
       "last_updated": "1651942126",
       "groups": {
@@ -155,8 +155,8 @@
         ]
       }
     },
-    "14": {
-      "title": "Black & White",
+    "99.1": {
+      "title": "Artwork: Black & White",
       "volume": "2",
       "last_updated": "1651942158",
       "groups": {
@@ -182,8 +182,8 @@
         ]
       }
     },
-    "15": {
-      "title": "Semi Color",
+    "99.2": {
+      "title": "Artwork: Semi Color",
       "volume": "2",
       "last_updated": "1651942238",
       "groups": {
@@ -197,8 +197,8 @@
         ]
       }
     },
-    "16": {
-      "title": "In Color",
+    "99.3": {
+      "title": "Artwork: In Color",
       "volume": "2",
       "last_updated": "1651942317",
       "groups": {
@@ -307,7 +307,7 @@
         ]
       }
     },
-    "23": {
+    "99.5": {
       "title": "covers",
       "volume": "2",
       "last_updated": "1652565412",
