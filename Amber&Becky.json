@@ -18,7 +18,7 @@
       "volume": "",
       "last_updated": "1656164624",
       "groups": {
-        "": "http://imgur.com/a/bsQoPp3"
+        "": "/proxy/api/imgur/chapter/bsQoPp3/"
       }
     },
     "3": {
@@ -26,7 +26,7 @@
       "volume": "",
       "last_updated": "1656164648",
       "groups": {
-        "": "http://imgur.com/a/IZ3FiLa"
+        "": "/proxy/api/imgur/chapter/IZ3FiLa/"
       }
     }
   }
