@@ -1,0 +1,33 @@
+{
+  "title": "Amber & Becky",
+  "description": "",
+  "artist": "Leslie Brown",
+  "author": "Brad Brown",
+  "cover": "https://i.imgur.com/YYVpHsx.jpeg",
+  "chapters": {
+    "1": {
+      "title": "Night Walk",
+      "volume": "",
+      "last_updated": "1656164569",
+      "groups": {
+        "": "http://imgur.com/a/m9SfecE"
+      }
+    },
+    "2": {
+      "title": "Show and Tell",
+      "volume": "",
+      "last_updated": "1656164624",
+      "groups": {
+        "": "http://imgur.com/a/bsQoPp3"
+      }
+    },
+    "3": {
+      "title": "Touchy Feely",
+      "volume": "",
+      "last_updated": "1656164648",
+      "groups": {
+        "": "http://imgur.com/a/IZ3FiLa"
+      }
+    }
+  }
+}
