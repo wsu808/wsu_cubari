@@ -1,0 +1,33 @@
+{
+  "title": "The Wizard's Apprentice",
+  "description": "This commission was done for me by the wonderful Layru. ^^ twitter/_layru\n",
+  "artist": "HopeTG",
+  "author": "_layru",
+  "cover": "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2021/10/10/03/06/05/93340704_p0_master1200.jpg",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1657062903",
+      "groups": {
+        "": [
+          "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2021/10/10/03/06/05/93340704_p0_master1200.jpg",
+          "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2021/10/10/03/06/05/93340704_p1_master1200.jpg",
+          "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2021/10/10/03/06/05/93340704_p2_master1200.jpg",
+          "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2021/10/10/03/06/05/93340704_p3_master1200.jpg",
+          "https://i.pximg.net/c/600x1200_90_webp/img-master/img/2021/10/10/03/06/05/93340704_p4_master1200.jpg"
+        ]
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1657063244",
+      "groups": {
+        "": [
+          "https://www.pixiv.net/en/artworks/93387099#big_0"
+        ]
+      }
+    }
+  }
+}
