@@ -28,6 +28,30 @@
           "https://i.imgur.com/UheeZc0.jpg"
         ]
       }
+    },
+    "3": {
+      "title": "The Wizard's Apprentice",
+      "volume": "",
+      "last_updated": "1657212747",
+      "groups": {
+        "": [
+          "https://i.imgur.com/kE7niRA.jpg",
+          "https://i.imgur.com/HUWGu53.jpg",
+          "https://i.imgur.com/Xox7UdD.jpg",
+          "https://i.imgur.com/8Xmo2OF.jpg",
+          "https://i.imgur.com/GHyGJnH.jpg"
+        ]
+      }
+    },
+    "4": {
+      "title": "The Wizard's Apprentice Epilogue",
+      "volume": "",
+      "last_updated": "1657212761",
+      "groups": {
+        "": [
+          "https://i.imgur.com/UheeZc0.jpg"
+        ]
+      }
     }
   }
 }
