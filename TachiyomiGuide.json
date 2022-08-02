@@ -1,0 +1,63 @@
+{
+  "title": "Tachiyomi's How To",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "https://pbs.twimg.com/profile_banners/1321498678629146624/1613181228/1500x500",
+  "chapters": {
+    "1": {
+      "title": "Learn how to organize your library by using categories!",
+      "volume": "",
+      "last_updated": "1659434031",
+      "groups": {
+        "Tachiyomi on Twitter": [
+          "https://pbs.twimg.com/media/FZFFhIgVQAAT3Tz?format=jpg&name=4096x4096",
+          "https://pbs.twimg.com/media/FZFFhgAVUAEZ_bm?format=jpg&name=4096x4096"
+        ]
+      }
+    },
+    "2": {
+      "title": "Automatically sync your read chapters by using Tracking sites!",
+      "volume": "",
+      "last_updated": "1659434063",
+      "groups": {
+        "Tachiyomi on Twitter": [
+          "https://pbs.twimg.com/media/FY0XH_BUIAEHkZU?format=jpg&name=4096x4096",
+          "https://pbs.twimg.com/media/FY0XI1pVQAEerob?format=jpg&name=4096x4096"
+        ]
+      }
+    },
+    "3": {
+      "title": "Do you have a backup of your library in case something happens?",
+      "volume": "",
+      "last_updated": "1659434086",
+      "groups": {
+        "Tachiyomi on Twitter": [
+          "https://pbs.twimg.com/media/FYgdn9KXgAAOEbC?format=jpg&name=large",
+          "https://pbs.twimg.com/media/FYgdogZWAAEqGTm?format=jpg&name=large"
+        ]
+      }
+    },
+    "4": {
+      "title": "Want to learn how to update all extensions at once? Read about Shizuku below!",
+      "volume": "",
+      "last_updated": "1659434103",
+      "groups": {
+        "Tachiyomi on Twitter": [
+          "https://pbs.twimg.com/media/FYQno5yacAASoPa?format=jpg&name=4096x4096",
+          "https://pbs.twimg.com/media/FYQoD-XaQAAgVDs?format=jpg&name=4096x4096"
+        ]
+      }
+    },
+    "5": {
+      "title": "5 Google img test",
+      "volume": "",
+      "last_updated": "1659434964",
+      "groups": {
+        "Tachiyomi on Twitter": [
+          "https://docs.google.com/drawings/d/1TnwUKQigyQWYvb7P3utjy2cZQIF705GTx7PawEhdQMc/edit?usp=sharing"
+        ]
+      }
+    }
+  }
+}
