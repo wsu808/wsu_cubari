@@ -1,0 +1,63 @@
+{
+  "title": "Testowo",
+  "description": "tst_desc",
+  "artist": "tst_artist",
+  "author": "tst_author",
+  "cover": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F6e%2F2d%2F1b%2F6e2d1bce7df196ad77a26198f3c9c4ad.jpg&f=1&nofb=1",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1651929880",
+      "groups": {
+        "": [
+          "https://familiar.soushiyo.com/wp-content/uploads/2022/04/2022_cover19-1.jpg",
+          "https://familiar.soushiyo.com/wp-content/uploads/2022/04/Familiar_2x_HEAT_-tinified.jpg"
+        ]
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1651929917",
+      "groups": {
+        "": [
+          "",
+          "https://familiar.soushiyo.com/wp-content/uploads/2022/04/Familiar_2x_HEAT_19-tinified.jpg",
+          "https://familiar.soushiyo.com/wp-content/uploads/2022/04/Familiar_2x_HEAT_20-tinified.jpg"
+        ]
+      }
+    },
+    "3": {
+      "title": "SVG text test",
+      "volume": "",
+      "last_updated": "1652700114",
+      "groups": {
+        "": [
+          "https://raw.githubusercontent.com/wsu808/wsu_cubari/master/fold/text_test.svg",
+          "https://raw.githubusercontent.com/wsu808/wsu_cubari/master/fold/svg_test.html"
+        ]
+      }
+    },
+    "4": {
+      "title": "mp4 test",
+      "volume": "",
+      "last_updated": "1658074947",
+      "groups": {
+        "": [
+          "https://wixmp-ed30a86b8c4ca887773594c2.wixmp.com/v/mp4/89627bbc-6d22-4b3a-8044-5a790083467d/del2qgx-e97e6bd7-4c20-414f-8dde-57357db9aca4.VideoQualities.res_720p.846f65fe5e0c470996a9df6432190ce6.mp4"
+        ]
+      }
+    },
+    "5": {
+      "title": "5 pixiv pink",
+      "volume": "",
+      "last_updated": "1659630992",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    }
+  }
+}
