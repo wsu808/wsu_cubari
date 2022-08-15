@@ -135,6 +135,19 @@
         ]
       }
     },
+    "11": {
+      "title": "11",
+      "volume": "",
+      "last_updated": "1660558318",
+      "groups": {
+        "": [
+          "https://pbs.twimg.com/media/FZv-wfCX0AAjA7c?format=jpg&name=4096x4096",
+          "https://pbs.twimg.com/media/FZv-w-sWYAIxEo9?format=jpg&name=4096x4096",
+          "https://pbs.twimg.com/media/FZv-xU8XEAIxCFl?format=jpg&name=4096x4096",
+          "https://pbs.twimg.com/media/FZv-yFTXwAcgbQV?format=jpg&name=4096x4096"
+        ]
+      }
+    },
     "10.5": {
       "title": "10.5",
       "volume": "",
