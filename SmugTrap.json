@@ -1,0 +1,48 @@
+{
+  "title": "Smug Trap",
+  "description": "\n\n-ˋˏ✄┈┈┈┈┈┈┈┈┈┈\ntwitter.com/paxiti",
+  "artist": "Pas",
+  "author": "Pas",
+  "cover": "https://pbs.twimg.com/media/Dd49PNRU8AAUlFy?format=jpg&name=large",
+  "chapters": {
+    "0": {
+      "title": "0",
+      "volume": "",
+      "last_updated": "1660558132",
+      "groups": {
+        "": [
+          "https://pbs.twimg.com/media/DPAN4oXUQAAbqFZ?format=jpg&name=large",
+          "https://pbs.twimg.com/media/DPAN52pUQAASfpk?format=jpg&name=large",
+          "https://pbs.twimg.com/media/DPAN6erUIAA4Bc_?format=jpg&name=large",
+          "https://pbs.twimg.com/media/DPAN7AsVAAEoHAh?format=jpg&name=large"
+        ]
+      }
+    },
+    "1": {
+      "title": "Part 1",
+      "volume": "",
+      "last_updated": "1660558142",
+      "groups": {
+        "": [
+          "https://pbs.twimg.com/media/Dd49M2zV4AAdBtX?format=jpg&name=large",
+          "https://pbs.twimg.com/media/Dd49NsgV0AI13jY?format=jpg&name=large",
+          "https://pbs.twimg.com/media/Dd49OkcVAAMRArc?format=jpg&name=large",
+          "https://pbs.twimg.com/media/Dd49PNRU8AAUlFy?format=jpg&name=large"
+        ]
+      }
+    },
+    "2": {
+      "title": "Part 2",
+      "volume": "",
+      "last_updated": "1660558155",
+      "groups": {
+        "": [
+          "https://pbs.twimg.com/media/DenT1olVAAArbQ0?format=jpg&name=large",
+          "https://pbs.twimg.com/media/DenT2TUVAAA-D9J?format=jpg&name=large",
+          "https://pbs.twimg.com/media/DenT25vVAAMlWv3?format=jpg&name=large",
+          "https://pbs.twimg.com/media/DenT3Z7U0AAn71C?format=jpg&name=large"
+        ]
+      }
+    }
+  }
+}
