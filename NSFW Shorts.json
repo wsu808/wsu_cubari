@@ -1,0 +1,32 @@
+{
+  "title": "NSFW Shorts",
+  "description": "Vanilla but NSFW short comics from various artists",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "Future reading",
+      "volume": "",
+      "last_updated": "1660558513",
+      "groups": {
+        "mia :: twitter.com/miaormoa": [
+          "https://pbs.twimg.com/media/FZpQ2B7WIAAu4pa?format=jpg&name=large",
+          "https://pbs.twimg.com/media/FZpQ2B7WAAA-fG5?format=jpg&name=large"
+        ]
+      }
+    },
+    "2": {
+      "title": "Monster summoning",
+      "volume": "",
+      "last_updated": "1660558615",
+      "groups": {
+        "mia :: patreon.com/miaormoa": [
+          "https://pbs.twimg.com/media/FTjfvepWYAEbAPl?format=jpg&name=large",
+          "https://pbs.twimg.com/media/FTjfveqWAAEHdKG?format=jpg&name=large",
+          "https://pbs.twimg.com/media/FTjfviVWUAMySzL?format=jpg&name=large"
+        ]
+      }
+    }
+  }
+}
