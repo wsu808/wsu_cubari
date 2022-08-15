@@ -1,0 +1,39 @@
+{
+  "title": "Depressing Shorts",
+  "description": "Sad comics from various artists.",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "Fight on!",
+      "volume": "",
+      "last_updated": "1660558907",
+      "groups": {
+        "Pas :: twitter.com/paxiti": [
+          "https://pbs.twimg.com/media/EISZDFdXkAA9bUL?format=jpg&name=4096x4096",
+          "https://pbs.twimg.com/media/EISZDFdXkAEl-Ng?format=jpg&name=4096x4096",
+          "https://pbs.twimg.com/media/EISZDJxW4AIKsGw?format=jpg&name=4096x4096",
+          "https://pbs.twimg.com/media/EISZDJsWsAIcSKP?format=jpg&name=4096x4096",
+          "https://pbs.twimg.com/media/EISZKWBXsAELUCH?format=jpg&name=4096x4096",
+          "https://pbs.twimg.com/media/EISZKWEW4AcrHV7?format=jpg&name=4096x4096",
+          "https://pbs.twimg.com/media/EISZKWHXYAA8UpT?format=jpg&name=4096x4096",
+          "https://pbs.twimg.com/media/EISZKWbXYAAmN71?format=jpg&name=4096x4096"
+        ]
+      }
+    },
+    "2": {
+      "title": "Ink",
+      "volume": "",
+      "last_updated": "1660559002",
+      "groups": {
+        "Pas :: twitter.com/paxiti": [
+          "https://pbs.twimg.com/media/DfAoYR7VQAEcLH-?format=jpg&name=large",
+          "https://pbs.twimg.com/media/DfAoY8kUYAAIvcM?format=jpg&name=large",
+          "https://pbs.twimg.com/media/DfAoZvuVQAEf1T4?format=jpg&name=large",
+          "https://pbs.twimg.com/media/DfAoaUrUcAAHFwN?format=jpg&name=large"
+        ]
+      }
+    }
+  }
+}
