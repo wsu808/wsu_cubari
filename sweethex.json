@@ -17,6 +17,22 @@
         ]
       }
     },
+    "1": {
+      "title": "Sweet Hex Chapter 1",
+      "volume": "",
+      "last_updated": "1659824205",
+      "groups": {
+        "": [
+          "https://colodraws.com/wp-content/uploads/2022/07/colo_sh_0001.jpg",
+          "https://colodraws.com/wp-content/uploads/2022/07/colo_sh_0002.png",
+          "https://colodraws.com/wp-content/uploads/2022/08/colo_sh_0003-1.png",
+          "https://colodraws.com/wp-content/uploads/2022/08/colo_sh_0004.png",
+          "https://colodraws.com/wp-content/uploads/2022/08/colo_sh_0005.png",
+          "https://colodraws.com/wp-content/uploads/2022/08/colo_sh_0006.png",
+          "https://colodraws.com/wp-content/uploads/2022/08/colo_sh_0007.png"
+        ]
+      }
+    },
     "0.1": {
       "title": "Sweet Hex Chapter 0",
       "volume": "",
@@ -85,19 +101,16 @@
         ]
       }
     },
-    "1": {
-      "title": "Sweet Hex Chapter 1",
+    "0.6": {
+      "title": "Sweet Hex Side Story: Camping trip",
       "volume": "",
-      "last_updated": "1659824205",
+      "last_updated": "1661087100",
       "groups": {
         "": [
-          "https://colodraws.com/wp-content/uploads/2022/07/colo_sh_0001.jpg",
-          "https://colodraws.com/wp-content/uploads/2022/07/colo_sh_0002.png",
-          "https://colodraws.com/wp-content/uploads/2022/08/colo_sh_0003-1.png",
-          "https://colodraws.com/wp-content/uploads/2022/08/colo_sh_0004.png",
-          "https://colodraws.com/wp-content/uploads/2022/08/colo_sh_0005.png",
-          "https://colodraws.com/wp-content/uploads/2022/08/colo_sh_0006.png",
-          "https://colodraws.com/wp-content/uploads/2022/08/colo_sh_0007.png"
+          "https://pbs.twimg.com/media/E-rTP6IUYAgRGYc?format=jpg&name=large",
+          "https://pbs.twimg.com/media/E-rTP6JUcAIU0zY?format=jpg&name=large",
+          "https://pbs.twimg.com/media/E-rTP6JVQAYnBqg?format=jpg&name=large",
+          "https://pbs.twimg.com/media/E-rTP6KVQAAKW5P?format=jpg&name=large"
         ]
       }
     }
