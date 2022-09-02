@@ -1,9 +1,9 @@
 {
-  "title": "SFWShorts",
-  "description": "",
+  "title": "SFW Shorts",
+  "description": "Compilation of short and wholesome stories from various authors.",
   "artist": "",
   "author": "",
-  "cover": "data:image/png;base64,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",
+  "cover": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F736x%2F32%2Fb3%2Fcc%2F32b3cc059522867d60079bd581289dab.jpg&f=1&nofb=1",
   "chapters": {
     "1": {
       "title": "So satisfying...",
@@ -40,6 +40,18 @@
           "https://64.media.tumblr.com/84be71208c37b2d9697ebbff50450801/tumblr_p7nu02HCZZ1qk3nw8o6_1280.png",
           "https://64.media.tumblr.com/1ff42677f50c69ef98d0829452c6ee2d/tumblr_p7nu02HCZZ1qk3nw8o7_1280.png",
           "https://64.media.tumblr.com/1e44067059e9681b9b4b2c021558e30b/tumblr_p7nu02HCZZ1qk3nw8o8_1280.png"
+        ]
+      }
+    },
+    "4": {
+      "title": "Badum badum 💞",
+      "volume": "",
+      "last_updated": "1662116001",
+      "groups": {
+        "LEMON :: twitter.com/LemonJooJoo": [
+          "https://pbs.twimg.com/media/FbbeYbAWQAA9Ata?format=jpg&name=large",
+          "https://pbs.twimg.com/media/FbbeYbCWQAkbqMh?format=jpg&name=large",
+          "https://pbs.twimg.com/media/FbmFLl9WAAktsJf?format=jpg&name=large"
         ]
       }
     },
