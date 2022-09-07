@@ -43,6 +43,19 @@
           "https://pbs.twimg.com/media/DenT3Z7U0AAn71C?format=jpg&name=large"
         ]
       }
+    },
+    "3": {
+      "title": "Part 3",
+      "volume": "",
+      "last_updated": "1662530552",
+      "groups": {
+        "": [
+          "https://pbs.twimg.com/media/FbaomKtVsAIeUmK?format=jpg&name=large",
+          "https://pbs.twimg.com/media/Fbaon99UcAcYJqa?format=jpg&name=large",
+          "https://pbs.twimg.com/media/FbaoqO5UsAcboeG?format=jpg&name=large",
+          "https://pbs.twimg.com/media/FbaorV5VsAUR8fW?format=jpg&name=large"
+        ]
+      }
     }
   }
 }
