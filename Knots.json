@@ -1,0 +1,38 @@
+{
+  "title": "Knots",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "Handcuff Knot",
+      "volume": "",
+      "last_updated": "1662799999",
+      "groups": {
+        "ℹ️ https://www.animatedknots.com/handcuff-knot": [
+          "https://www.animatedknots.com/photos/handcuff/handcuffR1.jpg",
+          "https://www.animatedknots.com/photos/handcuff/handcuffR2.jpg",
+          "https://www.animatedknots.com/photos/handcuff/handcuffR3.jpg",
+          "https://www.animatedknots.com/photos/handcuff/handcuffR4.jpg",
+          "https://www.animatedknots.com/photos/handcuff/handcuffR5.jpg",
+          "https://www.animatedknots.com/photos/handcuff/handcuffR6.jpg",
+          "https://www.animatedknots.com/photos/handcuff/handcuffR7.jpg",
+          "https://www.animatedknots.com/photos/handcuff/handcuffR8.jpg",
+          "https://www.animatedknots.com/photos/handcuff/handcuffR9.jpg"
+        ]
+      }
+    },
+    "2": {
+      "title": "Spanish Bowline",
+      "volume": "",
+      "last_updated": "1662800145",
+      "groups": {
+        "ℹ️ description at https://www.netknots.com/rope_knots/spanish-bowline": [
+          "https://www.netknots.com/application/files/3415/6079/6447/spanish-bowline-2.jpg",
+          ""
+        ]
+      }
+    }
+  }
+}
