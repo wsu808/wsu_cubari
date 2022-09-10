@@ -1,9 +1,9 @@
 {
   "title": "Knots",
-  "description": "",
+  "description": "\"ℹ️\" icon indicates source for the image and suitable for it description. It is placed in \"group\" field so ot can be displayed next to the chapter. Please visit it before trying to see the description and warnings for every knot.  ",
   "artist": "",
   "author": "",
-  "cover": "",
+  "cover": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.downloadclipart.net%2Flarge%2F33859-wedding-knot-clipart.png&f=1&nofb=1",
   "chapters": {
     "1": {
       "title": "Handcuff Knot",
@@ -28,7 +28,7 @@
       "volume": "",
       "last_updated": "1662800145",
       "groups": {
-        "ℹ️ description at https://www.netknots.com/rope_knots/spanish-bowline": [
+        "ℹ️ https://www.netknots.com/rope_knots/spanish-bowline": [
           "https://www.netknots.com/application/files/3415/6079/6447/spanish-bowline-2.jpg",
           "https://i.imgur.com/TOFvoMV.gif"
         ]
@@ -39,7 +39,7 @@
       "volume": "",
       "last_updated": "1662802773",
       "groups": {
-        "ℹ️ description at https://www.autostraddle.com/shibari-bondage-101-single-and-double-column-ties-350776/": [
+        "ℹ️ https://www.autostraddle.com/shibari-bondage-101-single-and-double-column-ties-350776/": [
           "https://www.autostraddle.com/wp-content/uploads/2016/09/single-column-step-1.gif?resize=480%2C270",
           "https://www.autostraddle.com/wp-content/uploads/2016/09/single-column-step-2.gif?resize=480%2C270",
           "https://www.autostraddle.com/wp-content/uploads/2016/09/single-column-step-3.gif?resize=480%2C270",
@@ -52,7 +52,7 @@
       "volume": "",
       "last_updated": "1662802939",
       "groups": {
-        "ℹ️ description at https://www.autostraddle.com/shibari-bondage-101-single-and-double-column-ties-350776/": [
+        "ℹ️ https://www.autostraddle.com/shibari-bondage-101-single-and-double-column-ties-350776/": [
           "https://www.autostraddle.com/wp-content/uploads/2016/09/double-column-step-1.gif?resize=480%2C270",
           "https://www.autostraddle.com/wp-content/uploads/2016/09/double-column-step-2.gif?resize=480%2C270",
           "https://www.autostraddle.com/wp-content/uploads/2016/09/double-column-step-3.gif?resize=480%2C270",
@@ -65,7 +65,7 @@
       "volume": "",
       "last_updated": "1662802867",
       "groups": {
-        "ℹ️ description at https://www.autostraddle.com/shibari-bondage-101-single-and-double-column-ties-350776/": [
+        "ℹ️ https://www.autostraddle.com/shibari-bondage-101-single-and-double-column-ties-350776/": [
           "https://www.autostraddle.com/wp-content/uploads/2016/09/pulley-system.gif?resize=480%2C270",
           "https://www.autostraddle.com/wp-content/uploads/2016/09/pulley-system-tie-off-1.gif?resize=480%2C270",
           "https://www.autostraddle.com/wp-content/uploads/2016/09/pulley-system-tie-off-2.gif?resize=480%2C270"
