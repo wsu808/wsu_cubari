@@ -6,7 +6,7 @@
   "cover": "https://reinbachart.com/wp-content/uploads/2021/09/TRWCH01.png",
   "chapters": {
     "1": {
-      "title": "Chapter One: Welcome To The World",
+      "title": "Chapter One - Welcome To The World",
       "volume": "",
       "last_updated": "1662837170",
       "groups": {
@@ -37,7 +37,7 @@
       }
     },
     "2": {
-      "title": "Chapter Two: Beside Manner",
+      "title": "Chapter Two - Beside Manner",
       "volume": "",
       "last_updated": "1662896122",
       "groups": {
@@ -76,7 +76,7 @@
       }
     },
     "3": {
-      "title": "Chapter Three: The Party",
+      "title": "Chapter Three - The Party",
       "volume": "",
       "last_updated": "1662896382",
       "groups": {
@@ -122,7 +122,7 @@
       }
     },
     "4": {
-      "title": "Chapter Four: A Day In Castlewood",
+      "title": "Chapter Four - A Day In Castlewood",
       "volume": "",
       "last_updated": "1662896631",
       "groups": {
@@ -167,7 +167,7 @@
       }
     },
     "5": {
-      "title": "Chapter Five: The Sleepover",
+      "title": "Chapter Five - The Sleepover",
       "volume": "",
       "last_updated": "1662896785",
       "groups": {
@@ -209,6 +209,71 @@
           "https://reinbachart.com/wp-content/uploads/2021/08/TRW0155.jpg",
           "https://reinbachart.com/wp-content/uploads/2021/08/TRW0156.jpg",
           "https://reinbachart.com/wp-content/uploads/2021/08/TRW0157.jpg"
+        ]
+      }
+    },
+    "6": {
+      "title": "Chapter Six – A Taste of Sci-Fi",
+      "volume": "",
+      "last_updated": "1662896951",
+      "groups": {
+        "": [
+          "https://reinbachart.com/wp-content/uploads/2021/09/TRWCH06.png",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0158.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0159.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0160.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0161.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0162.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0163.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0164.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0165.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0166.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0167.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0168.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0169.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0170.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0171.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0172.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0173.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0174.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0175.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0176.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0177.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0178.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0179.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0180.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0181.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0182.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0183.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0184.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0185.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0186.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0187.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0188.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0189.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0190.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0191.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0192.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0193.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0194.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0195.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0196.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0197.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0198.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0199.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0200.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0201.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0202.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0203.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0204.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0205.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0206.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/08/TRW0207.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/09/TRW0208.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/09/TRW0209.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/09/TRW0210.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/09/TRW0211.jpg",
+          "https://reinbachart.com/wp-content/uploads/2021/09/TRW0212.jpg"
         ]
       }
     }
