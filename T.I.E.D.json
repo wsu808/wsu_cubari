@@ -1,17 +1,39 @@
 {
   "title": "T.I.E.D - Team of Investigators and Experienced Detectives",
-  "description": "[PLACEHOLDER]",
+  "description": "[PLACEHOLDER]\n\nJust an average run of the mill DiD situation with lots of tape, rope, gags, gag sequences and more tape! it follows my OC's home made detective squad of misfits, think mystery inc. without the talking dog.",
   "artist": "Ryner-E",
   "author": "Ryner-E",
   "cover": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDWtlUdzV4AAAEZs.jpg&f=1&nofb=1&ipt=da8746ec8fc54bd311c634f6fedf4bfa5ed9fac97a5822edc5e1370254ea811b&ipo=images",
   "chapters": {
+    "0": {
+      "title": "Characters Overview",
+      "volume": "",
+      "last_updated": "1664183536",
+      "groups": {
+        "": [
+          "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fb5cee69-0b7b-4032-884a-deaa98ebf790/dc2qhxe-7d82deb5-c48f-49c3-b013-8f77f43e8f1e.jpg/v1/fill/w_1024,h_1340,q_75,strp/eric_by_ryner_e_dc2qhxe-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM0MCIsInBhdGgiOiJcL2ZcL2ZiNWNlZTY5LTBiN2ItNDAzMi04ODRhLWRlYWE5OGViZjc5MFwvZGMycWh4ZS03ZDgyZGViNS1jNDhmLTQ5YzMtYjAxMy04Zjc3ZjQzZThmMWUuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.y72JWRYk2o_SVHz1f4cEM8SK5mIXDnu0_cbMhN33e0k",
+          "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fb5cee69-0b7b-4032-884a-deaa98ebf790/dc2qhzw-cc18b531-c498-43b8-a37f-9c8cfff61a4e.jpg/v1/fill/w_1024,h_1340,q_75,strp/jenn_by_ryner_e_dc2qhzw-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM0MCIsInBhdGgiOiJcL2ZcL2ZiNWNlZTY5LTBiN2ItNDAzMi04ODRhLWRlYWE5OGViZjc5MFwvZGMycWh6dy1jYzE4YjUzMS1jNDk4LTQzYjgtYTM3Zi05YzhjZmZmNjFhNGUuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.vZoZe6DW2LiHuhiWXUpd31HgDBv-z1mbOoyCL_gWAl4",
+          "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fb5cee69-0b7b-4032-884a-deaa98ebf790/dc2qhy3-89fa0c8d-6b50-46a8-9772-3cd0dad559bb.jpg/v1/fill/w_1024,h_1340,q_75,strp/freya_by_ryner_e_dc2qhy3-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM0MCIsInBhdGgiOiJcL2ZcL2ZiNWNlZTY5LTBiN2ItNDAzMi04ODRhLWRlYWE5OGViZjc5MFwvZGMycWh5My04OWZhMGM4ZC02YjUwLTQ2YTgtOTc3Mi0zY2QwZGFkNTU5YmIuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.kG2wpu0EfKaxToZxa-s8Yj13izqMX44N_v3M99_8OyY"
+        ]
+      }
+    },
     "1": {
       "title": "Case File 1 - Just your average Kidnapping",
       "volume": "",
       "last_updated": "1664097443",
       "groups": {
         "": [
-          ""
+          "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fb5cee69-0b7b-4032-884a-deaa98ebf790/dc3yk9l-d9aded52-53c7-4231-acb8-dfef4c957a88.jpg/v1/fill/w_1024,h_1340,q_75,strp/t_i_e_d__by_ryner_e_dc3yk9l-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM0MCIsInBhdGgiOiJcL2ZcL2ZiNWNlZTY5LTBiN2ItNDAzMi04ODRhLWRlYWE5OGViZjc5MFwvZGMzeWs5bC1kOWFkZWQ1Mi01M2M3LTQyMzEtYWNiOC1kZmVmNGM5NTdhODguanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.49UwcRoAIIo9WM148WDwB_AeAZIUas3Bw-sZ4bQ3NmM"
+        ]
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1664183694",
+      "groups": {
+        "": [
+          "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fb5cee69-0b7b-4032-884a-deaa98ebf790/dcg22or-804ff0b8-cfd3-4535-b53f-752ada781c9c.jpg/v1/fill/w_1024,h_1340,q_75,strp/comic_chapter_2_by_ryner_e_dcg22or-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM0MCIsInBhdGgiOiJcL2ZcL2ZiNWNlZTY5LTBiN2ItNDAzMi04ODRhLWRlYWE5OGViZjc5MFwvZGNnMjJvci04MDRmZjBiOC1jZmQzLTQ1MzUtYjUzZi03NTJhZGE3ODFjOWMuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.AEOslFiL-mQzoe0XD8sTQSoobNWEMv5L4mYNz0jScQ8"
         ]
       }
     },
