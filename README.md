@@ -3,7 +3,7 @@
 </p>
 
 <p align=center>
-Read with <a href="https://cubari.moe">cubari.moe</a> or <a href="https://tachiyomi.org">Tachiyomi</a>
+Read with <a href="https://cubari.moe">Cubari</a> or <a href="https://tachiyomi.org">Tachiyomi</a>
 </p>
 
 ---
