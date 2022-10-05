@@ -1,20 +1,83 @@
 {
   "title": "Cursed Shorts",
-  "description": "",
+  "description": "Abandon All Hope Ye Who Enter Here",
   "artist": "",
   "author": "",
-  "cover": "",
+  "cover": "https://via.placeholder.com/512x768.jpg?text=DO+NOT+ENTER",
   "chapters": {
     "1": {
-      "title": "",
+      "title": "unavailable",
       "volume": "",
       "last_updated": "1664744454",
       "groups": {
-        "HWX :: twitter.com/xPcJ3Q9zbH9E13s": [
+        "pixiv.net/users/6053674": [
+          "https://via.placeholder.com/512x768.jpg?text=TW:+gore",
           "https://pbs.twimg.com/media/FWaV0aXakAAvTUX?format=jpg&name=900x900",
           "https://pbs.twimg.com/media/FWaV0cBakAASNzi?format=jpg&name=900x900",
           "https://pbs.twimg.com/media/FWaV0cCakAA_Ucp?format=jpg&name=900x900",
           "https://pbs.twimg.com/media/FWaV0eDaAAAcGvb?format=jpg&name=900x900"
+        ]
+      }
+    },
+    "2": {
+      "title": "unavailable",
+      "volume": "",
+      "last_updated": "1665002429",
+      "groups": {
+        "pixiv.net/users/6053674": [
+          "https://via.placeholder.com/512x768.jpg?text=TW:+gore",
+          "https://pbs.twimg.com/media/FWaWTs_agAAxEdA?format=jpg&name=small",
+          "https://pbs.twimg.com/media/FWaWTs_aMAASUU7?format=jpg&name=900x900",
+          "https://pbs.twimg.com/media/FWaWTvFagAEAEb2?format=jpg&name=small"
+        ]
+      }
+    },
+    "3": {
+      "title": "unavailable",
+      "volume": "",
+      "last_updated": "1665002490",
+      "groups": {
+        "pixiv.net/users/6053674": [
+          "https://via.placeholder.com/512x768.jpg?text=TW:+gore",
+          "https://pbs.twimg.com/media/FWaXZNKaQAAX_Ph?format=jpg&name=900x900",
+          "https://pbs.twimg.com/media/FWaXZLsaAAEEDTQ?format=jpg&name=900x900",
+          "https://pbs.twimg.com/media/FWaXZL4aIAAqM27?format=jpg&name=900x900",
+          "https://pbs.twimg.com/media/FWaXQjlagAA68my?format=jpg&name=900x900",
+          "https://pbs.twimg.com/media/FWaXQiQaAAIlMpB?format=jpg&name=900x900",
+          "https://pbs.twimg.com/media/FWaXQibakAAjqhd?format=jpg&name=900x900"
+        ]
+      }
+    },
+    "4": {
+      "title": "unavailable",
+      "volume": "",
+      "last_updated": "1665002505",
+      "groups": {
+        "pixiv.net/users/6053674": [
+          "https://via.placeholder.com/512x768.jpg?text=TW:+gore",
+          "https://pbs.twimg.com/media/FWaXd1wagAE_YCq?format=jpg&name=900x900",
+          "https://pbs.twimg.com/media/FWaXd1oagAEa6VY?format=jpg&name=900x900",
+          "https://pbs.twimg.com/media/FWaXd59aUAAzU-Y?format=jpg&name=large"
+        ]
+      }
+    },
+    "5": {
+      "title": "unavailable",
+      "volume": "",
+      "last_updated": "1665002514",
+      "groups": {
+        "pixiv.net/users/6053674": [
+          "https://via.placeholder.com/512x768.jpg?text=TW:+gore"
+        ]
+      }
+    },
+    "6": {
+      "title": "6",
+      "volume": "",
+      "last_updated": "1665002533",
+      "groups": {
+        "": [
+          ""
         ]
       }
     }
