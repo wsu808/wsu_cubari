@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        p#demo img {
+            max-width: 200px;
+            margin: 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <p id="demo"></p>
+
+    <script>
+        fetch('https://raw.githubusercontent.com/wsu808/wsu_cubari/gh-pages/links.json')
+            .then((response) => response.json())
+            .then((data) => {
+                var comicLinks = data.links;
+                var n=0;
+                for (var i = 0; i < data.links.length; i++) {
+                    fetch(data.links[i])
+                        .then((response2) => response2.json())
+                        .then((data2) => {
+                            var cubariLink = comicLinks[n];
+                            n++;
+                            cubariLink = cubariLink.replace('https://raw.githubusercontent.com','');
+                            cubariLink = 'raw' + cubariLink;
+                            cubariLink = btoa(cubariLink);
+                            cubariLink = 'https://cubari.moe/read/gist/' + cubariLink;
+                            document.getElementById("demo").innerHTML += '<a href="' + cubariLink + '"><img src="' + data2.cover + '"/></a>';
+                    });
+                };
+
+            });
+
+    </script>
+
+</body>
+
+</html>
