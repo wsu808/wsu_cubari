@@ -50,7 +50,8 @@
                 var cubariLink = getCubariURL(comicLinks[i].download_url);
                 document.getElementById('demo').innerHTML += '<a href="' + cubariLink + '" target="_blank">' + comicLinks[i].name + '</a><br>';
                 if (comicLinks[i].name.includes(".json")) {
-                    getCoverURL(comicLinks[i].download_url).then( (value) => {document.getElementById('demo').innerHTML += value + '<br>';} );
+                    const cvr = await getCoverURL(comicLinks[i].download_url);
+                    document.getElementById('demo').innerHTML += '<img src="' + cvr + '">' + '<br>';
                 } else {
                     document.getElementById('demo').innerHTML += "not a comic file" + '<br>';
                 }
