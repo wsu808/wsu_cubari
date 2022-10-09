@@ -5,7 +5,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>wasu's comic library</title>
+    <link rel="icon" type="image/png" href="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/322/open-book_1f4d6.png">
     <style>
         body {
             background-color: bisque;
@@ -35,11 +36,20 @@
         #demo div:hover {
             background-color:lightsteelblue;
         }
+
+        #progressbar {
+            width: 0;
+            position: fixed;
+            top: 0;
+            left: 0;
+            border-top: 5px solid #00B0F0;
+        }
         
     </style>
 </head>
 
 <body>
+    <div id="progressbar"></div>
     <p id="demo"></p>
 
     <script>
@@ -52,17 +62,23 @@
                 var elem = '<a href="' + cubariLink + '" target="_blank">' + '<div>'; 
                 if (comicLinks[i].name.includes(".json")) {
                     const cvr = await getCoverURL(comicLinks[i].download_url);
-                    //document.getElementById('demo').innerHTML += '<img src="' + cvr + '">' + '<br>';
                     elem += '<img src="' + cvr + '">' + '<br>';
                 } else {
-                    //document.getElementById('demo').innerHTML += "not a comic file" + '<br>';
                     elem += "not a comic file" + '<br>';
                 }
                 elem += comicLinks[i].name + '</div></a>';
-                //document.getElementById('demo').innerHTML += '<a href="' + cubariLink + '" target="_blank">' + comicLinks[i].name + '</a>';
                 document.getElementById('demo').innerHTML += elem;
+                //progressbar
+                var progress = i*100/comicLinks.length;
+                if(progress>95) {
+                    document.getElementById('progressbar').style.display = 'none';
+                } else {
+                    document.getElementById('progressbar').style.width = i*100/comicLinks.length + '%';
+                }
+                
             }
         }
+        fetchComics().then(data => { data })
 
         function getCubariURL(URL) {
             var cubariLink = URL.replace('https://raw.githubusercontent.com', '');
@@ -73,13 +89,11 @@
         }
 
         async function getCoverURL(fileURL) {
-            var cvrURL = 'fas';
+            var cvrURL = '';
             const response = await fetch(fileURL);
             const data = await response.json();
-            return await data.cover;
+            return data.cover ? data.cover : 'https://via.placeholder.com/512x768.jpg?text=<no_cover>' ;
         }
-
-        fetchComics().then(data => { data })
 
 
 
