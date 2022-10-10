@@ -17,7 +17,7 @@
       }
     },
     "2": {
-      "title": "To Pastor",
+      "title": "Styl Pastora (To Pastor)",
       "volume": "",
       "last_updated": "1629274860",
       "groups": {
@@ -27,7 +27,7 @@
       }
     },
     "3": {
-      "title": "Dasz się porwać? [Oneshot]",
+      "title": "Morwinowe Porwanie (Dasz się porwać?) [Oneshot]",
       "volume": "",
       "last_updated": "1629533340",
       "groups": {
@@ -44,7 +44,7 @@
       }
     },
     "4": {
-      "title": "4",
+      "title": "Morwin Reunion (Za Długą)",
       "volume": "",
       "last_updated": "1629771720",
       "groups": {
@@ -54,27 +54,27 @@
       }
     },
     "5": {
-      "title": "5",
+      "title": "Morwin Is Not Over",
       "volume": "",
       "last_updated": "1629600420",
       "groups": {
-        "Xylax": [
+        "Xylax :: xylax.pl": [
           "https://pbs.twimg.com/media/E9uYTdOVIAEYw92?format=jpg&name=medium"
         ]
       }
     },
     "6": {
-      "title": "Kłamałem",
+      "title": "Jak Rodzina",
       "volume": "",
       "last_updated": "1662804660",
       "groups": {
-        "Xylax": [
+        "Xylax :: xylax.pl": [
           "https://pbs.twimg.com/media/E-6o_E_XMAUXsSg?format=jpg&name=medium"
         ]
       }
     },
     "7": {
-      "title": "Masło",
+      "title": "Trofeum",
       "volume": "",
       "last_updated": "1637994840",
       "groups": {
@@ -154,7 +154,7 @@
       }
     },
     "15": {
-      "title": "Terminator",
+      "title": "Taki Silny",
       "volume": "",
       "last_updated": "1664743407",
       "groups": {
@@ -225,6 +225,68 @@
       "groups": {
         "twitter.com/menelotytan": [
           "https://pbs.twimg.com/media/FUGMEcIXsAEcKcr?format=jpg&name=large"
+        ]
+      }
+    },
+    "22": {
+      "title": "Pierwszy Morwin",
+      "volume": "",
+      "last_updated": "1665436376",
+      "groups": {
+        "Xylax :: xylax.pl": [
+          "https://xylax.pl/wp-content/uploads/2022/10/morwin_001.jpg",
+          "https://xylax.pl/wp-content/uploads/2022/10/morwin_002.jpg"
+        ]
+      }
+    },
+    "23": {
+      "title": "Totalnie Cię Słucham",
+      "volume": "",
+      "last_updated": "1665436416",
+      "groups": {
+        "Xylax :: xylax.pl": [
+          "https://xylax.pl/wp-content/uploads/2022/10/erwin_ys.jpg"
+        ]
+      }
+    },
+    "24": {
+      "title": "Krackers Krzakers",
+      "volume": "",
+      "last_updated": "1665436443",
+      "groups": {
+        "Xylax :: xylax.pl": [
+          "https://xylax.pl/wp-content/uploads/2022/10/krakers.jpg"
+        ]
+      }
+    },
+    "25": {
+      "title": "Zależność Morwina",
+      "volume": "",
+      "last_updated": "1665436465",
+      "groups": {
+        "Xylax :: xylax.pl": [
+          "https://xylax.pl/wp-content/uploads/2022/10/Erwin_Untitled-12.jpg"
+        ]
+      }
+    },
+    "26": {
+      "title": "Posada Szefa",
+      "volume": "",
+      "last_updated": "1665436491",
+      "groups": {
+        "Xylax :: xylax.pl": [
+          "https://xylax.pl/wp-content/uploads/2022/10/szef_1.jpg",
+          "https://xylax.pl/wp-content/uploads/2022/10/szef_2.jpg"
+        ]
+      }
+    },
+    "27": {
+      "title": "Przepraszam",
+      "volume": "",
+      "last_updated": "1665437151",
+      "groups": {
+        "Xylax :: xylax.pl": [
+          "https://xylax.pl/wp-content/uploads/2022/10/komiksik_morwin_d.jpg"
         ]
       }
     }
