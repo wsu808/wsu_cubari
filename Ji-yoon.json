@@ -6,7 +6,7 @@
   "cover": "https://pbs.twimg.com/media/FeKWwgGVsAE8d_8?format=jpg&name=large",
   "chapters": {
     "1": {
-      "title": "Pages",
+      "title": "Part 1",
       "volume": "",
       "last_updated": "1664996295",
       "groups": {
@@ -66,7 +66,27 @@
           "https://pbs.twimg.com/media/FepbHDuVsAENgtK?format=jpg&name=4096x4096",
           "https://pbs.twimg.com/media/FepbHEnUYAAusg4?format=jpg&name=4096x4096",
           "https://pbs.twimg.com/media/FepbHFQUoAAGMj9?format=jpg&name=4096x4096",
-          "https://via.placeholder.com/833x1100.jpg?text=(ongoing)+twitter.com/Jourd4n_"
+          "https://pbs.twimg.com/media/FeuibGYUcAAaVAH?format=jpg&name=4096x4096",
+          "https://pbs.twimg.com/media/FeuibGaUYAAvEZ7?format=jpg&name=4096x4096",
+          "https://pbs.twimg.com/media/FeuibGZUUAAOqc8?format=jpg&name=4096x4096",
+          "https://pbs.twimg.com/media/FeuibGbVIAAD2lB?format=jpg&name=4096x4096",
+          "https://pbs.twimg.com/media/FeuiyORVIAAwef4?format=jpg&name=4096x4096",
+          "https://pbs.twimg.com/media/FeuiyPEVIAAc_Jb?format=jpg&name=4096x4096",
+          "https://pbs.twimg.com/media/FeuiyPwUcAAGRb6?format=jpg&name=4096x4096",
+          "https://pbs.twimg.com/media/FeuiyQpUoAEZV0E?format=jpg&name=4096x4096",
+          "https://pbs.twimg.com/media/FexTVT8UcAAQ-2e?format=jpg&name=4096x4096",
+          "https://pbs.twimg.com/media/FexTVT9VIAcWX_j?format=jpg&name=4096x4096",
+          "https://pbs.twimg.com/media/FexTVT9VIAA6ufS?format=jpg&name=4096x4096"
+        ]
+      }
+    },
+    "2": {
+      "title": "TBA",
+      "volume": "",
+      "last_updated": "1665522138",
+      "groups": {
+        "": [
+          ""
         ]
       }
     }
