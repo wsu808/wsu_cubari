@@ -6,22 +6,22 @@
   "cover": "https://thumbs.dreamstime.com/b/nsfw-ikona-z-grafiką-103575086.jpg",
   "chapters": {
     "1": {
-      "title": "Future reading",
+      "title": "⎘ Future reading [unavailable]",
       "volume": "",
       "last_updated": "1660558513",
       "groups": {
-        "mia :: twitter.com/miaormoa": [
+        "mia :: twitter.com/miahornyonmain": [
           "https://pbs.twimg.com/media/FZpQ2B7WIAAu4pa?format=jpg&name=large",
           "https://pbs.twimg.com/media/FZpQ2B7WAAA-fG5?format=jpg&name=large"
         ]
       }
     },
     "2": {
-      "title": "Monster summoning",
+      "title": "⎘ Monster summoning",
       "volume": "",
       "last_updated": "1660558615",
       "groups": {
-        "mia :: patreon.com/miaormoa": [
+        "mia :: patreon.com/miahornyonmain": [
           "https://pbs.twimg.com/media/FTjfvepWYAEbAPl?format=jpg&name=large",
           "https://pbs.twimg.com/media/FTjfveqWAAEHdKG?format=jpg&name=large",
           "https://pbs.twimg.com/media/FTjfviVWUAMySzL?format=jpg&name=large"
@@ -29,7 +29,7 @@
       }
     },
     "3": {
-      "title": "Sleep paralysis demon",
+      "title": "⎘ Sleep paralysis demon",
       "volume": "",
       "last_updated": "1661203529",
       "groups": {
@@ -40,7 +40,7 @@
       }
     },
     "4": {
-      "title": "Smelly",
+      "title": "⎘ Smelly",
       "volume": "",
       "last_updated": "1661203654",
       "groups": {
@@ -53,7 +53,7 @@
       }
     },
     "5": {
-      "title": "A Trade",
+      "title": "⎘ A Trade",
       "volume": "",
       "last_updated": "1663178598",
       "groups": {
@@ -66,7 +66,7 @@
       }
     },
     "6": {
-      "title": "The Return of Bri",
+      "title": "⎘ The Return of Bri",
       "volume": "",
       "last_updated": "1664743954",
       "groups": {
@@ -76,8 +76,73 @@
         ]
       }
     },
+    "7": {
+      "title": "⎘ Magic Spring",
+      "volume": "",
+      "last_updated": "1665775199",
+      "groups": {
+        "StarDazer :: twitter.com/stardazer00": [
+          "https://pbs.twimg.com/media/FPjArUNX0AANL9S?format=jpg&name=large",
+          "https://pbs.twimg.com/media/FPjAuSLXMAUHbC3?format=jpg&name=large",
+          "https://pbs.twimg.com/media/FPjAve_X0AcM_F4?format=jpg&name=large",
+          "https://pbs.twimg.com/media/FPjAxnoX0AIleJI?format=jpg&name=large",
+          "https://pbs.twimg.com/media/FPjAy3DWUAguURC?format=jpg&name=large"
+        ]
+      }
+    },
+    "8": {
+      "title": "⎘ Ritual",
+      "volume": "",
+      "last_updated": "1665775410",
+      "groups": {
+        "StarDazer :: twitter.com/stardazer00": [
+          "https://pbs.twimg.com/media/FP_bP3MWQAcpBl9?format=jpg&name=large",
+          "https://pbs.twimg.com/media/FP_bP3TXwAQ95-W?format=jpg&name=large",
+          "https://pbs.twimg.com/media/FP_bP3SXsAQDhn9?format=jpg&name=large",
+          "https://pbs.twimg.com/media/FQv3jhqWQAAzYAK?format=jpg&name=large",
+          "https://pbs.twimg.com/media/FQv3jhoWYAkEI-Q?format=jpg&name=large",
+          "https://pbs.twimg.com/media/FQv3jhqXoA40T4S?format=jpg&name=large",
+          "https://pbs.twimg.com/media/FQv3jhkWYAEgaQj?format=jpg&name=large"
+        ]
+      }
+    },
+    "9": {
+      "title": "꩜ It's nice to have an AI that knows you so well... (Inspired by \"Ritual\")",
+      "volume": "",
+      "last_updated": "1665775519",
+      "groups": {
+        "Plazzums :: twitter.com/PlasmaDragonDA": [
+          "https://pbs.twimg.com/media/Fe9T6BXXgAAluRD?format=jpg&name=medium"
+        ]
+      }
+    },
+    "10": {
+      "title": "⎘ New File",
+      "volume": "",
+      "last_updated": "1665775730",
+      "groups": {
+        "StarDazer :: twitter.com/stardazer00": [
+          "https://pbs.twimg.com/media/FaemSVLWIAUjjlG?format=jpg&name=large"
+        ]
+      }
+    },
+    "11": {
+      "title": "⎘ Deep Deep Down",
+      "volume": "",
+      "last_updated": "1665775786",
+      "groups": {
+        "ART [StarDazer :: twitter.com/stardazer00] | STORY [https://mlz.blk.blue/deep-deep-down/]": [
+          "https://pbs.twimg.com/media/FSz62gHXoAEX9jx?format=jpg&name=large",
+          "https://pbs.twimg.com/media/FSz62gzWIAALAOV?format=jpg&name=large",
+          "https://pbs.twimg.com/media/FSz62gsX0AAD9Qs?format=jpg&name=large",
+          "https://pbs.twimg.com/media/FSz62gzXsAQLhbc?format=jpg&name=large",
+          "https://pbs.twimg.com/media/FSz67YsWIAAOrv3?format=jpg&name=large",
+          "https://pbs.twimg.com/media/FSz67Y5WYAIP0xH?format=jpg&name=large"
+        ]
+      }
+    },
     "3.1": {
-      "title": "Sleep paralysis demon 2",
+      "title": "⎘ Sleep paralysis demon 2",
       "volume": "",
       "last_updated": "1661203594",
       "groups": {
@@ -87,7 +152,7 @@
       }
     },
     "3.2": {
-      "title": "Morphin succ",
+      "title": "⎘ Morphin succ",
       "volume": "",
       "last_updated": "1661203618",
       "groups": {
@@ -99,7 +164,7 @@
       }
     },
     "4.1": {
-      "title": "Smelly part 2",
+      "title": "⎘ Smelly part 2",
       "volume": "",
       "last_updated": "1661203671",
       "groups": {
@@ -114,7 +179,7 @@
       }
     },
     "4.2": {
-      "title": "Insertive",
+      "title": "⎘ Insertive",
       "volume": "",
       "last_updated": "1661203717",
       "groups": {
