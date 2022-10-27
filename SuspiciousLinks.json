@@ -1,8 +1,49 @@
 {
-  "title": "SuspiciousLinks",
-  "description": "Read at: \nhttps://www.deviantart.com/heartgear/gallery/52796394/suspicious-links",
+  "title": "Suspicious Links",
+  "description": "HeartGear gets pulled into the Internet,\nand the only way to get back out is to traverse the seedy\nunderbelly of kink on the internet! An ongoing series chronicling\nHeart's misadventures in interspace.\n\n\n-ˋˏ✄┈┈┈┈┈┈┈┈┈┈\n➥ https://www.deviantart.com/heartgear/gallery/52796394/suspicious-links\nVisual Novel \"The Collector\" (disconnected) ❯ https://chromatic-incubi.itch.io/the-collector-part1wip\nVisual Novel \"The Matsubusa Case\" (demo) ❯ https://chromatic-incubi.itch.io/the-matsubusa-case-demo",
   "artist": "HeartGear",
   "author": "HeartGear",
-  "cover": "",
-  "chapters": {}
+  "cover": "https://www.deviantart.com/heartgear/art/Suspicious-Links-08-506951525",
+  "chapters": {
+    "0": {
+      "title": "Suspicious Link",
+      "volume": "",
+      "last_updated": "1666876015",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "1": {
+      "title": "The FMP",
+      "volume": "",
+      "last_updated": "1666876027",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "2": {
+      "title": "The Collector",
+      "volume": "",
+      "last_updated": "1666876060",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "2.1": {
+      "title": "The Collector: Part 1 - Capture",
+      "volume": "",
+      "last_updated": "1666876076",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    }
+  }
 }
