@@ -1,13 +1,16 @@
+| ℹ️ | click `View raw |
+|:---:|---|
+
 # Title
 by Author
 
-Theme/Tags
+**Theme/Tags**  
 ...
 
-#### CW (Content Warning)
+**CW (Content Warning)**  
 what some people may find disturbing about this piece
 
-Sources (Read at)
+#### Sources (Read at)
 
 **Description**  
 *official description (or eventually your own when no official description is available) in itallic*
