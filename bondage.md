@@ -24,14 +24,11 @@ At the time of writing this post, first volume (6 chapters) is already completed
 
 
 Author's Social Media:  
-| [DeviantArt](https://www.deviantart.com/stereoscopecomics) 
-| [Twitter](https://mobile.twitter.com/StereoscopeCom1) 
-| [Patreon](https://www.patreon.com/stereoscopecomics) 
-| [Hentai-Foundry](https://www.hentai-foundry.com/user/StereoscopeComics/profile) 
-| [Instagram](http://instagram.com/StereoscopeComics) 
-|
-
-
+[![DeviantArt](https://img.shields.io/badge/DeviantArt-06070D?logo=deviantart&iconColor=00E49A&style=flat-square)](https://www.deviantart.com/stereoscopecomics) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://mobile.twitter.com/StereoscopeCom1) 
+[![Patreon](https://img.shields.io/badge/Patreon-FF5A00?logo=patreon&logoColor=white&style=flat-square)](https://www.patreon.com/stereoscopecomics) 
+[![Hentai-Foundry](https://img.shields.io/badge/Hentai--Foundry-FF67A2?style=flat-square)](https://www.hentai-foundry.com/user/StereoscopeComics/profile) 
+[![Instagram](https://img.shields.io/badge/Instagram-C13584?logo=instagram&logoColor=white&style=flat-square)](http://instagram.com/StereoscopeComics) 
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
@@ -39,13 +36,13 @@ Author's Social Media:
 ![Bondage Fan logo](https://www.bondagefan.com/_layouts/images/logo.png)  
 
 **Theme/Tags**  
-BDSM (various concepts), Magazine (monthly releases)
+> BDSM (various concepts), Magazine (monthly releases)
 
 #### Sources:
 [![Read on](https://img.shields.io/badge/$16.95/mo-bondagefan.com-blue?style=for-the-badge)](https://www.bondagefan.com)
 
 **Description**  
-*Bondage Fan was founded in 2016 as a collaborative effort between writers and artists aiming to create high-quality Bondage comics. The whole idea behind the website was to foster interaction between fans and artists in order to create works of art that reflect the desires and imaginations of the fans of the genre. Bondage comics are our main focus although themes do touch upon various other fetishes such as feet, tickling, and more.*
+> *Bondage Fan was founded in 2016 as a collaborative effort between writers and artists aiming to create high-quality Bondage comics. The whole idea behind the website was to foster interaction between fans and artists in order to create works of art that reflect the desires and imaginations of the fans of the genre. Bondage comics are our main focus although themes do touch upon various other fetishes such as feet, tickling, and more.*
 
 
 
