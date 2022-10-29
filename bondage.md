@@ -7,14 +7,18 @@
 ------------------------------------------------------------------------------------------------------------------------------------
 
 # Black Label
-by StereoscopeComics (Timothy James)
+![StereoscopeComics (Timothy James)](https://img.shields.io/badge/by-StereoscopeComics_%28Timothy_James%29-000000?style=social)
 
 **Theme/Tags**  
+> BDSM(mostly bondage), wholesome, plot, lesbians(?)
+
+<!--
 > ![tag:BDSM](https://img.shields.io/badge/BDSM-mostly_bondage-red)
 ![tag:bondage](https://img.shields.io/badge/-bondage-orange)
 ![tag:wholesome](https://img.shields.io/badge/-wholesome-9cf)
 ![tag:plot](https://img.shields.io/badge/plot-blue)
 ![tag:lesbians](https://img.shields.io/badge/⚢-lesbians-ff69b4)
+-->
 
 ![](https://img.shields.io/badge/volumes-1+-blue)
 ![](https://img.shields.io/badge/chapters-7+-brightgreen)
@@ -46,7 +50,7 @@ Author's Social Media:
 ------------------------------------------------------------------------------------------------------------------------------------
 
 # Bondage Fan [Magazine]
-by various artists  
+![by various artists](https://img.shields.io/badge/by-various_artists-000000?style=social)
 
 ![Bondage Fan logo](https://www.bondagefan.com/_layouts/images/logo.png)  
 
@@ -62,7 +66,7 @@ by various artists
 ------------------------------------------------------------------------------------------------------------------------------------
 
 # Sunstone
-by Stjepan Šejić
+![Stjepan Šejić](https://img.shields.io/badge/by-Stjepan_Šejić-000000?style=social)
 
 **Theme/Tags**  
 > BDSM, bondage, plot, lesbians
@@ -109,5 +113,8 @@ Escapades by WossaRem non-erotic
 338921
 
 
-<br><br><br><br><br><hr>
+<br><br><br><br><br>
+
+---
+
 <p align=center>Made with 🍆 by wasu</p>
