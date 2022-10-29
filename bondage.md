@@ -3,7 +3,7 @@
 
 
 # Black Label
-by StereoscopeComics (Timothy James)
+> by StereoscopeComics (Timothy James)
 
 **Theme/Tags**  
 BDSM (mostly bondage), wholesome, plot, lesbians(?)
@@ -33,6 +33,7 @@ Author's Social Media:
 
 
 
+------------------------------------------------------------------------------------------------------------------------------------
 
 # Bondage Fan [Magazine]
 ![Bondage Fan logo](https://www.bondagefan.com/_layouts/images/logo.png)  
