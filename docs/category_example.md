@@ -1,5 +1,5 @@
 | ℹ️ | click `View raw` to see in plain text |
-|:---:|---|
+|:---:|:---|
 
 # Title
 by Author
