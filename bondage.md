@@ -52,10 +52,13 @@ Author's Social Media:
 # Bondage Fan [Magazine]
 ![by various artists](https://img.shields.io/badge/by-various_artists-000000?style=social)
 
+<!--
 ![Bondage Fan logo](https://www.bondagefan.com/_layouts/images/logo.png)  
-
+-->
 **Theme/Tags**  
 > BDSM (various concepts), Magazine (monthly releases)
+
+![tag](https://img.shields.io/badge/-monthly_releases-9cf)
 
 #### Sources:
 [![Read on](https://img.shields.io/badge/$16.95/mo-bondagefan.com-blue?style=for-the-badge)](https://www.bondagefan.com)
@@ -80,29 +83,59 @@ Author's Social Media:
 
 # Nana to Kaoru
 
+> BDSM, bondage, plot, childhood friends
+
 ------------------------------------------------------------------------------------------------------------------------------------
 
 The Mistress Story
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
+# Familiar
+> BDSM, dom/sub relationship, plot, magic
 
-familiar
+![](https://img.shields.io/badge/volumes-3+-blue)
+![](https://img.shields.io/badge/chapters-16+-brightgreen)
+
+#### Sources:
+[![Read on](https://img.shields.io/badge/Free_on-familiarcomic.com-blue?style=for-the-badge)](http://familiarcomic.com)
+
+**Description**  
+> *When career-driven editor Diana Vallejo accidentally summons a familiar whose specialty is soft domination, her life takes a turn for the better – but for how long?*
+> 
+> *Familiar is a modern-day, slice-of-life romcomic about magick, work/life balance, BDSM, and relationships. It is kinky, queer, sex-positive, and free to read online. It is also erotic, sexually explicit, and written for adult audiences only.*
+
+
+Author on social media:  
+[![socials](https://img.shields.io/badge/🌐_Website-blue?style=flat-square)](https://familiar.soushiyo.com)
+[![socials:Patreon](https://img.shields.io/badge/Patreon-FF5A00?logo=patreon&logoColor=white&style=flat-square)](http://patreon.com/soushiyo)
+[![socials](https://img.shields.io/badge/Merch-yellow?style=flat-square)](http://shop.soushiyo.com)
+[![socials](https://img.shields.io/badge/Commisions-success?style=flat-square)](http://bit.ly/sushicomm)
+[![socials:dc](https://img.shields.io/badge/Art_Server-6E85D3?logo=discord&logoColor=white&style=flat-square)](http://discord.gg/98hYeHS)
+[![socials:Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://www.twitter.com/soushiyox)
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 ANNA & rebecca  
-![](https://img.shields.io/badge/📶_plot-🔴low-333333)
+![](https://img.shields.io/badge/chapters-2-brightgreen)
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-Fetish Interviews
+# Fetish Interviews
+#### Sources:
+[![Read on](https://img.shields.io/badge/Free_on-Tapas-F6B606?logo=tapas&style=for-the-badge)](https://tapas.io/series/Fetish-Interviews/info)
+
+[![Read on](https://img.shields.io/badge/-coaxdreams.com-blue?style=for-the-badge)](http://coaxdreams.com/home.html)
+
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 coaxdream
 https://coaxdreams.gumroad.com//
 http://coaxdreams.com/home.html
+
+[![Buy on](https://img.shields.io/badge/$3--$10-Gumroad-FF7E00?logo=gumroad&style=for-the-badge)](https://www.bondagefan.com)
+
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
@@ -111,6 +144,12 @@ Escapades by WossaRem non-erotic
 ------------------------------------------------------------------------------------------------------------------------------------
 
 338921
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+T.I.E.D
+
+------------------------------------------------------------------------------------------------------------------------------------
 
 
 <br><br><br><br><br>
