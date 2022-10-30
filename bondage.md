@@ -6,9 +6,13 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-| Table of Content |  
-|:--------------------------:|  
-| [Black Label](#black-label) |
+<details align=center><summary>Table of Content</summary>
+
+> [Black Label](#black-label)
+
+</details>
+
+------------------------------------------------------------------------------------------------------------------------------------
 
 # Black Label
 [![StereoscopeComics (Timothy James)](https://img.shields.io/badge/by-StereoscopeComics_%28Timothy_James%29_➚-000000?style=social)](https://www.scatteredcomics.com/timothy-james)
