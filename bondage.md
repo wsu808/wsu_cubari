@@ -1,19 +1,14 @@
 <!-- when contributing follow example structure provided at https://github.com/wsu808/wsu_cubari/blob/gh-pages/docs/category_example.md -->
 
-| 👉 | You are browsing category: BONDAGE |
-|:---:|:----|
+| 👉 | You are browsing category: BONDAGE |  
+|:----:|:-------------------------------------------------------------|  
 | 🏗️ | <small>This list is incomplete; you can help by expanding it</small> |
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-<table align=center>
-<tr><th>Table of Content</th></tr>
-<tr><td>
-    
-* [Black Label](#black-label)
-* bbb
-    
-</td></tr></table>
+| Table of Content |  
+|:--------------------------:|  
+| [Black Label](#black-label) |
 
 # Black Label
 [![StereoscopeComics (Timothy James)](https://img.shields.io/badge/by-StereoscopeComics_%28Timothy_James%29_➚-000000?style=social)](https://www.scatteredcomics.com/timothy-james)
