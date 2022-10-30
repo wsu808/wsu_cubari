@@ -1,13 +1,13 @@
 <!-- when contributing follow example structure provided at https://github.com/wsu808/wsu_cubari/blob/gh-pages/docs/category_example.md -->
 
-| 👉 | You are browsing category: bondage |
+| 👉 | You are browsing category: BONDAGE |
 |:---:|:----|
-| 🏗️ | This list is incomplete; you can help by expanding it |
+| 🏗️ | <small>This list is incomplete; you can help by expanding it</small> |
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 # Black Label
-![StereoscopeComics (Timothy James)](https://img.shields.io/badge/by-StereoscopeComics_%28Timothy_James%29-000000?style=social)
+[![StereoscopeComics (Timothy James)](https://img.shields.io/badge/by-StereoscopeComics_%28Timothy_James%29-000000?style=social)](https://www.scatteredcomics.com/timothy-james)
 
 **Theme/Tags**  
 > BDSM(mostly bondage), wholesome, plot, lesbians(?)
