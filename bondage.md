@@ -7,9 +7,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------
 
 <details align=center><summary>Table of Content</summary>
-
-[Black Label](#black-label)
-
+  <a href="#black-label">Black Label</a>
 </details>
 
 ------------------------------------------------------------------------------------------------------------------------------------
@@ -110,6 +108,9 @@ Author’s Social Media:
 
 **Theme/Tags**  
 > 
+
+![](https://img.shields.io/badge/‼️-discontinued-critical)
+![](https://img.shields.io/badge/chapters-28%2831_in_Thai%29-brightgreen)
 
 #### Sources:
 
