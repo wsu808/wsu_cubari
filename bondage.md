@@ -8,17 +8,17 @@
 
 <details align=center><summary>Table of Content</summary>
 
-> [Black Label](#black-label)
+[Black Label](#black-label)
 
 </details>
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 # Black Label
-[![StereoscopeComics (Timothy James)](https://img.shields.io/badge/by-StereoscopeComics_%28Timothy_James%29_➚-000000?style=social)](https://www.scatteredcomics.com/timothy-james)
+[![by StereoscopeComics (Timothy James)](https://img.shields.io/badge/by-StereoscopeComics_%28Timothy_James%29_➚-000000?style=social)](https://www.scatteredcomics.com/timothy-james)
 
 **Theme/Tags**  
-> BDSM(mostly bondage), wholesome, plot, lesbians(?)
+> BDSM(mostly bondage), wholesome, plot, lesbians(?), vanilla
 
 ![](https://img.shields.io/badge/volumes-1+-blue)
 ![](https://img.shields.io/badge/chapters-7+-brightgreen)
@@ -68,7 +68,7 @@ Author's Social Media:
 ------------------------------------------------------------------------------------------------------------------------------------
 
 # Sunstone
-![Stjepan Šejić](https://img.shields.io/badge/by-Stjepan_Šejić-000000?style=social)
+![by Stjepan Šejić](https://img.shields.io/badge/by-Stjepan_Šejić-000000?style=social)
 
 **Theme/Tags**  
 > BDSM, bondage, plot, lesbians
@@ -78,20 +78,49 @@ Author's Social Media:
 #### Sources:
 [![Read on Cubari](https://img.shields.io/badge/Free%20on-DeviantArt-black?style=for-the-badge&logo=deviantart)](https://www.deviantart.com/stjepan-sejic/gallery/79822473/comic-pdfs)
 
+**Description**  
+> **
+
+Author’s Social Media:
+
 ------------------------------------------------------------------------------------------------------------------------------------
 
 # Nana to Kaoru
+![by ](https://img.shields.io/badge/by-X-000000?style=social)
 
+**Theme/Tags**  
 > BDSM, bondage, plot, childhood friends, manga
+
+#### Sources:
+
+**Description**  
+> **
+
+Author’s Social Media:
+
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-The Mistress Story
+# The Mistress Story
+![by 1St-Kuro](https://img.shields.io/badge/by-1St--Kuro-000000?style=social)
+
+**Theme/Tags**  
+> 
+
+#### Sources:
+
+**Description**  
+> **
+
+Author’s Social Media:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 # Familiar
-> BDSM, dom/sub relationship, plot, magic
+[![by Soushiyo](https://img.shields.io/badge/by-Soushiyo_➚-000000?style=social)](https://soushiyo.com)
+
+**Theme/Tags**  
+> BDSM, dom/sub relationship, plot, magic, vanilla
 
 ![](https://img.shields.io/badge/volumes-3+-blue)
 ![](https://img.shields.io/badge/chapters-16+-brightgreen)
@@ -103,10 +132,10 @@ The Mistress Story
 > *When career-driven editor Diana Vallejo accidentally summons a familiar whose specialty is soft domination, her life takes a turn for the better – but for how long?*
 > 
 > *Familiar is a modern-day, slice-of-life romcomic about magick, work/life balance, BDSM, and relationships. It is kinky, queer, sex-positive, and free to read online. It is also erotic, sexually explicit, and written for adult audiences only.*
-
+> <small>~official website</small>
 
 Author's Social Media:  
-[![socials](https://img.shields.io/badge/🌐_Website-blue?style=flat-square)](https://familiar.soushiyo.com)
+[![socials:website](https://img.shields.io/badge/🌐_Website-blue?style=flat-square)](https://familiar.soushiyo.com)
 [![socials:Patreon](https://img.shields.io/badge/Patreon-FF5A00?logo=patreon&logoColor=white&style=flat-square)](http://patreon.com/soushiyo)
 [![socials](https://img.shields.io/badge/Merch-yellow?style=flat-square)](http://shop.soushiyo.com)
 [![socials](https://img.shields.io/badge/Commisions-success?style=flat-square)](http://bit.ly/sushicomm)
@@ -115,38 +144,98 @@ Author's Social Media:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-ANNA & rebecca  
-![](https://img.shields.io/badge/chapters-2-brightgreen)
+# ANNA & rebecca  
+![by Geknebelt](https://img.shields.io/badge/by-Geknebelt-000000?style=social)
+
+**Theme/Tags**  
+> 
+
+![chapter count](https://img.shields.io/badge/chapters-2-brightgreen)
+
+#### Sources:
+
+**Description**  
+> **
+
+Author’s Social Media:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 # Fetish Interviews
+![by Coax](https://img.shields.io/badge/by-Coax-000000?style=social)
+
+**Theme/Tags**  
+> BDSM(various kinks)
+
 #### Sources:
 [![Read on](https://img.shields.io/badge/Free_on-Tapas-F6B606?logo=tapas&style=for-the-badge)](https://tapas.io/series/Fetish-Interviews/info)
 
 [![Read on](https://img.shields.io/badge/-coaxdreams.com-blue?style=for-the-badge)](http://coaxdreams.com/home.html)
 
+**Description**  
+> *One-page interviews about fetishes and kinky stuff. Different people talk about their love and reasons of their fetishes.*  
+> <small>~Coax</small>
+
+Author’s Social Media:
+
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-coaxdream
+![by Coax](https://img.shields.io/badge/by-Coax-000000?style=social)
+
+[![Buy on](https://img.shields.io/badge/$3--$10-Gumroad-FF7E00?logo=gumroad&style=for-the-badge)](https://coaxdreams.gumroad.com//)
+
+**Theme/Tags**  
+> 
+
+#### Sources:
+
+**Description**  
+> **
+
+Author’s Social Media:  
 https://coaxdreams.gumroad.com//
 http://coaxdreams.com/home.html
 
-[![Buy on](https://img.shields.io/badge/$3--$10-Gumroad-FF7E00?logo=gumroad&style=for-the-badge)](https://www.bondagefan.com)
-
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
-Escapades by WossaRem non-erotic
+# Escapades 
+![by Wossa Rem](https://img.shields.io/badge/by-Wossa_Rem-000000?style=social)
+
+**Theme/Tags**  
+> bondage, non-erotic, funny
+
+#### Sources:
+[![Buy on Gumroad](https://img.shields.io/badge/$8--$10/chapter-Gumroad-FF7E00?logo=gumroad&style=for-the-badge)](https://wossa.gumroad.com/)
+
+**Description**  
+> *Roommates, best friends and more(!); Wossername and Aeria love to play together... until Wossy's abysmal reading comprehension causes a crisis that threatens to change everything...FOREVER! Will Aeria manage to talk some sense into her confused compadre, or is this the end of "playtime" as we know it?*  
+> <small>~official description of first issue on  Gumroad</small>
+
+Author’s Social Media:  
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 338921
+![by ](https://img.shields.io/badge/by-X-000000?style=social)
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-T.I.E.D
+# T.I.E.D.
+![by Ryner-E](https://img.shields.io/badge/by-Ryner--E-000000?style=social)
+
+**Theme/Tags**  
+> bondage(rope, tape)
+
+![chapter count](https://img.shields.io/badge/chapters-6-brightgreen)
+
+#### Sources:
+[![Read on Patreon](https://img.shields.io/badge/$10_Tier-Patreon-FF5A00?logo=patreon&style=for-the-badge)](https://www.patreon.com/Ryner_E/)
+
+**Description**  
+> TEAM of INVESTIGATORS and EXPERIENCED DETECTIVES
+
+Author’s Social Media:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
