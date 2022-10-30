@@ -12,14 +12,6 @@
 **Theme/Tags**  
 > BDSM(mostly bondage), wholesome, plot, lesbians(?)
 
-<!--
-> ![tag:BDSM](https://img.shields.io/badge/BDSM-mostly_bondage-red)
-![tag:bondage](https://img.shields.io/badge/-bondage-orange)
-![tag:wholesome](https://img.shields.io/badge/-wholesome-9cf)
-![tag:plot](https://img.shields.io/badge/plot-blue)
-![tag:lesbians](https://img.shields.io/badge/⚢-lesbians-ff69b4)
--->
-
 ![](https://img.shields.io/badge/volumes-1+-blue)
 ![](https://img.shields.io/badge/chapters-7+-brightgreen)
 
@@ -31,8 +23,9 @@
 
 **Description**  
 > *Black Label is a wholesome comic telling a story of few friends interested in bondage. ...Although some of them are not yet aware of it.*  
-> *It all starts with an innocent prank, soon to turn into romantic story between two main (female) characters and introduce their friends into world of BDSM.*  
+> *It all starts with an innocent prank, soon to turn into romantic story of introducing their friends into world of BDSM.*  
 > *Black Label puts more pressure on plot than erotic scenes, we will see the plot developing slowly through the comic. The characters will not instantly jump into BDSM but rather will be gradually discovering their interests in this field. There will be some funny inserts as well.*  
+> <small>~wasu</small>
 
 **Other works from this author:**  
 
@@ -52,9 +45,6 @@ Author's Social Media:
 # Bondage Fan [Magazine]
 ![by various artists](https://img.shields.io/badge/by-various_artists-000000?style=social)
 
-<!--
-![Bondage Fan logo](https://www.bondagefan.com/_layouts/images/logo.png)  
--->
 **Theme/Tags**  
 > BDSM (various concepts), Magazine (monthly releases)
 
@@ -83,7 +73,7 @@ Author's Social Media:
 
 # Nana to Kaoru
 
-> BDSM, bondage, plot, childhood friends
+> BDSM, bondage, plot, childhood friends, manga
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
@@ -106,7 +96,7 @@ The Mistress Story
 > *Familiar is a modern-day, slice-of-life romcomic about magick, work/life balance, BDSM, and relationships. It is kinky, queer, sex-positive, and free to read online. It is also erotic, sexually explicit, and written for adult audiences only.*
 
 
-Author on social media:  
+Author's Social Media:  
 [![socials](https://img.shields.io/badge/🌐_Website-blue?style=flat-square)](https://familiar.soushiyo.com)
 [![socials:Patreon](https://img.shields.io/badge/Patreon-FF5A00?logo=patreon&logoColor=white&style=flat-square)](http://patreon.com/soushiyo)
 [![socials](https://img.shields.io/badge/Merch-yellow?style=flat-square)](http://shop.soushiyo.com)
