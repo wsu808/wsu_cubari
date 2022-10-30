@@ -1,6 +1,6 @@
 <!-- when contributing follow example structure provided at https://github.com/wsu808/wsu_cubari/blob/gh-pages/docs/category_example.md -->
 
-| 👉 | You are browsing category: BONDAGE |  
+| 👉 | You are browsing category: `BONDAGE` |  
 |:----:|:-------------------------------------------------------------|  
 | 🏗️ | <small>This list is incomplete; you can help by expanding it</small> |
 
@@ -59,7 +59,9 @@ Author's Social Media:
 ![tag](https://img.shields.io/badge/releases-monthly-9cf)
 
 #### Sources:
-[![Read on](https://img.shields.io/badge/$16.95/mo-bondagefan.com-blue?style=for-the-badge)](https://www.bondagefan.com)
+[![Read on](https://img.shields.io/badge/$16.95/mo*-bondagefan.com-blue?style=for-the-badge)](https://www.bondagefan.com)  
+<small>\*you can download all available stories once you subscribe for first month  
+\*\*lower pricing but for longer time are available </small>
 
 **Description**  
 > *Bondage Fan was founded in 2016 as a collaborative effort between writers and artists aiming to create high-quality Bondage comics. The whole idea behind the website was to foster interaction between fans and artists in order to create works of art that reflect the desires and imaginations of the fans of the genre. Bondage comics are our main focus although themes do touch upon various other fetishes such as feet, tickling, and more.*  
@@ -90,6 +92,8 @@ Author’s Social Media:
 
 **Theme/Tags**  
 > BDSM, bondage, plot, childhood friends, manga
+
+![](https://img.shields.io/badge/-Manga-red)
 
 #### Sources:
 
@@ -131,7 +135,7 @@ Author’s Social Media:
 **Description**  
 > *When career-driven editor Diana Vallejo accidentally summons a familiar whose specialty is soft domination, her life takes a turn for the better – but for how long?*
 > 
-> *Familiar is a modern-day, slice-of-life romcomic about magick, work/life balance, BDSM, and relationships. It is kinky, queer, sex-positive, and free to read online. It is also erotic, sexually explicit, and written for adult audiences only.*
+> *Familiar is a modern-day, slice-of-life romcomic about magick, work/life balance, BDSM, and relationships. It is kinky, queer, sex-positive, and free to read online. It is also erotic, sexually explicit, and written for adult audiences only.*  
 > <small>~official website</small>
 
 Author's Social Media:  
@@ -216,8 +220,14 @@ Author’s Social Media:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-338921
+338921  
 ![by ](https://img.shields.io/badge/by-X-000000?style=social)
+
+![](https://img.shields.io/badge/-Hentai-yellow)
+
+#### Sources:
+[![Free on nHentai](https://img.shields.io/badge/Free_on-nHentai-EC2854?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAOXSURBVFiF7VZdaBRXFP7u3Mkmptok+EPaqKmtpquJknYhBZWylZBil2BstiL40IIRVEpaKK2ghf48CPqSlqZVqmjjD8UuLRoW7YqS1SgVQQzR3Zj6Q0JStiHJJqubmdmZ2Tl9cJNONplk2ST6kg/mYS7nft93z7nnzACzeM5gM0W8eU3FoiImFC3UxEKBwyaBhdvj8m2lOO8fj8cTnxEDlQ7ngs3qvN1luvhNLgkQTAKUeAJC/GYjj9bU37l0FwBNi4FKh3PBDjnnyBuGWJUBgCfWmel8ncwwfsiUXvul5c8O896pGmDfFbt2bYpn/pgNljjxWMoWprXUMttbwaBHHUOQrnJVqTP3SzW3q8Dgc8UE1Xhk7YIeWhcsXQx8bYzHI6ZrYJea411q8LnMUhqIgLAPg0VW4gAgpGvg3eC59de49mt8gpiTGTGXP+iPTsQz5Ut4YeWmpjdJdPIkqn+ZgZK2PyblTzsDwzjAIpVDIBBo1LpPUD9MZf+UDfiD/mgz1w7oSes3oHmfiQEAaGZGg/mWRUHwBHzhZ2YgMocGzAXoZ0SWwTNhoEBDvvm2Eciy7ZIhfv7VwXMAEOrp++3U4YOnAWDD+9sLy98u61hS8BKyMm14/GQIrYF7h77fr308Xk+v18RPuek9jxhPjrGEJCskyQpdbLpOayoqXmg4c5YGBiMkKwrFVJVUVaNYTCVJkulhRydtqal9z7z/s9UuR6e9mnrt1dRnd1Of3U299moqf7U8JxV9RvS0Xq3BdhAB9hXLwMBw78Ej9PaHkcFFOEpLkD0nC0SEnr4wyqp2Z3f/5ZH3lLjWbtczr+eBjZmGx0Rl6xd3vWcmMzAyiotfXw6Awdd0DXU/Hy285DnZDcAAwCo+qHnlSN23j5a8nI/8hfNxwvWOZES0W6t07sgwkWkAHrJ4KAK6szou7gTgSXBYg0w4f/kqwekc9/uwd3/dbV3XiYhI8jZTz0r3qLSfL67ybVy+8cXJTmyZAQD46fgpB/z+5JkCALhxs81NRA8AgM/PSXzzn6bdx9X6bYHGWgApt98wRtpQ03R4u/9utQqMdIVCw+yxedkIJ8ZvgMXvbws0fpKO+CgD/QODgN9vWS+bLWtEoEsgFLX9zq9wraE+S1mHyeo8AUZKICuxlDclfuQMd6Dxo3SFh/H/JEx9ek4rpmUUzxqYNTAViI+fRAkAhiR5wjbozY0a0eiQwTlnkqxMW8v8B+pbhgcsiDRZAAAAAElFTkSuQmCC)](https://nhentai.net/g/338921)
+
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
@@ -244,4 +254,4 @@ Author’s Social Media:
 
 ---
 
-<p align=center>Made with 🍆 by wasu</p>
+<p align=center><small>Made with 🍆 by wasu</small></p>
