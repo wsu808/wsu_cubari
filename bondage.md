@@ -6,8 +6,17 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
+<table align=center>
+<tr><th>Table of Content</th></tr>
+<tr><td>
+    
+* [Black Label](#black-label)
+* bbb
+    
+</td></tr></table>
+
 # Black Label
-[![StereoscopeComics (Timothy James)](https://img.shields.io/badge/by-StereoscopeComics_%28Timothy_James%29-000000?style=social)](https://www.scatteredcomics.com/timothy-james)
+[![StereoscopeComics (Timothy James)](https://img.shields.io/badge/by-StereoscopeComics_%28Timothy_James%29_➚-000000?style=social)](https://www.scatteredcomics.com/timothy-james)
 
 **Theme/Tags**  
 > BDSM(mostly bondage), wholesome, plot, lesbians(?)
@@ -48,13 +57,14 @@ Author's Social Media:
 **Theme/Tags**  
 > BDSM (various concepts), Magazine (monthly releases)
 
-![tag](https://img.shields.io/badge/-monthly_releases-9cf)
+![tag](https://img.shields.io/badge/releases-monthly-9cf)
 
 #### Sources:
 [![Read on](https://img.shields.io/badge/$16.95/mo-bondagefan.com-blue?style=for-the-badge)](https://www.bondagefan.com)
 
 **Description**  
-> *Bondage Fan was founded in 2016 as a collaborative effort between writers and artists aiming to create high-quality Bondage comics. The whole idea behind the website was to foster interaction between fans and artists in order to create works of art that reflect the desires and imaginations of the fans of the genre. Bondage comics are our main focus although themes do touch upon various other fetishes such as feet, tickling, and more.*
+> *Bondage Fan was founded in 2016 as a collaborative effort between writers and artists aiming to create high-quality Bondage comics. The whole idea behind the website was to foster interaction between fans and artists in order to create works of art that reflect the desires and imaginations of the fans of the genre. Bondage comics are our main focus although themes do touch upon various other fetishes such as feet, tickling, and more.*  
+> <small>~official website</small>
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
