@@ -277,9 +277,47 @@ Author’s Social Media:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
+# California Dreams
+![story by](https://img.shields.io/badge/story_by-J.L._Schade-000000?style=social)  
+![art by](https://img.shields.io/badge/art_by-SednaStudio--LWJ-000000?style=social)
 
-<br><br><br><br><br>
+**Theme/Tags**  
+> bondage, roleplay bondage, f/m, femdom, love, fantasy, rope bondage, gag, wrestling, d/s
 
----
+#### Sources:
+[![Read on](https://img.shields.io/badge/read_at*-bondagefan.com-blue?style=for-the-badge)](https://www.bondagefan.com/comics/California-Dreams/c=83/) 
+<sup>*15 pages*</sup>
+*[needs Bondage Fan subscription](#bondage-fan-magazine) 
+
+**Description**  
+> *Shane, a California surfer-boy, indulges in a fantasy kidnapping at the hands of Ava, an exotic young woman he’s been dating, in the waning days of summer. A deserted private beach is the perfect place…and Ava wants to play. In fact, she seems to know exactly what to do. Caught up in the game, Shane is able to suspend his disbelief and fall into a state of feeling as if he’d truly been abducted. The expected results of their stirring game and the actual outcome, however, may be two different things.*  
+> <small>~official site</small>
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+# Awkward X Awkward
+![by](https://img.shields.io/badge/by-aeritea-000000?style=social)
+
+**Theme/Tags**  
+> Gentle Femdom, Femdom, Sex Toys, Aftercare, Domme Drop, Role Reversal, Restraints, Shibari
+
+#### Sources:
+[![Buy on Gumroad](https://img.shields.io/badge/$7-Gumroad-FF7E00?logo=gumroad&style=for-the-badge)](https://aeritea.gumroad.com/l/AwkwardXAwkward?layout=profile) 
+<sup>*26 pages*</sup>
+
+**Description**  
+> *Digital, black and white art book featuring my original Gentle Femdom characters, Plum and Nao. No dialogue as I wanted the intimacy in the drawings to speak for themselves. Some images are wholesome, some are awkward, and some are super spicy! 18+ viewers only, thank you! <3*  
+> <small>~aeritea</small>
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 <p align=center><small>Made with 🍆 by wasu</small></p>
