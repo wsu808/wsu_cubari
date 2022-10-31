@@ -7,7 +7,18 @@
 ------------------------------------------------------------------------------------------------------------------------------------
 
 <details align=center><summary>Table of Content</summary>
-  <a href="#black-label">Black Label</a>
+  <a href="#black-label">Black Label</a><br/>
+  <a href="#bondage-fan-magazine">Bondage Fan</a></br>
+  <a href="#sunstone">Sunstone</a></br>
+  <a href="#nana-to-kaoru">Nana to Kaoru</a></br>
+  <a href="#the-mistress-story">The Mistress Story</a></br>
+  <a href="#familiar">familiar</a></br>
+  <a href="#anna--rebecca">ANNA & rebecca</a></br>
+  <a href="#fetish-interviews">Fetish Interviews</a></br>
+  <a href="escapades">Escapades</a></br>
+  <a href="#tied">T.I.E.D.</a></br>
+  <a href=""></a></br>
+  <a href=""></a></br>
 </details>
 
 ------------------------------------------------------------------------------------------------------------------------------------
@@ -111,16 +122,13 @@ Author’s Social Media:
 ![by 1St-Kuro](https://img.shields.io/badge/by-1St--Kuro-000000?style=social)
 
 **Theme/Tags**  
-> 
+> BdSM, femdom, bondage, lesbians, love story
 
 ![](https://img.shields.io/badge/-discontinued-critical)
 ![](https://img.shields.io/badge/chapters-28%2831_in_Thai%29-brightgreen)
 
 #### Sources:
 [![Read on Tumblr](https://img.shields.io/badge/Free%20on-Tumblr-00B8FF?style=for-the-badge&logo=tumblr)](https://three-musqueerteers.tumblr.com/releases/TMS)
-
-**Description**  
-> **
 
 Author’s Social Media:  
 [![socials:Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=flat-square)](https://m.facebook.com/1StKuroStudio)
@@ -234,10 +242,13 @@ Author’s Social Media:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-338921  
-![by ](https://img.shields.io/badge/by-X-000000?style=social)
+# Do M Uraaka Joshi ga Kousoku Yuri Ecchi de Onna Doushi no Yosa o Oshiekomarechau Hon  
+![by maguro shining](https://img.shields.io/badge/by-Maguro_Shining-000000?style=social)
 
 ![](https://img.shields.io/badge/-Hentai-yellow)
+
+**Theme/Tags**  
+> online exposure, bondage, lesbians, collar, femdom
 
 #### Sources:
 [![Free on nHentai](https://img.shields.io/badge/Free_on-nHentai-EC2854?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAOXSURBVFiF7VZdaBRXFP7u3Mkmptok+EPaqKmtpquJknYhBZWylZBil2BstiL40IIRVEpaKK2ghf48CPqSlqZVqmjjD8UuLRoW7YqS1SgVQQzR3Zj6Q0JStiHJJqubmdmZ2Tl9cJNONplk2ST6kg/mYS7nft93z7nnzACzeM5gM0W8eU3FoiImFC3UxEKBwyaBhdvj8m2lOO8fj8cTnxEDlQ7ngs3qvN1luvhNLgkQTAKUeAJC/GYjj9bU37l0FwBNi4FKh3PBDjnnyBuGWJUBgCfWmel8ncwwfsiUXvul5c8O896pGmDfFbt2bYpn/pgNljjxWMoWprXUMttbwaBHHUOQrnJVqTP3SzW3q8Dgc8UE1Xhk7YIeWhcsXQx8bYzHI6ZrYJea411q8LnMUhqIgLAPg0VW4gAgpGvg3eC59de49mt8gpiTGTGXP+iPTsQz5Ut4YeWmpjdJdPIkqn+ZgZK2PyblTzsDwzjAIpVDIBBo1LpPUD9MZf+UDfiD/mgz1w7oSes3oHmfiQEAaGZGg/mWRUHwBHzhZ2YgMocGzAXoZ0SWwTNhoEBDvvm2Eciy7ZIhfv7VwXMAEOrp++3U4YOnAWDD+9sLy98u61hS8BKyMm14/GQIrYF7h77fr308Xk+v18RPuek9jxhPjrGEJCskyQpdbLpOayoqXmg4c5YGBiMkKwrFVJVUVaNYTCVJkulhRydtqal9z7z/s9UuR6e9mnrt1dRnd1Of3U299moqf7U8JxV9RvS0Xq3BdhAB9hXLwMBw78Ej9PaHkcFFOEpLkD0nC0SEnr4wyqp2Z3f/5ZH3lLjWbtczr+eBjZmGx0Rl6xd3vWcmMzAyiotfXw6Awdd0DXU/Hy285DnZDcAAwCo+qHnlSN23j5a8nI/8hfNxwvWOZES0W6t07sgwkWkAHrJ4KAK6szou7gTgSXBYg0w4f/kqwekc9/uwd3/dbV3XiYhI8jZTz0r3qLSfL67ybVy+8cXJTmyZAQD46fgpB/z+5JkCALhxs81NRA8AgM/PSXzzn6bdx9X6bYHGWgApt98wRtpQ03R4u/9utQqMdIVCw+yxedkIJ8ZvgMXvbws0fpKO+CgD/QODgN9vWS+bLWtEoEsgFLX9zq9wraE+S1mHyeo8AUZKICuxlDclfuQMd6Dxo3SFh/H/JEx9ek4rpmUUzxqYNTAViI+fRAkAhiR5wjbozY0a0eiQwTlnkqxMW8v8B+pbhgcsiDRZAAAAAElFTkSuQmCC)](https://nhentai.net/g/338921)
