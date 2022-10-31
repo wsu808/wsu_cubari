@@ -24,7 +24,7 @@
 #### Sources:
 [![Read on Cubari](https://img.shields.io/badge/Free%20on-Cubari-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAL2SURBVFiFxVe/a1NRFP7us4oiOF36attHO+qQKfoHdLBZxK34LxQcHF10ENKpU6QoRZ3EoQTchE5N6ZClhpS2tEX6ghBKk8dBaAZ1sF4H33s9ve/cpG1SPHAD97xz73d+nxsFwINM5pz8C9HQ/wK2Feh2+aUAA1DJj+oGSkRRv0ha62Eb2NaEr5Smp6dv9qPA4uJijp23cRTi/HN5oW/r4/MuYA+ANwRHjBuNxlo/4ACU1tq3eRkh12kiiqzYnRk4Pt/uJqS1vg04egARtY6Pj3+4Dm9sbLwjooivzc3Nj2AGCdaL5GpCnu/7kzZzeXn5KRFF4+Pjj+xvo6OjD4ioXavV3seKKK31iHQ552caERFFW1tbrwR+G11CltDExMRDIjqMXay01iNE1LLEknuM6IGpqaki378ulfIS+N7e3ttqtfpCuEItLS09tsAAnMQeUvITUTQzM3ND4vMFoZwAeILclXipmNe2z2Q8UC6Xf/J9Pp+/alngQ+4dilkHACiVSne5F6zvBoBJL7HKjvNPlZOVWJmwENGhJN9sNr8EQXCP54PW2rc94OyKAolyxphfEj8IgjwAo7X2maFmKNY6OkvX6sEHAKOUum7zbCHubQ+scyWl1quLScASkCQ3Pz8/aTMzGR1nsIc4i3lm1+v1DzjJ7lMZXSwWxxzVcsp6vvdsoSRJFhYW7ksmBEFQODg42LEtXllZeTY7O1u3LeZy29vbZcl6noiGu5+XjZ3dvUgaZNKAS8AVhNjXarU3iRWFQmHsrOBzc3N3BPAWgD82X+FfLFGpVJ7ncrkngiW87k2vBHWNcNd4T90vgTPN01jGdey3Wq1qItPpdEKt9XA38Gaz+Vn6lnpgfX39pVLqljHmu1Kq02g0dvb397+FYRiFYdhZXV39DTbFpMtc1OtxkyknsOrY3d39xJQ9N8UD7lo3mQwoXwN6mLpIJQpIL9fLBE8xpFdxuj86Ovo6iD8mFrCoSQZ8wOQcbBdKrEEA9xK4dOCE/gJkO5Otts3IqQAAAABJRU5ErkJggg==)](https://cubari.moe/read/gist/cmF3L3dzdTgwOC93c3VfY3ViYXJpL21hc3Rlci9CbGFja0xhYmVsLmpzb24=)  
 
-[![Read on Cubari](https://img.shields.io/badge/Free%20on-DeviantArt-00E49A?style=for-the-badge&logo=deviantart)](https://www.deviantart.com/stereoscopecomics/gallery/64781889/black-label-chapter-1)
+[![Read on DeviantArt](https://img.shields.io/badge/Free%20on-DeviantArt-00E49A?style=for-the-badge&logo=deviantart)](https://www.deviantart.com/stereoscopecomics/gallery/64781889/black-label-chapter-1)
 
 
 **Description**  
@@ -86,17 +86,21 @@ Author’s Social Media:
 ------------------------------------------------------------------------------------------------------------------------------------
 
 # Nana to Kaoru
-![by ](https://img.shields.io/badge/by-X-000000?style=social)
+![by Amazume Ryuta](https://img.shields.io/badge/by-Amazume_Ryuta-000000?style=social)
 
 **Theme/Tags**  
 > BDSM, bondage, plot, childhood friends, manga
 
-![](https://img.shields.io/badge/-Manga-red)
+![volume count](https://img.shields.io/badge/volumes-18-blue)
+![chapter count](https://img.shields.io/badge/chapters-156-brightgreen)
+![tag:Manga](https://img.shields.io/badge/-Manga-red)
 
 #### Sources:
+[![Read on MangaDex](https://img.shields.io/badge/Free%20on-MangaDex-FF6740?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iMzQiIHZpZXdCb3g9IjAgMCA0MCAzNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMzQuNTQyIDIxLjY2OUg4LjIxNmEuNTg1LjU4NSAwIDAgMSAwLTEuMTdoMjYuMzI2YS41ODUuNTg1IDAgMCAxIDAgMS4xN1pNMzQuNTQyIDIzLjg4N0g4LjIxNmEuNTg1LjU4NSAwIDEgMSAwLTEuMTdoMjYuMzI2YS41ODUuNTg1IDAgMCAxIDAgMS4xN1oiIGZpbGw9IiNGRjY3NDAiLz48cGF0aCBkPSJNMzAuMjMzIDIzLjIyOXYzLjkxMmwxLjY3NS0uOTcgMS42NzYuOTdWMjMuMjNoLTMuMzVaIiBmaWxsPSIjRkY2NzQwIi8+PHBhdGggZD0iTTM1LjcxNSAxMC44NjZoLTQuNDAzdjIuNDQxaDQuNDAzdi0yLjQ0WiIgZmlsbD0iIzI3MkIzMCIvPjxwYXRoIGQ9Ik0zOC4wOCAxMy45MjhjLS4wMjEtLjAyLS4wNDMtLjAzNy0uMDY1LS4wNTZhNS45OTggNS45OTggMCAwIDEtMS4yNjYtMS41MzZsLS4wMDktLjAxOGgtLjAwMWE1LjkxIDUuOTEgMCAwIDEtLjcyLTIuMTVjLS4wMDQtLjA0Ny0uMDEtLjA5My0uMDE1LS4xNHYtLjAwOWExLjUxNCAxLjUxNCAwIDAgMC0uMzI3LS43MjVsLS4wNDgtLjA1NGExMC40MyAxMC40MyAwIDAgMC01LjMwMS0zLjE5OCA2LjU3NCA2LjU3NCAwIDAgMSAuODEtMy40ODQuMzc2LjM3NiAwIDAgMC0uMzMyLS41NTdoLS4wMjZhMTMuNzA1IDEzLjcwNSAwIDAgMC02Ljk2NSAzLjMzIDEzLjc5MiAxMy43OTIgMCAwIDAtMi44NSAzLjU2IDEyLjYxNiAxMi42MTYgMCAwIDAtMS43MjItLjc2NCAxMi44NTkgMTIuODU5IDAgMCAwLTUuNTM2LS42OTcgMTIuNzY1IDEyLjc2NSAwIDAgMC00LjE2NSAxLjEwNUM1LjM3OSAxMC40MzcgMi40MDUgMTQuNDkgMi4wMzkgMTkuMjcgMi4wMTMgMTkuNiAyIDE5LjkzNSAyIDIwLjI3djMuMjMzYzAgLjU2LjA4MyAxLjA5OC4yMzcgMS42MDVhNS41NSA1LjU1IDAgMCAwIDIuNTk2IDMuMjI2Yy43Ni40MjcgMS42My42OCAyLjU2LjcwNGg4LjIxMmExLjYyMyAxLjYyMyAwIDAgMSAuMjQzIDBjLjAxMyAwIC4wMjYgMCAuMDQuMDAzLjAyMS4wMDEuMDQyLjAwMi4wNjQuMDA1YTEuOTQxIDEuOTQxIDAgMCAxIDEuNzA2IDEuNzAyIDEuMjkxIDEuMjkxIDAgMCAxIC4wMTQuMjNsLS4wMDEuMDM2di4wMDRhMS45NSAxLjk1IDAgMCAwIC45MTggMS42MSAxLjk0IDEuOTQgMCAwIDAgMi45NTUtMS41MTRjLjAwMi0uMDI1LjAwNC0uMDUuMDA0LS4wNzd2LS4xMDhjMC0uNjYyLS4xMS0xLjMtLjMxMy0xLjg5MWE1LjgxNiA1LjgxNiAwIDAgMC0xLjQyMS0yLjI1NCA1LjgxNSA1LjgxNSAwIDAgMC00LjA4Ny0xLjY3Nkg4Ljg4Yy0uMDE2LjAwMi0uMDMzLjAwMi0uMDUuMDAyLS4wMTYgMC0uMDMzIDAtLjA1LS4wMDJhMi45MTcgMi45MTcgMCAwIDEtMi44Ny0yLjkxOCAyLjkyIDIuOTIgMCAwIDEgMi45Mi0yLjkyMWgyNi4xMDZhMS41MiAxLjUyIDAgMCAwIDEuNDQzLTEuMDVsLjAyLS4wN2MuMDkxLS4yOTQuMjctLjU1LjUwNi0uNzM3bC4wMDQtLjAwMmEuNjM4LjYzOCAwIDAgMSAuMDU4LS4wNDQuOTM0LjkzNCAwIDAgMSAuMDgyLS4wNTUgMi45ODUgMi45ODUgMCAwIDAgMS4wMzItMy4zODVabS0zLjQ4Ny0xLjE2NWEuMzc3LjM3NyAwIDAgMS0uMTc1LS4wNDQgMi4wMzcgMi4wMzcgMCAwIDAtMS40MjMtLjIzNGMtLjIxMi4wNC0uNDEyLjExNC0uNTk1LjIxNWwtLjAwOC4wMDZjLS4wMTIuMDA0LS4wMjIuMDExLS4wMzIuMDE4YS4zNjkuMzY5IDAgMCAxLS4zNy0uNjM0bC4wMzYtLjAyMmEyLjc5NCAyLjc5NCAwIDAgMSAyLjczNSAwbC4wMzYuMDIyYS4zNjcuMzY3IDAgMCAxLS4yMDQuNjczWiIgZmlsbD0iI0YxRjFGMSIvPjxwYXRoIGQ9Ik0zOC4wOCAxMy45MjhjLS4wMjEtLjAyLS4wNDMtLjAzNy0uMDY1LS4wNTZhNS45OTggNS45OTggMCAwIDEtMS4yNjYtMS41MzZsLS4wMDktLjAxOGgtLjAwMWE1LjkxIDUuOTEgMCAwIDEtLjcyLTIuMTVjLS4wMDQtLjA0Ny0uMDEtLjA5My0uMDE1LS4xNHYtLjAwOWExLjUxNCAxLjUxNCAwIDAgMC0uMzI3LS43MjVsLS4wNDgtLjA1NGExMC40MyAxMC40MyAwIDAgMC01LjMwMS0zLjE5OCA2LjU3NCA2LjU3NCAwIDAgMSAuODEtMy40ODQuMzc2LjM3NiAwIDAgMC0uMzMyLS41NTdoLS4wMjZhMTMuNzA1IDEzLjcwNSAwIDAgMC02Ljk2NSAzLjMzIDEzLjc5MiAxMy43OTIgMCAwIDAtMi44NSAzLjU2IDEyLjYxNiAxMi42MTYgMCAwIDAtMS43MjItLjc2NCAxMi44NTkgMTIuODU5IDAgMCAwLTUuNTM2LS42OTcgMTIuNzY1IDEyLjc2NSAwIDAgMC00LjE2NSAxLjEwNUM1LjM3OSAxMC40MzcgMi40MDUgMTQuNDkgMi4wMzkgMTkuMjcgMi4wMTMgMTkuNiAyIDE5LjkzNSAyIDIwLjI3djMuMjMzYzAgLjU2LjA4MyAxLjA5OC4yMzcgMS42MDVhNS41NSA1LjU1IDAgMCAwIDIuNTk2IDMuMjI2Yy43Ni40MjcgMS42My42OCAyLjU2LjcwNGg4LjIxMmExLjYyMyAxLjYyMyAwIDAgMSAuMjQzIDBjLjAxMyAwIC4wMjYgMCAuMDQuMDAzLjAyMS4wMDEuMDQyLjAwMi4wNjQuMDA1YTEuOTQxIDEuOTQxIDAgMCAxIDEuNzA2IDEuNzAyIDEuMjkxIDEuMjkxIDAgMCAxIC4wMTQuMjNsLS4wMDEuMDM2di4wMDRhMS45NSAxLjk1IDAgMCAwIC45MTggMS42MSAxLjk0IDEuOTQgMCAwIDAgMi45NTUtMS41MTRjLjAwMi0uMDI1LjAwNC0uMDUuMDA0LS4wNzd2LS4xMDhjMC0uNjYyLS4xMS0xLjMtLjMxMy0xLjg5MWE1LjgxNiA1LjgxNiAwIDAgMC0xLjQyMS0yLjI1NCA1LjgxNSA1LjgxNSAwIDAgMC00LjA4Ny0xLjY3Nkg4Ljg4Yy0uMDE2LjAwMi0uMDMzLjAwMi0uMDUuMDAyLS4wMTYgMC0uMDMzIDAtLjA1LS4wMDJhMi45MTcgMi45MTcgMCAwIDEtMi44Ny0yLjkxOCAyLjkyIDIuOTIgMCAwIDEgMi45Mi0yLjkyMWgyNi4xMDZhMS41MiAxLjUyIDAgMCAwIDEuNDQzLTEuMDVsLjAyLS4wN2MuMDkxLS4yOTQuMjctLjU1LjUwNi0uNzM3bC4wMDQtLjAwMmEuNjM4LjYzOCAwIDAgMSAuMDU4LS4wNDQuOTM0LjkzNCAwIDAgMSAuMDgyLS4wNTUgMi45ODUgMi45ODUgMCAwIDAgMS4wMzItMy4zODVabS0zLjQ4Ny0xLjE2NWEuMzc3LjM3NyAwIDAgMS0uMTc1LS4wNDQgMi4wMzcgMi4wMzcgMCAwIDAtMS40MjMtLjIzNGMtLjIxMi4wNC0uNDEyLjExNC0uNTk1LjIxNWwtLjAwOC4wMDZjLS4wMTIuMDA0LS4wMjIuMDExLS4wMzIuMDE4YS4zNjkuMzY5IDAgMCAxLS4zNy0uNjM0bC4wMzYtLjAyMmEyLjc5NCAyLjc5NCAwIDAgMSAyLjczNSAwbC4wMzYuMDIyYS4zNjcuMzY3IDAgMCAxLS4yMDQuNjczWiIgZmlsbD0iI0U2RTZFNiIvPjxwYXRoIGQ9Ik0yMS4wMDUgOC44MjRjLjcwMyAzLjM4IDMuNjM1IDUuOTE1IDcuMTQ3IDUuOTE1IDIuMDY3IDAgMy45MzMtLjg4IDUuMjYyLTIuMjkybC0uMDIxLS4wMDFjLS4xMzcgMC0uMjcuMDEzLS4zOTguMDQtLjIxMi4wMzgtLjQxMi4xMTMtLjU5NS4yMTRsLS4wMDguMDA2Yy0uMDEyLjAwNC0uMDIzLjAxMS0uMDMzLjAxOWEuMzY5LjM2OSAwIDAgMS0uNTMyLS4zM2MwLS4xMjguMDY0LS4yMzkuMTYyLS4zMDVsLjAzNy0uMDIyYTIuNzg5IDIuNzg5IDAgMCAxIDEuOTUyLS4yOTQgNy41MTkgNy41MTkgMCAwIDAgMS4zMDktMi44OTggMTAuNDE1IDEwLjQxNSAwIDAgMC00Ljk2LTIuODM0IDYuNTczIDYuNTczIDAgMCAxIC44MS0zLjQ4NS4zNzYuMzc2IDAgMCAwLS4zMzItLjU1N2MtLjAwOCAwLS4wMTcgMC0uMDI2LjAwMmExMy43IDEzLjcgMCAwIDAtNi45NjUgMy4zMyAxMy43OTMgMTMuNzkzIDAgMCAwLTIuODEgMy40OTJaIiBmaWxsPSIjRkY2NzQwIi8+PHBhdGggZD0iTTM2LjE0NSAxNS44MDdjLS4zMTgtLjA5NS0uNjM0LS4xODktLjk1NS0uMjZhMTYuODE5IDE2LjgxOSAwIDAgMC0yLjkwNy0uNDU5Yy0uNjUyLS4wNTQtMS4zMDYtLjAyNy0xLjk1Ni4wMjNsLS40ODguMDU0Yy0uMTYyLjAyMy0uMzIuMDYyLS40ODIuMDktLjMyOC4wNC0uNjM2LjE2LS45NjIuMjI4YTcuMTc4IDcuMTc4IDAgMCAxIDEuOTA2LS41NzJjLjY2LS4wOTkgMS4zMzItLjEzMyAxLjk5OC0uMDgzYTExLjE1IDExLjE1IDAgMCAxIDEuOTcyLjMxMyA5LjY4MiA5LjY4MiAwIDAgMSAxLjg3NC42NjZaTTM1Ljg1OCAxNi40MDdjLS4zMjgtLjA0Ny0uNjU0LS4wOTMtLjk4My0uMTE1YTE2Ljc5NCAxNi43OTQgMCAwIDAtMi45NDQtLjAyMmMtLjY1My4wNDMtMS4yOTUuMTY3LTEuOTMuMzEzbC0uNDc1LjEyNmMtLjE1Ni4wNDctLjMwOC4xMDgtLjQ2My4xNi0uMzE5LjA4OS0uNjA1LjI1Mi0uOTE3LjM2OWE3LjE3NSA3LjE3NSAwIDAgMSAxLjgtLjg0OSA4Ljk2NSA4Ljk2NSAwIDAgMSAxLjk2My0uMzhjLjY2NS0uMDUgMS4zMzUtLjA1IDEuOTk3LjAxOGE5LjczIDkuNzMgMCAwIDEgMS45NTIuMzhaTTM1LjgxMyAxNy4xMDZjLS4zMy4wMjYtLjY1OS4wNTEtLjk4NS4xYTE2LjgzOCAxNi44MzggMCAwIDAtMi44NzguNjE0Yy0uNjI4LjE4My0xLjIyOC40NDItMS44MTguNzIzbC0uNDM1LjIyNWMtLjE0My4wOC0uMjc4LjE3Mi0uNDE4LjI1Ny0uMjkzLjE1NS0uNTM3LjM3Ni0uODE3LjU1N2E3LjE3NCA3LjE3NCAwIDAgMSAxLjU3NS0xLjIxNyA4LjkzOSA4LjkzOSAwIDAgMSAxLjgzNS0uNzk0IDExLjEzIDExLjEzIDAgMCAxIDEuOTUzLS40MTUgOS42ODMgOS42ODMgMCAwIDEgMS45ODgtLjA1WiIgZmlsbD0iIzI3MkIzMCIvPjxwYXRoIGQ9Ik0zOC4wMTUgMTMuODcyYTYuMDQgNi4wNCAwIDAgMS0uMzItLjMuOTY4Ljk2OCAwIDAgMCAuNSAxLjc5NmguMDE1Yy4wMDYtLjA0MS4wMTYtLjA4LjAyLS4xMjJhMi45NSAyLjk1IDAgMCAwLS4xNS0xLjMxOWwtLjA2NS0uMDU1WiIgZmlsbD0iI0YyN0JBQSIvPjxwYXRoIGQ9Ik0yOS45OTMgNi41NGMwIC4wNDYgMCAuMDkyLjAwMi4xMzhhMTAuNDA4IDEwLjQwOCAwIDAgMC0zLjE2NiAyLjAxNyA1LjU1NiA1LjU1NiAwIDAgMSA0LjM0NS02LjIzIDcuNTg0IDcuNTg0IDAgMCAwLTEuMTggNC4wNzVaIiBmaWxsPSIjZmZmIi8+PHBhdGggZD0iTTE5LjgxNCAyNi43ODVhNS44NDQgNS44NDQgMCAwIDAtLjQwNC0uMzYgNC41MTIgNC41MTIgMCAwIDAtMy4yNDUgMi42NiAxLjk0MiAxLjk0MiAwIDAgMSAxLjUwNyAxLjg5M2wtLjAwMS4wMzd2LjAwNGExLjk1NSAxLjk1NSAwIDAgMCAuOTE4IDEuNjExIDEuOTQgMS45NCAwIDAgMCAyLjk1OS0xLjU5MnYtLjEwOGMwLS42NjItLjExLTEuMy0uMzEzLTEuODkxYTUuODMxIDUuODMxIDAgMCAwLTEuNDIxLTIuMjU1WiIgZmlsbD0iI0ZGNjc0MCIvPjwvc3ZnPg==)](https://mangadex.org/title/fa8beb17-13df-492b-b134-9c651aa01cfa/nana-to-kaoru)
 
 **Description**  
-> **
+> *Kaoru is a 17-year-old virgin who has an SM fetish. He secretly dreams about an SM relationship with his childhood friend Nana. One day Kaoru's mom asks Nana to hide all his SM toys so he'll study for a change. However, Nana finds the leather one-piece that Kaoru bought and tries it on, but she accidentally locks it and doesn't have the key! The beginning of their super strange relationship.*  
+> <small>~MangaDex</small>
 
 Author’s Social Media:
 
@@ -109,19 +113,23 @@ Author’s Social Media:
 **Theme/Tags**  
 > 
 
-![](https://img.shields.io/badge/‼️-discontinued-critical)
+![](https://img.shields.io/badge/-discontinued-critical)
 ![](https://img.shields.io/badge/chapters-28%2831_in_Thai%29-brightgreen)
 
 #### Sources:
+[![Read on Tumblr](https://img.shields.io/badge/Free%20on-Tumblr-00B8FF?style=for-the-badge&logo=tumblr)](https://three-musqueerteers.tumblr.com/releases/TMS)
 
 **Description**  
 > **
 
-Author’s Social Media:
+Author’s Social Media:  
+[![socials:Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=flat-square)](https://m.facebook.com/1StKuroStudio)
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 # Familiar
+<sup>**familia. a witch. a cat. a contract.**</sup>
+
 [![by Soushiyo](https://img.shields.io/badge/by-Soushiyo_➚-000000?style=social)](https://soushiyo.com)
 
 **Theme/Tags**  
@@ -153,14 +161,19 @@ Author's Social Media:
 ![by Geknebelt](https://img.shields.io/badge/by-Geknebelt-000000?style=social)
 
 **Theme/Tags**  
-> 
+> classic sex, lesbians, obedience, gags, spanking 
 
 ![chapter count](https://img.shields.io/badge/chapters-2-brightgreen)
 
 #### Sources:
+[![Read on Patreon](https://img.shields.io/badge/$10_Tier-Patreon-FF5A00?logo=patreon&style=for-the-badge)](https://www.patreon.com/geknebelt)  
+
+[![Buy on Gumroad](https://img.shields.io/badge/$8--$18/chapter*-Gumroad-FF7E00?logo=gumroad&style=for-the-badge)](https://geknebelt.gumroad.com/)  
+<small>*Prolog+Ch1 Combo Pack available in lower price</small>
 
 **Description**  
-> **
+> *Since this only covers Rebecca's very first experience with kink, there's very little actual bondage--it's mostly the girls finding out where their limits are and trying a bit of dominance/submission. There's a lot of good sexy action but it's fairly light-hearted and vanilla up to this point, with the main goal being to establish the characters and ease Rebecca into BDSM.*  
+> <small>~Geknebelt</small>
 
 Author’s Social Media:
 
@@ -233,10 +246,12 @@ Author’s Social Media:
 ------------------------------------------------------------------------------------------------------------------------------------
 
 # T.I.E.D.
+<sup>**TEAM of INVESTIGATORS and EXPERIENCED DETECTIVES**</sup>
+
 ![by Ryner-E](https://img.shields.io/badge/by-Ryner--E-000000?style=social)
 
 **Theme/Tags**  
-> bondage(rope, tape)
+> bondage(rope, tape), <abbr title="Damsel in Distress">DiD</abbr>
 
 ![chapter count](https://img.shields.io/badge/chapters-6-brightgreen)
 
@@ -244,7 +259,8 @@ Author’s Social Media:
 [![Read on Patreon](https://img.shields.io/badge/$10_Tier-Patreon-FF5A00?logo=patreon&style=for-the-badge)](https://www.patreon.com/Ryner_E/)
 
 **Description**  
-> TEAM of INVESTIGATORS and EXPERIENCED DETECTIVES
+> *Just an average run of the mill DiD situation with lots of tape, rope, gags, gag sequences and more tape! it follows my OC's home made detective squad of misfits, think mystery inc. without the talking dog. There a lot more to the story coming but for now this would be the first chapter.*  
+> <small>~Ryner-E</small>
 
 Author’s Social Media:
 
