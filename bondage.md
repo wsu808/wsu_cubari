@@ -17,8 +17,8 @@
   <a href="#fetish-interviews">Fetish Interviews</a><br>
   <a href="escapades">Escapades</a><br>
   <a href="#tied">T.I.E.D.</a><br>
-  <a href=""></a><br>
-  <a href=""></a><br>
+  <a href="#california-dreams">California Dreams</a><br>
+  <a href="#awkward-x-awkward">Awkward X Awkward</a><br>
 </details>
 
 ------------------------------------------------------------------------------------------------------------------------------------
@@ -286,7 +286,7 @@ Author’s Social Media:
 
 #### Sources:
 [![Read on](https://img.shields.io/badge/read_at*-bondagefan.com-blue?style=for-the-badge)](https://www.bondagefan.com/comics/California-Dreams/c=83/) 
-<sup>*15 pages*</sup>
+<sup>*15 pages*</sup>  
 *[needs Bondage Fan subscription](#bondage-fan-magazine) 
 
 **Description**  
@@ -318,6 +318,10 @@ Author’s Social Media:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-
+```
+Disclaimer
+The information on this website is for illustrative purposes only. 
+The creator is not responsible for out-of-date information or changes in the prices presented above.
+```
 
 <p align=center><small>Made with 🍆 by wasu</small></p>
