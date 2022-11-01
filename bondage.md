@@ -178,7 +178,7 @@ Author's Social Media:
 [![Read on Patreon](https://img.shields.io/badge/$10_Tier-Patreon-FF5A00?logo=patreon&style=for-the-badge)](https://www.patreon.com/geknebelt)  
 
 [![Buy on Gumroad](https://img.shields.io/badge/$8--$18/chapter*-Gumroad-FF7E00?logo=gumroad&style=for-the-badge)](https://geknebelt.gumroad.com/)  
-<small>*Prolog+Ch1 Combo Pack available in lower price</small>
+<sup>*Prolog+Ch1 Combo Pack available in lower price</sup>
 
 **Description**  
 > *Since this only covers Rebecca's very first experience with kink, there's very little actual bondage--it's mostly the girls finding out where their limits are and trying a bit of dominance/submission. There's a lot of good sexy action but it's fairly light-hearted and vanilla up to this point, with the main goal being to establish the characters and ease Rebecca into BDSM.*  
@@ -288,7 +288,7 @@ Author’s Social Media:
 #### Sources:
 [![Read on](https://img.shields.io/badge/read_at*-bondagefan.com-blue?style=for-the-badge)](https://www.bondagefan.com/comics/California-Dreams/c=83/) 
 <sup>*15 pages*</sup>  
-<small>*part of [\[Bondage Fan\]](#bondage-fan-magazine) subscription</small>
+<sup>*part of [\[Bondage Fan\]](#bondage-fan-magazine) subscription</sup>
 
 **Description**  
 > *Shane, a California surfer-boy, indulges in a fantasy kidnapping at the hands of Ava, an exotic young woman he’s been dating, in the waning days of summer. A deserted private beach is the perfect place…and Ava wants to play. In fact, she seems to know exactly what to do. Caught up in the game, Shane is able to suspend his disbelief and fall into a state of feeling as if he’d truly been abducted. The expected results of their stirring game and the actual outcome, however, may be two different things.*  
@@ -325,4 +325,4 @@ The information on this website is for illustrative purposes only.
 We are not responsible for out-of-date information or changes in the prices presented above.
 ```
 
-<p align=center><small>Made with 🍆 by wasu</small></p>
+<p align=center><sub>Made with 🍆 by wasu</sub></p>
