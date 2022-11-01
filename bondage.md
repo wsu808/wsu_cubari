@@ -69,8 +69,8 @@ Author's Social Media:
 
 #### Sources:
 [![Read on](https://img.shields.io/badge/$16.95/mo*-bondagefan.com-blue?style=for-the-badge)](https://www.bondagefan.com)  
-<small>\*you can download all available stories once you subscribe for first month  
-\*\*lower pricing but for longer time are available </small>
+<sub>\*you can download all available stories once you subscribe for first month  
+\*\*lower pricing but for longer time are available </sub>
 
 **Description**  
 > *Bondage Fan was founded in 2016 as a collaborative effort between writers and artists aiming to create high-quality Bondage comics. The whole idea behind the website was to foster interaction between fans and artists in order to create works of art that reflect the desires and imaginations of the fans of the genre. Bondage comics are our main focus although themes do touch upon various other fetishes such as feet, tickling, and more.*  
