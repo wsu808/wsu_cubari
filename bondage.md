@@ -70,7 +70,7 @@ Author's Social Media:
 #### Sources:
 [![Read on](https://img.shields.io/badge/$16.95/mo*-bondagefan.com-blue?style=for-the-badge)](https://www.bondagefan.com)  
 <sub>\*you can download all available stories once you subscribe for first month  
-\*\*lower pricing but for longer time are available </sub>
+\*\*lower pricing but for longer time is available </sub>
 
 **Description**  
 > *Bondage Fan was founded in 2016 as a collaborative effort between writers and artists aiming to create high-quality Bondage comics. The whole idea behind the website was to foster interaction between fans and artists in order to create works of art that reflect the desires and imaginations of the fans of the genre. Bondage comics are our main focus although themes do touch upon various other fetishes such as feet, tickling, and more.*  
@@ -210,7 +210,7 @@ Author’s Social Media:
 
 ![by Coax](https://img.shields.io/badge/by-Coax-000000?style=social)
 
-[![Buy on](https://img.shields.io/badge/$3--$10-Gumroad-FF7E00?logo=gumroad&style=for-the-badge)](https://coaxdreams.gumroad.com//)
+[![Buy on](https://img.shields.io/badge/$3--$10/story-Gumroad-FF7E00?logo=gumroad&style=for-the-badge)](https://coaxdreams.gumroad.com//)
 
 **Theme/Tags**  
 > 
@@ -301,6 +301,13 @@ Author’s Social Media:
 
 **Theme/Tags**  
 > Gentle Femdom, Femdom, Sex Toys, Aftercare, Domme Drop, Role Reversal, Restraints, Shibari
+
+<details><summary>Gallery</summary>
+
+![](https://public-files.gumroad.com/variants/tfntu2s6y1d0cu2xjpamoeefey6s/baaca0eb0e33dc4f9d45910b8c86623f0144cea0fe0c2093c546d17d535752eb)
+![](https://public-files.gumroad.com/variants/7xn34f9bf3zviv3kkc9rxs84w2fj/baaca0eb0e33dc4f9d45910b8c86623f0144cea0fe0c2093c546d17d535752eb)
+
+</details>
 
 #### Sources:
 [![Buy on Gumroad](https://img.shields.io/badge/$7-Gumroad-FF7E00?logo=gumroad&style=for-the-badge)](https://aeritea.gumroad.com/l/AwkwardXAwkward?layout=profile) 
