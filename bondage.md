@@ -303,10 +303,10 @@ Author’s Social Media:
 > Gentle Femdom, Femdom, Sex Toys, Aftercare, Domme Drop, Role Reversal, Restraints, Shibari
 
 <details><summary>Gallery</summary>
-
-<img src="https://public-files.gumroad.com/variants/tfntu2s6y1d0cu2xjpamoeefey6s/baaca0eb0e33dc4f9d45910b8c86623f0144cea0fe0c2093c546d17d535752eb"/>
-<img src="https://public-files.gumroad.com/variants/7xn34f9bf3zviv3kkc9rxs84w2fj/baaca0eb0e33dc4f9d45910b8c86623f0144cea0fe0c2093c546d17d535752eb"/>
-
+ <div align="center">
+  <img width="360px" src="https://public-files.gumroad.com/variants/tfntu2s6y1d0cu2xjpamoeefey6s/baaca0eb0e33dc4f9d45910b8c86623f0144cea0fe0c2093c546d17d535752eb"/> 
+  <img width="360px" src="https://public-files.gumroad.com/variants/7xn34f9bf3zviv3kkc9rxs84w2fj/baaca0eb0e33dc4f9d45910b8c86623f0144cea0fe0c2093c546d17d535752eb"/>
+ </div>
 </details>
 
 #### Sources:
