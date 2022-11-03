@@ -64,16 +64,30 @@
         async function fetchComics() {
             const response = await fetch('https://api.github.com/repos/wsu808/wsu_cubari/contents/');
             const comicLinks = await response.json();
+            const DOM = document.getElementById('demo');
             for (var i = 0; i < comicLinks.length; i++) {
                 if (comicLinks[i].name.includes(".json")) {
+                
+                	var elem_comic = document.createElement('div');
+                	
+                	var elem_href = document.createElement('a');
                 	var cubariLink = getCubariURL(comicLinks[i].download_url);
-                	var elem = '<a href="' + cubariLink + '" target="_blank">' + '<div>'; 
+                	elem_href.href = cubariLink;
+                	elem_href.target = '_blank';
                 
                 	const meta = await getMeta(comicLinks[i].download_url);
-                    //const cvr = await getCoverURL(comicLinks[i].download_url);
-                    elem += '<img src="' + meta[0] + '">' + '<br>';
-                    elem += meta[1] + '</div></a>';
-                    document.getElementById('demo').innerHTML += elem;
+                
+                	var elem_img = document.createElement('img');
+                	elem_img.src = meta[0];
+                	elem_img.alt = meta[1];
+                
+                	var elem_text = document.createTextNode(meta[1]);
+                
+                	elem_href.appendChild(elem_img);
+                	elem_href.appendChild(document.createElement('br'));
+                	elem_href.appendChild(elem_text);
+                	elem_comic.appendChild(elem_href);
+                	DOM.appendChild(elem_comic);
                 } 
                 //progressbar
                 var progress = i*100/comicLinks.length;
@@ -99,8 +113,7 @@
             const response = await fetch(URL);
             const data = await response.json();
             var cover = data.cover ? data.cover : 'https://via.placeholder.com/512x768.jpg?text=<no_cover>' ;
-            var title = data.title;
-            title = title.replace('\n','<br>');
+            var title = data.title ? data.title : 'title not specified';
             return [cover, title];
         }
 
