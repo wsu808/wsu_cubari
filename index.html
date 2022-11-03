@@ -36,6 +36,10 @@
         #demo div:hover {
             background-color:lightsteelblue;
         }
+        
+        #demo div img {
+        	min-height: 50px;
+        }
 
         #progressbar {
             width: 0;
@@ -79,7 +83,7 @@
                 
                 	var elem_img = document.createElement('img');
                 	elem_img.src = meta[0];
-                	elem_img.alt = meta[1];
+                	elem_img.alt = 'COVER for:' + meta[1];
                 
                 	var elem_text = document.createTextNode(meta[1]);
                 
