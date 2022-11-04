@@ -19,6 +19,7 @@
   <a href="#tied">T.I.E.D.</a><br>
   <a href="#california-dreams">California Dreams</a><br>
   <a href="#awkward-x-awkward">Awkward X Awkward</a><br>
+  <a href="#trussed-issues">Trussed Issues</a><br>
 </details>
 
 ------------------------------------------------------------------------------------------------------------------------------------
@@ -319,6 +320,25 @@ Author’s Social Media:
 
 
 ------------------------------------------------------------------------------------------------------------------------------------
+
+# Trussed Issues
+![by](https://img.shields.io/badge/by-Shio--bari-000000?style=social)
+
+**Theme/Tags**  
+> fantasy, monster girls
+
+#### Sources:
+[![Buy on Gumroad](https://img.shields.io/badge/$10/issue-Gumroad-FF7E00?logo=gumroad&style=for-the-badge)](http://shiobari.gumroad.com/) 
+<sup>*25 pages in issue #1*</sup>
+
+[![Read on Patreon](https://img.shields.io/badge/sub_to-Patreon-FF5A00?logo=patreon&style=for-the-badge)](https://www.patreon.com/shiobari)
+  
+
+**Description**  
+> *Issue #1 features Crys and Ash. Two monstergirl roommates who both live fairly private lives. Will those private lives last long? Crys might find herself revealing her secret sooner than she would have liked~*  
+
+Author's Social Media:  
+[![DeviantArt](https://img.shields.io/badge/DeviantArt-06070D?logo=deviantart&iconColor=00E49A&style=flat-square)](https://www.deviantart.com/shio-bari/)
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
