@@ -20,6 +20,7 @@
   <a href="#california-dreams">California Dreams</a><br>
   <a href="#awkward-x-awkward">Awkward X Awkward</a><br>
   <a href="#trussed-issues">Trussed Issues</a><br>
+  <a href="#tied-to-twins">Tied To Twins</a><br>
 </details>
 
 ------------------------------------------------------------------------------------------------------------------------------------
@@ -30,8 +31,8 @@
 **Theme/Tags**  
 > BDSM(mostly bondage), wholesome, plot, lesbians(?), vanilla
 
-![](https://img.shields.io/badge/volumes-1+-blue)
-![](https://img.shields.io/badge/chapters-7+-brightgreen)
+![volume count](https://img.shields.io/badge/volumes-1+-blue)
+![chapter count](https://img.shields.io/badge/chapters-7+-brightgreen)
 
 #### Sources:
 [![Read on Cubari](https://img.shields.io/badge/Free%20on-Cubari-06070D?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAL2SURBVFiFxVe/a1NRFP7us4oiOF36attHO+qQKfoHdLBZxK34LxQcHF10ENKpU6QoRZ3EoQTchE5N6ZClhpS2tEX6ghBKk8dBaAZ1sF4H33s9ve/cpG1SPHAD97xz73d+nxsFwINM5pz8C9HQ/wK2Feh2+aUAA1DJj+oGSkRRv0ha62Eb2NaEr5Smp6dv9qPA4uJijp23cRTi/HN5oW/r4/MuYA+ANwRHjBuNxlo/4ACU1tq3eRkh12kiiqzYnRk4Pt/uJqS1vg04egARtY6Pj3+4Dm9sbLwjooivzc3Nj2AGCdaL5GpCnu/7kzZzeXn5KRFF4+Pjj+xvo6OjD4ioXavV3seKKK31iHQ552caERFFW1tbrwR+G11CltDExMRDIjqMXay01iNE1LLEknuM6IGpqaki378ulfIS+N7e3ttqtfpCuEItLS09tsAAnMQeUvITUTQzM3ND4vMFoZwAeILclXipmNe2z2Q8UC6Xf/J9Pp+/alngQ+4dilkHACiVSne5F6zvBoBJL7HKjvNPlZOVWJmwENGhJN9sNr8EQXCP54PW2rc94OyKAolyxphfEj8IgjwAo7X2maFmKNY6OkvX6sEHAKOUum7zbCHubQ+scyWl1quLScASkCQ3Pz8/aTMzGR1nsIc4i3lm1+v1DzjJ7lMZXSwWxxzVcsp6vvdsoSRJFhYW7ksmBEFQODg42LEtXllZeTY7O1u3LeZy29vbZcl6noiGu5+XjZ3dvUgaZNKAS8AVhNjXarU3iRWFQmHsrOBzc3N3BPAWgD82X+FfLFGpVJ7ncrkngiW87k2vBHWNcNd4T90vgTPN01jGdey3Wq1qItPpdEKt9XA38Gaz+Vn6lnpgfX39pVLqljHmu1Kq02g0dvb397+FYRiFYdhZXV39DTbFpMtc1OtxkyknsOrY3d39xJQ9N8UD7lo3mQwoXwN6mLpIJQpIL9fLBE8xpFdxuj86Ovo6iD8mFrCoSQZ8wOQcbBdKrEEA9xK4dOCE/gJkO5Otts3IqQAAAABJRU5ErkJggg==)](https://cubari.moe/read/gist/cmF3L3dzdTgwOC93c3VfY3ViYXJpL21hc3Rlci9CbGFja0xhYmVsLmpzb24=)  
@@ -52,11 +53,11 @@
 
 
 Author's Social Media:  
-[![DeviantArt](https://img.shields.io/badge/DeviantArt-06070D?logo=deviantart&iconColor=00E49A&style=flat-square)](https://www.deviantart.com/stereoscopecomics) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://mobile.twitter.com/StereoscopeCom1) 
-[![Patreon](https://img.shields.io/badge/Patreon-FF5A00?logo=patreon&logoColor=white&style=flat-square)](https://www.patreon.com/stereoscopecomics) 
-[![Hentai-Foundry](https://img.shields.io/badge/Hentai--Foundry-FF67A2?style=flat-square)](https://www.hentai-foundry.com/user/StereoscopeComics/profile) 
-[![Instagram](https://img.shields.io/badge/Instagram-C13584?logo=instagram&logoColor=white&style=flat-square)](http://instagram.com/StereoscopeComics) 
+[![socials:DeviantArt](https://img.shields.io/badge/DeviantArt-06070D?logo=deviantart&iconColor=00E49A&style=flat-square)](https://www.deviantart.com/stereoscopecomics) 
+[![socials:Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://mobile.twitter.com/StereoscopeCom1) 
+[![socials:Patreon](https://img.shields.io/badge/Patreon-FF5A00?logo=patreon&logoColor=white&style=flat-square)](https://www.patreon.com/stereoscopecomics) 
+[![socials:Hentai-Foundry](https://img.shields.io/badge/Hentai--Foundry-FF67A2?style=flat-square)](https://www.hentai-foundry.com/user/StereoscopeComics/profile) 
+[![socials:Instagram](https://img.shields.io/badge/Instagram-C13584?logo=instagram&logoColor=white&style=flat-square)](http://instagram.com/StereoscopeComics) 
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
@@ -342,7 +343,93 @@ Author's Social Media:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
+# Tied To Twins
+![by](https://img.shields.io/badge/by-Kusujinn-000000?style=social)
+
+**Theme/Tags**  
+> foot fetish, mild bondage
+
+#### Sources:
+[![Read on DeviantArt](https://img.shields.io/badge/Free%20on-DeviantArt-00E49A?style=for-the-badge&logo=deviantart)](https://www.deviantart.com/kusujinn/gallery/79976989/tied-to-twins)
+
+[![Read on Pixiv](https://img.shields.io/badge/Free%20on-Pixiv-0097FA?style=for-the-badge&logo=pixiv)](https://www.pixiv.net/user/11171905/series/128874)
+
+[![Read on Patreon](https://img.shields.io/badge/$3_Tier-Patreon-FF5A00?logo=patreon&style=for-the-badge)](https://www.patreon.com/posts/50960847) 
+<sup>*HD*</sup>  
+
+Author's Social Media:  
+[![socials:DeviantArt](https://img.shields.io/badge/DeviantArt-06070D?logo=deviantart&iconColor=00E49A&style=flat-square)](https://www.deviantart.com/kusujinn/)
+[![socials:Patreon](https://img.shields.io/badge/Patreon-FF5A00?logo=patreon&logoColor=white&style=flat-square)](http://patreon.com/kusujinn)
+[![sicials:PixivFANBOX](https://img.shields.io/badge/Pixiv_FANBOX-0097FA?logo=pixiv&logoColor=white&style=flat-square)](http://kusujinn.fanbox.cc/)
+[![socials:Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/kusujinn) 
+
 ------------------------------------------------------------------------------------------------------------------------------------
+
+# Tied To Twins - Side Story 1
+![by](https://img.shields.io/badge/by-Kusujinn-000000?style=social)
+
+**Theme/Tags**  
+> foot fetish, mild bondage
+
+#### Sources:
+[![Read on DeviantArt](https://img.shields.io/badge/[preview]-DeviantArt-00E49A?style=for-the-badge&logo=deviantart)](https://www.deviantart.com/kusujinn/art/Tied-To-Twins-Side-Story-1-Character-Page-918983582)
+
+[![Read on Pixiv FANBOX](https://img.shields.io/badge/¥400_Tier*-Pixiv_FANBOX-0097FA?style=for-the-badge&logo=pixiv)](http://kusujinn.fanbox.cc/posts/3403602)  
+<sup>*15 pages available</sup>
+
+[![Buy on Gumroad](https://img.shields.io/badge/*-Gumroad-FF7E00?logo=gumroad&style=for-the-badge)](https://kusujinn.gumroad.com/)  
+<sup>*yet to be available on Gumroad</sup>
+
+**Description**  
+> *Tied to Twins Side Story #1: A Tied To Twins black and white story (~18 pages) published on Patreon/Fanbox, the whole chapter will feature foot fetish and tickling (and mild bondage)!*
+
+Author's Social Media:  
+[![socials:DeviantArt](https://img.shields.io/badge/DeviantArt-06070D?logo=deviantart&iconColor=00E49A&style=flat-square)](https://www.deviantart.com/kusujinn/)
+[![socials:Patreon](https://img.shields.io/badge/Patreon-FF5A00?logo=patreon&logoColor=white&style=flat-square)](http://patreon.com/kusujinn)
+[![sicials:PixivFANBOX](https://img.shields.io/badge/Pixiv_FANBOX-0097FA?logo=pixiv&logoColor=white&style=flat-square)](http://kusujinn.fanbox.cc/)
+[![socials:Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/kusujinn) 
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+# The Fetish Palace
+![by](https://img.shields.io/badge/by-Kusujinn-000000?style=social)
+
+**Theme/Tags**  
+> bondage, tickling  
+> **Tags below vary per chapter:**  
+> tentacles, foot fetish, gags, tickle wrestling, fondling 
+
+![chapter count](https://img.shields.io/badge/chapters-10+-brightgreen)
+
+#### Sources:
+[![Buy on Gumroad](https://img.shields.io/badge/$6.20--$6.50/chapter-Gumroad-FF7E00?logo=gumroad&style=for-the-badge)](https://kusujinn.gumroad.com/)  
+
+Author's Social Media:  
+[![socials:DeviantArt](https://img.shields.io/badge/DeviantArt-06070D?logo=deviantart&iconColor=00E49A&style=flat-square)](https://www.deviantart.com/kusujinn/)
+[![socials:Patreon](https://img.shields.io/badge/Patreon-FF5A00?logo=patreon&logoColor=white&style=flat-square)](http://patreon.com/kusujinn)
+[![sicials:PixivFANBOX](https://img.shields.io/badge/Pixiv_FANBOX-0097FA?logo=pixiv&logoColor=white&style=flat-square)](http://kusujinn.fanbox.cc/)
+[![socials:Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/kusujinn) 
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
