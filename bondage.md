@@ -2,7 +2,7 @@
 
 | 👉 | You are browsing category: `BONDAGE` |  
 |:----:|:-------------------------------------------------------------|  
-| 🏗️ | <small>This list is incomplete; you can help by expanding it</small> <br/><a href=""><button>➕ **Add Story**</button></a>  <a href=""><button>ℹ️ **Learn More**</button></a> |
+| 🏗️ | <small>This list is incomplete; you can help by expanding it</small> <br/><a href=""><button>[➕ **Add Story**](https://github.com/wsu808/wsu_cubari/edit/gh-pages/bondage.md)</button></a>  <a href=""><button>[ℹ️ **Learn More**](/docs/manual.md)</button></a> |
 
 
 ------------------------------------------------------------------------------------------------------------------------------------
