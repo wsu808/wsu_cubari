@@ -4,7 +4,6 @@
 |:----:|:-------------------------------------------------------------|  
 | 🏗️ | <small>This list is incomplete; you can help by expanding it</small> |
 
-<br>
 
 | [➕](/doc/manual.html) | [**Add Story**](/doc/manual.html) |  
 |:---:|:---------------|
