@@ -4,6 +4,11 @@
 |:----:|:-------------------------------------------------------------|  
 | 🏗️ | <small>This list is incomplete; you can help by expanding it</small> |
 
+<br>
+
+| [➕](/doc/manual.html) | [**Add Story**](/doc/manual.html) |  
+|:---:|:---------------|
+
 ------------------------------------------------------------------------------------------------------------------------------------
 
 <details align=center><summary>Table of Content</summary>
