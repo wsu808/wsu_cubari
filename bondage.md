@@ -2,7 +2,7 @@
 
 | 👉 | You are browsing category: `BONDAGE` |  
 |:----:|:-------------------------------------------------------------|  
-| 🏗️ | <small>This list is incomplete; you can help by expanding it</small> <br/><a href=""><button>[➕ **Add Story**](https://github.com/wsu808/wsu_cubari/edit/gh-pages/bondage.md)</button></a>  <a href=""><button>[ℹ️ **Learn More**](/docs/manual.md)</button></a> |
+| 🏗️ | <small>This list is incomplete; you can help by expanding it.</small> <br/><a href=""><button>[➕ **Add Story**](https://github.com/wsu808/wsu_cubari/edit/gh-pages/bondage.md)</button></a>  <a href=""><button>[ℹ️ **Learn More**](/docs/manual.md)</button></a> |
 
 
 ------------------------------------------------------------------------------------------------------------------------------------
@@ -22,6 +22,7 @@
   <a href="#awkward-x-awkward">Awkward X Awkward</a><br>
   <a href="#trussed-issues">Trussed Issues</a><br>
   <a href="#tied-to-twins">Tied To Twins</a><br>
+  <div>Note: some entries may not be included in ToC.</div> 
 </details>
 
 ------------------------------------------------------------------------------------------------------------------------------------
