@@ -49,7 +49,7 @@ Author's Social Media:
 
 preview:
 # Title of comic
-![by](https://img.shields.io/badge/by-AUTHOR-000000?style=social)  //replace AUTHOR with their name; use _ instead of spaces
+![by](https://img.shields.io/badge/by-AUTHOR-000000?style=social) 
 
 **Theme/Tags**  
 > ..tags go here, semarated by comas...
