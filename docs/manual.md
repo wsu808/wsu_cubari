@@ -1,12 +1,14 @@
-You can help by submitting your suggestions as Pull Requests 
+You can help by submitting your suggestions as *Pull Requests*. 
 
-If you're not familiarwith Markdown yet, it's basic formatting technique that let you introduce basic formating using only your keyboard. [Learn More](https://www.markdownguide.org/basic-syntax/)
+If you're not familiar with Markdown yet, it's basic formatting technique that let you introduce basic formating using only your keyboard. [Learn More](https://www.markdownguide.org/basic-syntax/)
 
-uwaga soaceje dwie
+| ℹ️ Remember |  
+|:-----------------------|  
+| In Marldown new line is made by putting 2 spaces on the end of line |
 
-Create your entry
+Create your entry:
 + head to https://github.com/wsu808/wsu_cubari/edit/gh-pages/bondage.md
-+ edit text by adding your entry onthe bottom
++ edit text by adding your entry near the bottom
 + provide comic details as in [the template](#template)
 + use preview tab at the top to check whether everything looks as intended
 + scroll to the very bottom and click on "Propose changes" button
