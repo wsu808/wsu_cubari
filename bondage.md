@@ -2,11 +2,8 @@
 
 | 👉 | You are browsing category: `BONDAGE` |  
 |:----:|:-------------------------------------------------------------|  
-| 🏗️ | <small>This list is incomplete; you can help by expanding it</small> |
+| 🏗️ | <small>This list is incomplete; you can help by expanding it</small> <br/><a href=""><button>➕ **Add Story**</button></a>  <a href=""><button>ℹ️ **Learn More**</button></a> |
 
-
-| [➕](/doc/manual.html) | [**Add Story**](/doc/manual.html) |  
-|:---:|:---------------|
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
