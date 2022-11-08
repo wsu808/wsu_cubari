@@ -39,3 +39,18 @@ Author's Social Media:
 ```
 
 preview:
+# Title of comic
+![by](https://img.shields.io/badge/by-AUTHOR-000000?style=social)  //replace AUTHOR with their name; use _ instead of spaces
+
+**Theme/Tags**  
+> ..tags go here, semarated by comas...
+
+#### Sources: 
+
+**Description**  
+> ...optional description goes here...
+
+Author's Social Media:  
+| (platform_name)[URL] 
+| (platform_name)[URL] 
+|
