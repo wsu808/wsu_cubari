@@ -161,6 +161,7 @@ Author’s Social Media:
 > <small>~official website</small>
 
 Author's Social Media:  
+[![socials:links](https://img.shields.io/badge/Linktree-eeeeee?logo=linktree&style=for-the-badge)](https://linktr.ee/soushiyo) 
 [![socials:website](https://img.shields.io/badge/🌐_Website-blue?style=flat-square)](https://familiar.soushiyo.com)
 [![socials:Patreon](https://img.shields.io/badge/Patreon-FF5A00?logo=patreon&logoColor=white&style=flat-square)](http://patreon.com/soushiyo)
 [![socials](https://img.shields.io/badge/Merch-yellow?style=flat-square)](http://shop.soushiyo.com)
@@ -432,7 +433,21 @@ Author's Social Media:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
+# Bondage Games
+![story by](https://img.shields.io/badge/story_by-J._Yubari-000000?style=social)  
+![art by](https://img.shields.io/badge/art_by-Danusko-000000?style=social)
 
+**Theme/Tags**  
+> F/F, bondage, shibari, foot fetish, tickling, self-bondage, clothespins, nosehook
+
+![chapter count](https://img.shields.io/badge/chapters-6-brightgreen)
+
+#### Sources:
+[![Read on](https://img.shields.io/badge/read_at*-bondagefan.com-blue?style=for-the-badge)](https://www.bondagefan.com/comics/keyword=Bondage+Games/search_in=group/clear/)  
+<sup>*part of [\[Bondage Fan\]](#bondage-fan-magazine) subscription</sup>
+
+**Description**  
+> *Mako is obsessed with heavy metal star Kenji Ozawa – she claims to be his biggest fan. After learning Kenji will be a special celebrity guest contestant on the popular adult game show “Super Bondage Games” she dedicates herself to training for the show, all in hopes she'll have a shot at a personal encounter with her famed idol. Her training is anything but easy!*
 ------------------------------------------------------------------------------------------------------------------------------------
 
 
