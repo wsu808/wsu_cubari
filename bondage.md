@@ -160,8 +160,10 @@ Author’s Social Media:
 > *Familiar is a modern-day, slice-of-life romcomic about magick, work/life balance, BDSM, and relationships. It is kinky, queer, sex-positive, and free to read online. It is also erotic, sexually explicit, and written for adult audiences only.*  
 > <small>~official website</small>
 
-Author's Social Media:  
-[![socials:links](https://img.shields.io/badge/Linktree-eeeeee?logo=linktree&style=for-the-badge)](https://linktr.ee/soushiyo) 
+Author's Social Media:   
+[![socials:links](https://img.shields.io/badge/Linktree--white?logo=linktree&style=social)](https://linktr.ee/soushiyo) 
+[![socials:links](https://img.shields.io/badge/soushiyo.com--white?style=social)](http://soushiyo.com)   
+
 [![socials:website](https://img.shields.io/badge/🌐_Website-blue?style=flat-square)](https://familiar.soushiyo.com)
 [![socials:Patreon](https://img.shields.io/badge/Patreon-FF5A00?logo=patreon&logoColor=white&style=flat-square)](http://patreon.com/soushiyo)
 [![socials](https://img.shields.io/badge/Merch-yellow?style=flat-square)](http://shop.soushiyo.com)
@@ -237,14 +239,28 @@ http://coaxdreams.com/home.html
 **Theme/Tags**  
 > bondage, non-erotic, funny
 
+<details><summary>Gallery</summary>
+ <div align="center">
+  <img width="360px" src="https://pbs.twimg.com/media/Ff8OeQvWIA4NAar?format=jpg&name=large"/>
+ </div>
+</details>
+
 #### Sources:
 [![Buy on Gumroad](https://img.shields.io/badge/$8--$10/chapter-Gumroad-FF7E00?logo=gumroad&style=for-the-badge)](https://wossa.gumroad.com/)
+
+[![Read on Patreon](https://img.shields.io/badge/$10_"InsidAer"_Tier-Patreon-FF5A00?logo=patreon&style=for-the-badge)](https://patreon.com/Wossa)  
+
 
 **Description**  
 > *Roommates, best friends and more(!); Wossername and Aeria love to play together... until Wossy's abysmal reading comprehension causes a crisis that threatens to change everything...FOREVER! Will Aeria manage to talk some sense into her confused compadre, or is this the end of "playtime" as we know it?*  
 > <small>~official description of first issue on  Gumroad</small>
 
 Author’s Social Media:  
+[![socials:DeviantArt](https://img.shields.io/badge/DeviantArt-06070D?logo=deviantart&iconColor=00E49A&style=flat-square)](https://deviantart.com/wossarem) 
+[![socials:Pixiv](https://img.shields.io/badge/Pixiv-0097FA?logo=pixiv&logoColor=white&style=flat-square)](https://pixiv.me/wossa)
+[![socials:Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/WossaRem)
+[![socials:Discord](https://img.shields.io/badge/Discord_Server-6E85D3?logo=discord&logoColor=white&style=flat-square)](https://discord.gg/sFs2gHH)
+[![socials:Patreon](https://img.shields.io/badge/Patreon-FF5A00?logo=patreon&logoColor=white&style=flat-square)](https://www.patreon.com/Wossa)
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
