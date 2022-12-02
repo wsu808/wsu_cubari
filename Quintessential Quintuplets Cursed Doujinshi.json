@@ -1,0 +1,49 @@
+{
+  "title": "Quintessential Quintuplets Cursed Doujinshi",
+  "description": "",
+  "artist": "kimimaru",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1670022381",
+      "groups": {
+        "": "/proxy/api/nhentai/chapter/305216/"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1670023221",
+      "groups": {
+        "": "/proxy/api/nhentai/chapter/308000/"
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "",
+      "last_updated": "1670023270",
+      "groups": {
+        "": "/proxy/api/nhentai/chapter/312224/"
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "",
+      "last_updated": "1670023311",
+      "groups": {
+        "": "/proxy/api/nhentai/chapter/343465/"
+      }
+    },
+    "5": {
+      "title": "5",
+      "volume": "",
+      "last_updated": "1670023339",
+      "groups": {
+        "": "/proxy/api/nhentai/chapter/416515/"
+      }
+    }
+  }
+}
