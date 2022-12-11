@@ -1,8 +1,6 @@
-<!-- when contributing follow example structure provided at https://github.com/wsu808/wsu_cubari/blob/gh-pages/docs/category_example.md -->
-
-| 👉 | You are browsing category: `BONDAGE` |  
+| 👉 | You are browsing category: `BDSM` |  
 |:----:|:-------------------------------------------------------------|  
-| 🏗️ | <small>This list is incomplete; you can help by expanding it.</small> <br/><a href=""><button>[➕ **Add Story**](https://github.com/wsu808/wsu_cubari/edit/gh-pages/bondage.md)</button></a>  <a href=""><button>[ℹ️ **Learn More**](/docs/manual.md)</button></a> |
+| 🏗️ | <small>This list is incomplete; you can help by expanding it.</small> <br/><a href=""><button>[➕ **Add Story**](https://github.com/wsu808/wsu_cubari/edit/gh-pages/BDSM.md)</button></a>  <a href=""><button>[ℹ️ **Learn More**](/docs/manual.md)</button></a> |
 
 
 ------------------------------------------------------------------------------------------------------------------------------------
@@ -388,7 +386,7 @@ Author's Social Media:
 ![by](https://img.shields.io/badge/by-Kusujinn-000000?style=social)
 
 **Theme/Tags**  
-> foot fetish, mild bondage
+> tickling, foot fetish
 
 #### Sources:
 [![Read on DeviantArt](https://img.shields.io/badge/[preview]-DeviantArt-00E49A?style=for-the-badge&logo=deviantart)](https://www.deviantart.com/kusujinn/art/Tied-To-Twins-Side-Story-1-Character-Page-918983582)
@@ -414,7 +412,8 @@ Author's Social Media:
 ![by](https://img.shields.io/badge/by-Kusujinn-000000?style=social)
 
 **Theme/Tags**  
-> bondage, tickling  
+> **tickling**, bondage  
+> ***
 > **Tags below vary per chapter:**  
 > tentacles, foot fetish, gags, tickle wrestling, fondling 
 
