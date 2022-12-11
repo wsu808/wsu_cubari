@@ -72,7 +72,7 @@ Author's Social Media:
 #### Sources:
 [![Read on](https://img.shields.io/badge/$16.95/mo*-bondagefan.com-blue?style=for-the-badge)](https://www.bondagefan.com)  
 <sub>\*you can download all available stories once you subscribe for first month  
-\*\*lower pricing but for longer time is available </sub>
+\*\*lower pricing but for longer time period is available </sub>
 
 **Description**  
 > *Bondage Fan was founded in 2016 as a collaborative effort between writers and artists aiming to create high-quality Bondage comics. The whole idea behind the website was to foster interaction between fans and artists in order to create works of art that reflect the desires and imaginations of the fans of the genre. Bondage comics are our main focus although themes do touch upon various other fetishes such as feet, tickling, and more.*  
@@ -92,10 +92,13 @@ Author's Social Media:
 [![Read on Cubari](https://img.shields.io/badge/Free%20on-DeviantArt-00E49A?style=for-the-badge&logo=deviantart)](https://www.deviantart.com/stjepan-sejic/gallery/79822473/comic-pdfs) 
 <sup>*PDF*</sup>  
 
-**Description**  
-> **
+[![Read on Pixiv](https://img.shields.io/badge/Free%20on-Pixiv-0097FA?style=for-the-badge&logo=pixiv)](https://www.pixiv.net/user/36412059/series/177690)
 
-Author’s Social Media:
+**Description**  
+> *Sunstone is a mature slice of life/rom com about lives loves and lusts of a bunch of bdsm kinksters*  
+
+Author’s Social Media:  
+[![socials:Pixiv](https://img.shields.io/badge/Pixiv-0097FA?logo=pixiv&logoColor=white&style=flat-square)](https://www.pixiv.net/en/users/36412059)
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
@@ -463,6 +466,7 @@ Author's Social Media:
 
 **Description**  
 > *Mako is obsessed with heavy metal star Kenji Ozawa – she claims to be his biggest fan. After learning Kenji will be a special celebrity guest contestant on the popular adult game show “Super Bondage Games” she dedicates herself to training for the show, all in hopes she'll have a shot at a personal encounter with her famed idol. Her training is anything but easy!*
+
 ------------------------------------------------------------------------------------------------------------------------------------
 
 
