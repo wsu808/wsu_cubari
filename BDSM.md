@@ -469,6 +469,24 @@ Author's Social Media:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
+# Thais' Secret World
+
+#### Sources:
+[![Read on Pixiv](https://img.shields.io/badge/Free%20on-Blogger-FF5722?style=for-the-badge&logo=blogger)](https://thaisecretworld.bnw-design.es) 
+*only in spanish* 
+
+**Description**  
+> *-Comic about a girl who likes BDSM and other things.-
+Thais' Secret World is a project I started in 2015.
+Through comic strips and illustrations I narrate the adventures of Thais, a lesbian slavegirl in a D/s relationship.
+I'm focused to show a realistic vision of the daily life in this kind of relationship.
+TSW is not a porn comic, its just a comic about BDSM.*  
+> <sup>~from ArtStation</sup>
+
+Author's Social Media:  
+https://www.artstation.com/madcat_bnw  
+https://bnw-design.es/    portfolio  
+https://www.patreon.com/gvsmadcat  
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
