@@ -415,7 +415,7 @@ Author's Social Media:
 ![by](https://img.shields.io/badge/by-Kusujinn-000000?style=social)
 
 **Theme/Tags**  
-> **tickling**, bondage  
+> <ins>tickling</ins>, bondage  
 > ***
 > **Tags below vary per chapter:**  
 > tentacles, foot fetish, gags, tickle wrestling, fondling 
@@ -471,6 +471,20 @@ Author's Social Media:
 
 # Thais' Secret World
 
+
+**Theme/Tags**
+> BDSM, D/s, <ins>slice of life</ins>
+
+<details><summary>Gallery</summary>
+ <div align="center">
+  <img width="360px" src="https://cdnb.artstation.com/p/assets/images/images/026/391/465/small/g-madcat-27-colgada-kinbaku-pek.jpg?1588663459"/>
+  <img width="360px" src="https://cdna.artstation.com/p/assets/images/images/026/392/166/small/g-madcat-01-en-investigacion-pek.jpg?1588664832"/>
+  <img width="360px" src="https://cdna.artstation.com/p/assets/images/images/026/392/172/small/g-madcat-09-en-fantasia-vs-realidx-01-pek.jpg?1588664855"/>
+  <img width="360px" src="https://cdna.artstation.com/p/assets/images/images/026/392/178/small/g-madcat-34-en-kinbaku-pek.jpg?1588664874"/>
+  <img width="360px" src="https://cdnb.artstation.com/p/assets/images/images/026/392/203/small/g-madcat-62-en-selfbondage-pek.jpg?1588664947"/>
+ </div>
+</details>
+
 #### Sources:
 [![Read on Pixiv](https://img.shields.io/badge/Free%20on-Blogger-FF5722?style=for-the-badge&logo=blogger)](https://thaisecretworld.bnw-design.es) 
 *only in spanish* 
@@ -487,6 +501,7 @@ Author's Social Media:
 https://www.artstation.com/madcat_bnw  
 https://bnw-design.es/    portfolio  
 https://www.patreon.com/gvsmadcat  
+https://society6.com/bnw get prints
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
