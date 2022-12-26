@@ -486,8 +486,11 @@ Author's Social Media:
 </details>
 
 #### Sources:
-[![Read on Pixiv](https://img.shields.io/badge/Free%20on-Blogger-FF5722?style=for-the-badge&logo=blogger)](https://thaisecretworld.bnw-design.es) 
-*only in spanish* 
+[![Read on Blogger](https://img.shields.io/badge/Free%20on-Blogger-FF5722?style=for-the-badge&logo=blogger)](https://thaisecretworld.bnw-design.es) 
+*only in spanish*   
+
+[![Read on Cubari](https://img.shields.io/badge/Free%20on-Cubari-06070D?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAL2SURBVFiFxVe/a1NRFP7us4oiOF36attHO+qQKfoHdLBZxK34LxQcHF10ENKpU6QoRZ3EoQTchE5N6ZClhpS2tEX6ghBKk8dBaAZ1sF4H33s9ve/cpG1SPHAD97xz73d+nxsFwINM5pz8C9HQ/wK2Feh2+aUAA1DJj+oGSkRRv0ha62Eb2NaEr5Smp6dv9qPA4uJijp23cRTi/HN5oW/r4/MuYA+ANwRHjBuNxlo/4ACU1tq3eRkh12kiiqzYnRk4Pt/uJqS1vg04egARtY6Pj3+4Dm9sbLwjooivzc3Nj2AGCdaL5GpCnu/7kzZzeXn5KRFF4+Pjj+xvo6OjD4ioXavV3seKKK31iHQ552caERFFW1tbrwR+G11CltDExMRDIjqMXay01iNE1LLEknuM6IGpqaki378ulfIS+N7e3ttqtfpCuEItLS09tsAAnMQeUvITUTQzM3ND4vMFoZwAeILclXipmNe2z2Q8UC6Xf/J9Pp+/alngQ+4dilkHACiVSne5F6zvBoBJL7HKjvNPlZOVWJmwENGhJN9sNr8EQXCP54PW2rc94OyKAolyxphfEj8IgjwAo7X2maFmKNY6OkvX6sEHAKOUum7zbCHubQ+scyWl1quLScASkCQ3Pz8/aTMzGR1nsIc4i3lm1+v1DzjJ7lMZXSwWxxzVcsp6vvdsoSRJFhYW7ksmBEFQODg42LEtXllZeTY7O1u3LeZy29vbZcl6noiGu5+XjZ3dvUgaZNKAS8AVhNjXarU3iRWFQmHsrOBzc3N3BPAWgD82X+FfLFGpVJ7ncrkngiW87k2vBHWNcNd4T90vgTPN01jGdey3Wq1qItPpdEKt9XA38Gaz+Vn6lnpgfX39pVLqljHmu1Kq02g0dvb397+FYRiFYdhZXV39DTbFpMtc1OtxkyknsOrY3d39xJQ9N8UD7lo3mQwoXwN6mLpIJQpIL9fLBE8xpFdxuj86Ovo6iD8mFrCoSQZ8wOQcbBdKrEEA9xK4dOCE/gJkO5Otts3IqQAAAABJRU5ErkJggg==)](https://cubari.moe/read/gist/cmF3L3dzdTgwOC93c3VfY3ViYXJpL21hc3Rlci9UU1cuanNvbg==)
+*english, only 77 episodes*
 
 **Description**  
 > *-Comic about a girl who likes BDSM and other things.-
