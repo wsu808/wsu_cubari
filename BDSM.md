@@ -487,10 +487,18 @@ Author's Social Media:
 
 #### Sources:
 [![Read on Blogger](https://img.shields.io/badge/Free%20on-Blogger-FF5722?style=for-the-badge&logo=blogger)](https://thaisecretworld.bnw-design.es) 
-*only in spanish*   
+<sup>*only in spanish*</sup>  
 
 [![Read on Cubari](https://img.shields.io/badge/Free%20on-Cubari-06070D?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAL2SURBVFiFxVe/a1NRFP7us4oiOF36attHO+qQKfoHdLBZxK34LxQcHF10ENKpU6QoRZ3EoQTchE5N6ZClhpS2tEX6ghBKk8dBaAZ1sF4H33s9ve/cpG1SPHAD97xz73d+nxsFwINM5pz8C9HQ/wK2Feh2+aUAA1DJj+oGSkRRv0ha62Eb2NaEr5Smp6dv9qPA4uJijp23cRTi/HN5oW/r4/MuYA+ANwRHjBuNxlo/4ACU1tq3eRkh12kiiqzYnRk4Pt/uJqS1vg04egARtY6Pj3+4Dm9sbLwjooivzc3Nj2AGCdaL5GpCnu/7kzZzeXn5KRFF4+Pjj+xvo6OjD4ioXavV3seKKK31iHQ552caERFFW1tbrwR+G11CltDExMRDIjqMXay01iNE1LLEknuM6IGpqaki378ulfIS+N7e3ttqtfpCuEItLS09tsAAnMQeUvITUTQzM3ND4vMFoZwAeILclXipmNe2z2Q8UC6Xf/J9Pp+/alngQ+4dilkHACiVSne5F6zvBoBJL7HKjvNPlZOVWJmwENGhJN9sNr8EQXCP54PW2rc94OyKAolyxphfEj8IgjwAo7X2maFmKNY6OkvX6sEHAKOUum7zbCHubQ+scyWl1quLScASkCQ3Pz8/aTMzGR1nsIc4i3lm1+v1DzjJ7lMZXSwWxxzVcsp6vvdsoSRJFhYW7ksmBEFQODg42LEtXllZeTY7O1u3LeZy29vbZcl6noiGu5+XjZ3dvUgaZNKAS8AVhNjXarU3iRWFQmHsrOBzc3N3BPAWgD82X+FfLFGpVJ7ncrkngiW87k2vBHWNcNd4T90vgTPN01jGdey3Wq1qItPpdEKt9XA38Gaz+Vn6lnpgfX39pVLqljHmu1Kq02g0dvb397+FYRiFYdhZXV39DTbFpMtc1OtxkyknsOrY3d39xJQ9N8UD7lo3mQwoXwN6mLpIJQpIL9fLBE8xpFdxuj86Ovo6iD8mFrCoSQZ8wOQcbBdKrEEA9xK4dOCE/gJkO5Otts3IqQAAAABJRU5ErkJggg==)](https://cubari.moe/read/gist/cmF3L3dzdTgwOC93c3VfY3ViYXJpL21hc3Rlci9UU1cuanNvbg==)
-*english, only 77 episodes*
+<sup>*english, only 77 episodes*</sup>
+
+[![Read on Patreon](https://img.shields.io/badge/$5_Tier-Patreon-FF5A00?logo=patreon&style=for-the-badge)](https://www.patreon.com/gvsmadcat)
+<sup>*PDF*</sup>   
+[`Vol.1`](https://www.patreon.com/posts/thais-secret-1-35149886)
+[`Vol.2`](https://www.patreon.com/posts/thais-secret-2-39222446)
+[`Vol.3`](https://www.patreon.com/posts/thais-secret-3-42230984)
+[`Vol 4`](https://www.patreon.com/posts/thais-secret-4-46690567)
+[`Vol.5`](https://www.patreon.com/posts/thais-secret-5-53542118)
 
 **Description**  
 > *-Comic about a girl who likes BDSM and other things.-
@@ -501,11 +509,11 @@ TSW is not a porn comic, its just a comic about BDSM.*
 > <sup>~from ArtStation</sup>
 
 Author's Social Media:  
-https://www.artstation.com/madcat_bnw  
-https://bnw-design.es/    portfolio  
-https://www.patreon.com/gvsmadcat  
-https://society6.com/bnw get prints
-
+[![socials:ArtStation](https://img.shields.io/badge/ArtStation-13AEEF?logo=artstation&logoColor=white&style=flat-square)](https://www.artstation.com/madcat_bnw)
+[![socials:Portfolio](https://img.shields.io/badge/🌐_Portfolio_Website-blue?style=flat-square)](https://bnw-design.es/)
+[![socials:Patreon](https://img.shields.io/badge/Patreon-FF5A00?logo=patreon&logoColor=white&style=flat-square)](https://www.patreon.com/gvsmadcat)
+[![socials:Prints](https://img.shields.io/badge/🖼️_Get_Prints-blue?style=flat-square)](https://society6.com/bnw)
+[![socials:DeviantArt](https://img.shields.io/badge/DeviantArt-06070D?logo=deviantart&iconColor=00E49A&style=flat-square)](https://www.deviantart.com/gvsmadcat)
 ------------------------------------------------------------------------------------------------------------------------------------
 
 
