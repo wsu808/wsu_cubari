@@ -331,8 +331,8 @@ Author’s Social Media:
  </div>
 </details>
 
-| ❗ | It's an *Artbook* not *Comic Book* |
-|:----:|:--------------------------------------------------------|
+| ❗ | It's an *Artbook* not *Comic Book* |  
+|:----:|:-------------------------------------------------------- |
 
 #### Sources:
 [![Buy on Gumroad](https://img.shields.io/badge/$7-Gumroad-FF7E00?logo=gumroad&style=for-the-badge)](https://aeritea.gumroad.com/l/AwkwardXAwkward?layout=profile) 
