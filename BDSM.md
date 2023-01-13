@@ -331,14 +331,22 @@ Author’s Social Media:
  </div>
 </details>
 
+| ❗ | It's an *Artbook* not *Comic Book* |
+|:----:|:--------------------------------------------------------|
+
 #### Sources:
 [![Buy on Gumroad](https://img.shields.io/badge/$7-Gumroad-FF7E00?logo=gumroad&style=for-the-badge)](https://aeritea.gumroad.com/l/AwkwardXAwkward?layout=profile) 
-<sup>*26 pages*</sup>
+<sup>*26 pages Artbook (not comic)*</sup>
 
 **Description**  
 > *Digital, black and white art book featuring my original Gentle Femdom characters, Plum and Nao. No dialogue as I wanted the intimacy in the drawings to speak for themselves. Some images are wholesome, some are awkward, and some are super spicy! 18+ viewers only, thank you! <3*  
 > <small>~aeritea</small>
 
+Connected Works:  
++ [AWKWARD x AWKWARD short comic](https://cubari.moe/read/gist/cmF3L3dzdTgwOC93c3VfY3ViYXJpL21hc3Rlci9Cb25kYWdlJTIwU2hvcnRzLmpzb24=/29/1/)
+
+Author's Social Media:  
+[![socials:Twitter](https://img.shields.io/badge/Twitter-1D9BF0?logo=twitter&iconColor=FFFFFF&style=flat-square)](https://www.twitter.com/aeritea)
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
