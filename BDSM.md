@@ -20,7 +20,7 @@
   <a href="#awkward-x-awkward">Awkward X Awkward</a><br>
   <a href="#trussed-issues">Trussed Issues</a><br>
   <a href="#tied-to-twins">Tied To Twins</a><br>
-  <div>Note: some entries may not be included in ToC.</div> 
+  <div>Note: not all entries are included in ToC.</div> 
 </details>
 
 ------------------------------------------------------------------------------------------------------------------------------------
@@ -319,7 +319,7 @@ Author’s Social Media:
 ------------------------------------------------------------------------------------------------------------------------------------
 
 # Awkward X Awkward
-![by](https://img.shields.io/badge/by-aeritea-000000?style=social)
+![Author](https://img.shields.io/badge/by-aeritea-000000?style=social)
 
 **Theme/Tags**  
 > Gentle Femdom, Femdom, Sex Toys, Aftercare, Domme Drop, Role Reversal, Restraints, Shibari
@@ -332,7 +332,8 @@ Author’s Social Media:
 </details>
 
 | ❗ | It's an *Artbook* not *Comic Book* |  
-|:----:|:-------------------------------------------------------- |
+|:----:|:-------------------------------------------------------- |  
+| | |
 
 #### Sources:
 [![Buy on Gumroad](https://img.shields.io/badge/$7-Gumroad-FF7E00?logo=gumroad&style=for-the-badge)](https://aeritea.gumroad.com/l/AwkwardXAwkward?layout=profile) 
@@ -346,12 +347,12 @@ Connected Works:
 + [AWKWARD x AWKWARD short comic](https://cubari.moe/read/gist/cmF3L3dzdTgwOC93c3VfY3ViYXJpL21hc3Rlci9Cb25kYWdlJTIwU2hvcnRzLmpzb24=/29/1/)
 
 Author's Social Media:  
-[![socials:Twitter](https://img.shields.io/badge/Twitter-1D9BF0?logo=twitter&iconColor=FFFFFF&style=flat-square)](https://www.twitter.com/aeritea)
+[![socials:Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://www.twitter.com/aeritea)
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 # Trussed Issues
-![by](https://img.shields.io/badge/by-Shio--bari-000000?style=social)
+![Author](https://img.shields.io/badge/by-Shio--bari-000000?style=social)
 
 **Theme/Tags**  
 > self bondage, fantasy, monster girls
@@ -372,7 +373,7 @@ Author's Social Media:
 ------------------------------------------------------------------------------------------------------------------------------------
 
 # Tied To Twins
-![by](https://img.shields.io/badge/by-Kusujinn-000000?style=social)
+![Author](https://img.shields.io/badge/by-Kusujinn-000000?style=social)
 
 **Theme/Tags**  
 > foot fetish, mild bondage
@@ -394,7 +395,7 @@ Author's Social Media:
 ------------------------------------------------------------------------------------------------------------------------------------
 
 # Tied To Twins - Side Story 1
-![by](https://img.shields.io/badge/by-Kusujinn-000000?style=social)
+![Author](https://img.shields.io/badge/by-Kusujinn-000000?style=social)
 
 **Theme/Tags**  
 > tickling, foot fetish
@@ -420,7 +421,7 @@ Author's Social Media:
 ------------------------------------------------------------------------------------------------------------------------------------
 
 # The Fetish Palace
-![by](https://img.shields.io/badge/by-Kusujinn-000000?style=social)
+![Author](https://img.shields.io/badge/by-Kusujinn-000000?style=social)
 
 **Theme/Tags**  
 > <ins>tickling</ins>, bondage  
@@ -444,7 +445,7 @@ Author's Social Media:
 ------------------------------------------------------------------------------------------------------------------------------------
 
 # Until You Beg so Sweetly
-![by](https://img.shields.io/badge/by-Dihibi-000000?style=social) 
+![Author](https://img.shields.io/badge/by-Dihibi-000000?style=social) 
 
 **Theme/Tags:**  
 > BDSM, romance, comedy, drama
@@ -480,7 +481,7 @@ Author's Social Media:
 ------------------------------------------------------------------------------------------------------------------------------------
 
 # Thais' Secret World
-
+![Author](https://img.shields.io/badge/by-_-000000?style=social) 
 
 **Theme/Tags**
 > BDSM, D/s, <ins>slice of life</ins>
@@ -503,19 +504,10 @@ Author's Social Media:
 <sup>*english (only 77 episodes)*</sup>
 
 [![Read on Patreon](https://img.shields.io/badge/$5_Tier-Patreon-FF5A00?logo=patreon&style=for-the-badge)](https://www.patreon.com/gvsmadcat)
-<sup>*PDF | 36pages/vol | strips+illustrations*</sup>   
-EN: 
-[`Vol.1`](https://www.patreon.com/posts/thais-secret-1-35149886)
-[`Vol.2`](https://www.patreon.com/posts/thais-secret-2-39222446)
-[`Vol.3`](https://www.patreon.com/posts/thais-secret-3-42230984)
-[`Vol 4`](https://www.patreon.com/posts/thais-secret-4-46690567)
-[`Vol.5`](https://www.patreon.com/posts/thais-secret-5-53542118)  
-ES: 
-[`Vol.1`](https://www.patreon.com/posts/thais-secret-1-35148562)
-[`Vol.2`](https://www.patreon.com/posts/thais-secret-2-39222343)
-[`Vol.3`](https://www.patreon.com/posts/thais-secret-3-42230576)
-[`Vol.4`](https://www.patreon.com/posts/thais-secret-4-46690862)
-[`Vol.5`](https://www.patreon.com/posts/thais-secret-5-53542251)
+<sup>*PDF | 36pages/vol (strips+illustrations)*</sup>   
+| EN: | [`Vol.1`](https://www.patreon.com/posts/thais-secret-1-35149886) | [`Vol.2`](https://www.patreon.com/posts/thais-secret-2-39222446) | [`Vol.3`](https://www.patreon.com/posts/thais-secret-3-42230984) | [`Vol 4`](https://www.patreon.com/posts/thais-secret-4-46690567) | [`Vol.5`](https://www.patreon.com/posts/thais-secret-5-53542118)  |  
+| ---  | --- | --- | --- | --- |   
+| ES: | [`Vol.1`](https://www.patreon.com/posts/thais-secret-1-35148562) | [`Vol.2`](https://www.patreon.com/posts/thais-secret-2-39222343) | [`Vol.3`](https://www.patreon.com/posts/thais-secret-3-42230576) | [`Vol.4`](https://www.patreon.com/posts/thais-secret-4-46690862) | [`Vol.5`](https://www.patreon.com/posts/thais-secret-5-53542251) |  
 
 **Description**  
 > *-Comic about a girl who likes BDSM and other things.-
@@ -534,6 +526,29 @@ Author's Social Media:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
+# Dominated by Dolly!
+![Author](https://img.shields.io/badge/by-Jam_Orbital-000000?style=social) 
+
+**Theme/Tags**  
+> bondage, cloth gag
+
+<details><summary>Gallery</summary>
+  <div align="center">
+    <img width="360px" src="https://public-files.gumroad.com/variants/nseyuf5br33zq6xh5mlmi5m3wgzu/419b4c214e443d33e06ebb18f46e9f4f15a114b00fe152f23e3547e7863944b6"/>
+    <img width="360px" src="https://public-files.gumroad.com/53zg0lcjfg7bizi9hcmhct75r368"/>
+  </div>
+</details>
+
+#### Sources:
+
+[![Buy on Gumroad](https://img.shields.io/badge/$11-Gumroad-FF7E00?logo=gumroad&style=for-the-badge)](https://jamorbital.gumroad.com/l/byRUt)  
+
+[![Read on Patreon](https://img.shields.io/badge/$10_Tier-Patreon-FF5A00?logo=patreon&style=for-the-badge)](https://www.patreon.com/jamorbital)
+
+Author's Social Media:  
+[![socials:Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](http://www.twitter.com/jamorbital)
+[![socials:Patreon](https://img.shields.io/badge/Patreon-FF5A00?logo=patreon&logoColor=white&style=flat-square)](https://www.patreon.com/jamorbital)
+[![socials:DeviantArt](https://img.shields.io/badge/DeviantArt-06070D?logo=deviantart&iconColor=00E49A&style=flat-square)](https://www.deviantart.com/jam-orbital)
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
