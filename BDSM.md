@@ -20,10 +20,6 @@
   <a href="#awkward-x-awkward">Awkward X Awkward</a><br>
   <a href="#trussed-issues">Trussed Issues</a><br>
   <a href="#tied-to-twins">Tied To Twins</a><br>
-  
-* auto-gen TOC:
-{:toc}
-
   <div>Note: not all entries are included in ToC.</div> 
 </details>
 
@@ -336,8 +332,7 @@ Author’s Social Media:
 </details>
 
 | ❗ | It's an *Artbook* not *Comic Book* |  
-|:----:|:-------------------------------------------------------- |  
-| | |
+|:----:|:--------------------------------------------------------|  
 
 #### Sources:
 [![Buy on Gumroad](https://img.shields.io/badge/$7-Gumroad-FF7E00?logo=gumroad&style=for-the-badge)](https://aeritea.gumroad.com/l/AwkwardXAwkward?layout=profile) 
@@ -509,9 +504,9 @@ Author's Social Media:
 
 [![Read on Patreon](https://img.shields.io/badge/$5_Tier-Patreon-FF5A00?logo=patreon&style=for-the-badge)](https://www.patreon.com/gvsmadcat)
 <sup>*PDF | 36pages/vol (strips+illustrations)*</sup>   
-| EN: | [`Vol.1`](https://www.patreon.com/posts/thais-secret-1-35149886) | [`Vol.2`](https://www.patreon.com/posts/thais-secret-2-39222446) | [`Vol.3`](https://www.patreon.com/posts/thais-secret-3-42230984) | [`Vol 4`](https://www.patreon.com/posts/thais-secret-4-46690567) | [`Vol.5`](https://www.patreon.com/posts/thais-secret-5-53542118)  |  
-| ---  | --- | --- | --- | --- |   
-| ES: | [`Vol.1`](https://www.patreon.com/posts/thais-secret-1-35148562) | [`Vol.2`](https://www.patreon.com/posts/thais-secret-2-39222343) | [`Vol.3`](https://www.patreon.com/posts/thais-secret-3-42230576) | [`Vol.4`](https://www.patreon.com/posts/thais-secret-4-46690862) | [`Vol.5`](https://www.patreon.com/posts/thais-secret-5-53542251) |  
+| 🇬🇧 | [`Vol.1`](https://www.patreon.com/posts/thais-secret-1-35149886) | [`Vol.2`](https://www.patreon.com/posts/thais-secret-2-39222446) | [`Vol.3`](https://www.patreon.com/posts/thais-secret-3-42230984) | [`Vol 4`](https://www.patreon.com/posts/thais-secret-4-46690567) | [`Vol.5`](https://www.patreon.com/posts/thais-secret-5-53542118)  |  
+|---|---|---|---|---|---|   
+| 🇪🇸 | [`Vol.1`](https://www.patreon.com/posts/thais-secret-1-35148562) | [`Vol.2`](https://www.patreon.com/posts/thais-secret-2-39222343) | [`Vol.3`](https://www.patreon.com/posts/thais-secret-3-42230576) | [`Vol.4`](https://www.patreon.com/posts/thais-secret-4-46690862) | [`Vol.5`](https://www.patreon.com/posts/thais-secret-5-53542251) |  
 
 **Description**  
 > *-Comic about a girl who likes BDSM and other things.-
