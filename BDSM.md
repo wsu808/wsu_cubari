@@ -20,6 +20,10 @@
   <a href="#awkward-x-awkward">Awkward X Awkward</a><br>
   <a href="#trussed-issues">Trussed Issues</a><br>
   <a href="#tied-to-twins">Tied To Twins</a><br>
+  
+* auto-gen TOC:
+{:toc}
+
   <div>Note: not all entries are included in ToC.</div> 
 </details>
 
@@ -343,7 +347,7 @@ Author’s Social Media:
 > *Digital, black and white art book featuring my original Gentle Femdom characters, Plum and Nao. No dialogue as I wanted the intimacy in the drawings to speak for themselves. Some images are wholesome, some are awkward, and some are super spicy! 18+ viewers only, thank you! <3*  
 > <small>~aeritea</small>
 
-Connected Works:  
+**Connected Works:**  
 + [AWKWARD x AWKWARD short comic](https://cubari.moe/read/gist/cmF3L3dzdTgwOC93c3VfY3ViYXJpL21hc3Rlci9Cb25kYWdlJTIwU2hvcnRzLmpzb24=/29/1/)
 
 Author's Social Media:  
