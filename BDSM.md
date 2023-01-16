@@ -509,6 +509,7 @@ Author's Social Media:
 
 [![Read on Patreon](https://img.shields.io/badge/$5_Tier-Patreon-FF5A00?logo=patreon&style=for-the-badge)](https://www.patreon.com/gvsmadcat)
 <sup>*PDF | 36pages/vol (strips+illustrations)*</sup>   
+
 | 🇬🇧 | [`Vol.1`](https://www.patreon.com/posts/thais-secret-1-35149886) | [`Vol.2`](https://www.patreon.com/posts/thais-secret-2-39222446) | [`Vol.3`](https://www.patreon.com/posts/thais-secret-3-42230984) | [`Vol 4`](https://www.patreon.com/posts/thais-secret-4-46690567) | [`Vol.5`](https://www.patreon.com/posts/thais-secret-5-53542118)  |  
 |---|---|---|---|---|---|   
 | 🇪🇸 | [`Vol.1`](https://www.patreon.com/posts/thais-secret-1-35148562) | [`Vol.2`](https://www.patreon.com/posts/thais-secret-2-39222343) | [`Vol.3`](https://www.patreon.com/posts/thais-secret-3-42230576) | [`Vol.4`](https://www.patreon.com/posts/thais-secret-4-46690862) | [`Vol.5`](https://www.patreon.com/posts/thais-secret-5-53542251) |  
