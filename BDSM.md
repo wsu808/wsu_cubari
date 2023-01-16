@@ -333,6 +333,7 @@ Author’s Social Media:
 
 | ❗ | It's an *Artbook* not *Comic Book* |  
 |:----:|:--------------------------------------------------------|  
+| It consist of various **illustrations** (not nesseserly showing coherent course of events) picturing love and life of two main characters. Keep that in mind when purchasing.  |
 
 #### Sources:
 [![Buy on Gumroad](https://img.shields.io/badge/$7-Gumroad-FF7E00?logo=gumroad&style=for-the-badge)](https://aeritea.gumroad.com/l/AwkwardXAwkward?layout=profile) 
@@ -343,7 +344,7 @@ Author’s Social Media:
 > <small>~aeritea</small>
 
 **Connected Works:**  
-+ [AWKWARD x AWKWARD short comic](https://cubari.moe/read/gist/cmF3L3dzdTgwOC93c3VfY3ViYXJpL21hc3Rlci9Cb25kYWdlJTIwU2hvcnRzLmpzb24=/29/1/)
++ [AWKWARD x AWKWARD](https://cubari.moe/read/gist/cmF3L3dzdTgwOC93c3VfY3ViYXJpL21hc3Rlci9Cb25kYWdlJTIwU2hvcnRzLmpzb24=/29/1/) short comic [FREE]
 
 Author's Social Media:  
 [![socials:Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://www.twitter.com/aeritea)
@@ -391,6 +392,8 @@ Author's Social Media:
 [![sicials:PixivFANBOX](https://img.shields.io/badge/Pixiv_FANBOX-0097FA?logo=pixiv&logoColor=white&style=flat-square)](http://kusujinn.fanbox.cc/)
 [![socials:Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/kusujinn) 
 
+<details><summary>Show More</summary>
+
 ------------------------------------------------------------------------------------------------------------------------------------
 
 # Tied To Twins - Side Story 1
@@ -416,6 +419,8 @@ Author's Social Media:
 [![socials:Patreon](https://img.shields.io/badge/Patreon-FF5A00?logo=patreon&logoColor=white&style=flat-square)](http://patreon.com/kusujinn)
 [![sicials:PixivFANBOX](https://img.shields.io/badge/Pixiv_FANBOX-0097FA?logo=pixiv&logoColor=white&style=flat-square)](http://kusujinn.fanbox.cc/)
 [![socials:Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/kusujinn) 
+
+</details>
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
