@@ -392,8 +392,6 @@ Author's Social Media:
 [![sicials:PixivFANBOX](https://img.shields.io/badge/Pixiv_FANBOX-0097FA?logo=pixiv&logoColor=white&style=flat-square)](http://kusujinn.fanbox.cc/)
 [![socials:Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/kusujinn) 
 
-<details><summary>Show More</summary>
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
 # Tied To Twins - Side Story 1
@@ -419,8 +417,6 @@ Author's Social Media:
 [![socials:Patreon](https://img.shields.io/badge/Patreon-FF5A00?logo=patreon&logoColor=white&style=flat-square)](http://patreon.com/kusujinn)
 [![sicials:PixivFANBOX](https://img.shields.io/badge/Pixiv_FANBOX-0097FA?logo=pixiv&logoColor=white&style=flat-square)](http://kusujinn.fanbox.cc/)
 [![socials:Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/kusujinn) 
-
-</details>
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
