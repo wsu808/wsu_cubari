@@ -325,14 +325,15 @@ Author’s Social Media:
 > Gentle Femdom, Femdom, Sex Toys, Aftercare, Domme Drop, Role Reversal, Restraints, Shibari
 
 <details><summary>Gallery</summary>
- <div align="center">
-  <img width="360px" src="https://public-files.gumroad.com/variants/tfntu2s6y1d0cu2xjpamoeefey6s/baaca0eb0e33dc4f9d45910b8c86623f0144cea0fe0c2093c546d17d535752eb"/> 
-  <img width="360px" src="https://public-files.gumroad.com/variants/7xn34f9bf3zviv3kkc9rxs84w2fj/baaca0eb0e33dc4f9d45910b8c86623f0144cea0fe0c2093c546d17d535752eb"/>
- </div>
+  <div align="center">
+    <img width="360px" src="https://public-files.gumroad.com/variants/tfntu2s6y1d0cu2xjpamoeefey6s/baaca0eb0e33dc4f9d45910b8c86623f0144cea0fe0c2093c546d17d535752eb"/> 
+    <img width="360px" src="https://pbs.twimg.com/media/FeBKWTQaMAEHLxV?format=jpg&name=large" />
+    <img width="360px" src="https://public-files.gumroad.com/variants/7xn34f9bf3zviv3kkc9rxs84w2fj/baaca0eb0e33dc4f9d45910b8c86623f0144cea0fe0c2093c546d17d535752eb"/>
+  </div>
 </details>
 
-| ❗ | It's an *Artbook* not *Comic Book* |  
-|:----:|:--------------------------------------------------------|  
+| ❗ It's an *Artbook* not *Comic Book* |  
+|:-------------------------------------------------------------|  
 | It consist of various **illustrations** (not nesseserly showing coherent course of events) picturing love and life of two main characters. Keep that in mind when purchasing.  |
 
 #### Sources:
@@ -347,6 +348,8 @@ Author’s Social Media:
 + [AWKWARD x AWKWARD](https://cubari.moe/read/gist/cmF3L3dzdTgwOC93c3VfY3ViYXJpL21hc3Rlci9Cb25kYWdlJTIwU2hvcnRzLmpzb24=/29/1/) short comic [FREE]
 
 Author's Social Media:  
+[![socials:links](https://img.shields.io/badge/Carrd--white?logo=carrd&style=social)](https://aeritea.carrd.co/) 
+
 [![socials:Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://www.twitter.com/aeritea)
 
 ------------------------------------------------------------------------------------------------------------------------------------
