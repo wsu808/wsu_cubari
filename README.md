@@ -1,5 +1,5 @@
 <p align=center>
- <a href="https://wsu808.github.io/wsu_cubari/"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/322/open-book_1f4d6.png"></a>
+ <a href="https://wsu808.github.io/wsu_cubari/"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4d6.svg"></a>
 </p>
 
 <p align=center>
