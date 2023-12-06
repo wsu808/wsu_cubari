@@ -1,0 +1,39 @@
+{
+  "title": "Overkill 2021",
+  "description": "Parodia cyberpunkowego duo policyjnego. Komiks opublikowany w pierwszym numerze magazynu Kolektyw. Graficznie jest momentami bolesny dla oczu, ale mimo to jest tam kilka ujęć i scenek, które do dzisiaj mnie cieszą.",
+  "artist": "Konrad Koko Okoński (aka totemploe666)",
+  "author": "Konrad Koko Okoński (aka totemploe666)",
+  "cover": "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-03-01-Overkill2021-DrCasanova-Str11.jpg",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1701878005",
+      "groups": {
+        "": [
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-02-01-Overkill2021-Str11.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-02-02-Overkill2021-Str21.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-02-03-Overkill2021-Str31.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-02-04-Overkill2021-Str41.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-02-05-Overkill2021-Str51.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-02-06-Overkill2021-Str61.jpg"
+        ]
+      }
+    },
+    "2": {
+      "title": "Dr Casanova",
+      "volume": "",
+      "last_updated": "1701878013",
+      "groups": {
+        "": [
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-03-01-Overkill2021-DrCasanova-Str11.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-03-02-Overkill2021-DrCasanova-Str21.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-03-03-Overkill2021-DrCasanova-Str31.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-03-04-Overkill2021-DrCasanova-Str41.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-03-05-Overkill2021-DrCasanova-Str51.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-03-06-Overkill2021-DrCasanova-Str61.jpg"
+        ]
+      }
+    }
+  }
+}
