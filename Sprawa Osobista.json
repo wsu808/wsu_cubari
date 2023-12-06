@@ -1,0 +1,24 @@
+{
+  "title": "Sprawa Osobista",
+  "description": "Komiks na konkurs MFK 2013. Tematem były transakcje bezgotówkowe.",
+  "artist": "Konrad Koko Okoński (aka totemploe666)",
+  "author": "Konrad Koko Okoński (aka totemploe666)",
+  "cover": "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2013-10-23-Sprawa-Osobista-Cover1.jpg",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1701878228",
+      "groups": {
+        "": [
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2013-10-24-Sprawa-Osobista-11.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2013-10-25-Sprawa-Osobista-21.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2013-10-26-Sprawa-Osobista-31.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2013-10-27-Sprawa-Osobista-41.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2013-10-28-Sprawa-Osobista-51.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2013-10-29-Sprawa-Osobista-end1.jpg"
+        ]
+      }
+    }
+  }
+}
