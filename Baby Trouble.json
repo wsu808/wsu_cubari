@@ -1,0 +1,42 @@
+{
+  "title": "Baby Trouble",
+  "description": "Ten komiks został wymyślony, napisany i narysowany w ciągu 24 godzin w Gdańsku. To moja pierwsza próba podjęcia tego wyzwania i uważam ją za bardzo udaną. Po pierwsze świetnie się bawiłem, po drugie komiks jest całkiem zabawny, po trzecie nauczyłem się MASĘ rzeczy o efektywnym procesie tworzenia komiksu. Polecam wszystkim komiksiarzom zmienrzenie się z tym projektem.",
+  "artist": "Konrad Koko Okoński (aka totemploe666)",
+  "author": "Konrad Koko Okoński (aka totemploe666)",
+  "cover": "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-01-01-Komiks24h_cover1.jpg",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1701877380",
+      "groups": {
+        "": [
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-01-02-Komiks24h_011.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-01-03-Komiks24h_021.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-01-04-Komiks24h_031.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-01-05-Komiks24h_041.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-01-06-Komiks24h_051.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-01-07-Komiks24h_061.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-01-08-Komiks24h_071.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-01-09-Komiks24h_081.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-01-10-Komiks24h_091.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-01-11-Komiks24h_101.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-01-12-Komiks24h_111.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-01-13-Komiks24h_121.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-01-14-Komiks24h_131.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-01-15-Komiks24h_141.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-01-16-Komiks24h_151.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-01-17-Komiks24h_161.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-01-18-Komiks24h_171.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-01-19-Komiks24h_181.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-01-20-Komiks24h_191.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-01-21-Komiks24h_201.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-01-22-Komiks24h_211.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-01-23-Komiks24h_221.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-01-24-Komiks24h_231.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2014/03/2008-01-25-Komiks24h_241.jpg"
+        ]
+      }
+    }
+  }
+}
