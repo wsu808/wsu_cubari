@@ -92,8 +92,13 @@
                 
                 	var elem_img = document.createElement('img');
                 	elem_img.src = meta[0];
-                	elem_img.alt = 'COVER for:' + meta[1];
-                
+                	elem_img.alt = 'COVER for: ' + meta[1];
+			// Add the onerror attribute to handle the case when the original image fails to load
+                        elem_img.onerror = function() {
+                            this.onerror = null; // Unbind the onerror event to prevent looping
+                            this.src = 'https://via.placeholder.com/512x768.jpg?text=%3Cno_cover%3E'; // Set the fallback image URL
+                        };
+			
                 	var elem_text = document.createTextNode(meta[1]);
                 
                 	elem_href.appendChild(elem_img);
