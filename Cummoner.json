@@ -1132,7 +1132,7 @@
       }
     },
     "18.1": {
-      "title": "Bonus",
+      "title": "Concept Art",
       "volume": "",
       "last_updated": "1703082385",
       "groups": {
@@ -1238,6 +1238,36 @@
       "groups": {
         "": [
           "https://totempole666.com/wp-content/uploads/2017/02/ask_vilga7.jpg"
+        ]
+      }
+    },
+    "13.5": {
+      "title": "Inbetweenchapter Fun",
+      "volume": "",
+      "last_updated": "1703085624",
+      "groups": {
+        "": [
+          "https://totempole666.com/wp-content/uploads/2017/08/cummoner13_bonus.jpg"
+        ]
+      }
+    },
+    "14.5": {
+      "title": "Bonus Lore",
+      "volume": "",
+      "last_updated": "1703085679",
+      "groups": {
+        "": [
+          "https://totempole666.com/wp-content/uploads/2017/12/omake2.png"
+        ]
+      }
+    },
+    "16.5": {
+      "title": "Ask Vilga",
+      "volume": "",
+      "last_updated": "1703085723",
+      "groups": {
+        "": [
+          "https://totempole666.com/wp-content/uploads/2018/09/cummoner16_bonus.png"
         ]
       }
     }
