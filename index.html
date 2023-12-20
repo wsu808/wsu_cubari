@@ -117,8 +117,11 @@
         function getCubariURL(URL) {
             var cubariLink = URL.replace('https://raw.githubusercontent.com', '');
             cubariLink = 'raw' + cubariLink;
-            cubariLink = btoa(cubariLink);
-            cubariLink = 'https://cubari.moe/read/gist/' + cubariLink;
+	    // Convert the string to Uint8Array
+	    const bytes = new TextEncoder().encode(cubariLink);
+            // Encode the Uint8Array using btoa
+            const encoded = btoa(String.fromCharCode(...bytes));
+            cubariLink = 'https://cubari.moe/read/gist/' + encoded;
             return cubariLink;
         }
         
