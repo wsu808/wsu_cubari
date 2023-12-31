@@ -14,7 +14,7 @@
       }
     },
     "1": {
-      "title": "The Gift (previously: The Prank)",
+      "title": "The Gift (aka The Prank)",
       "volume": "1",
       "last_updated": "1545484560",
       "groups": {
@@ -75,7 +75,7 @@
       }
     },
     "2": {
-      "title": "The Game (previously: Workweek)",
+      "title": "The Game (aka Workweek)",
       "volume": "1",
       "last_updated": "1565967343",
       "groups": {
@@ -306,7 +306,7 @@
     },
     "8": {
       "title": "8",
-      "volume": "1",
+      "volume": "2",
       "last_updated": "1704034962",
       "groups": {
         "wasu": [
@@ -413,6 +413,16 @@
           "https://pbs.twimg.com/media/FsHr1OSWwAEu-qU?format=jpg&name=large",
           "https://pbs.twimg.com/media/FsHr1OQXsAIng8N?format=jpg&name=large",
           "https://pbs.twimg.com/media/FsHr1OSXgAAGMi0?format=jpg&name=large"
+        ]
+      }
+    },
+    "0.9": {
+      "title": "Arc 1 Cover",
+      "volume": "1",
+      "last_updated": "1704035954",
+      "groups": {
+        "wasu": [
+          "https://pbs.twimg.com/media/FllvogbXgAI9GI4?format=jpg&name=large"
         ]
       }
     }
