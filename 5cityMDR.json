@@ -5,6 +5,16 @@
   "author": "Xylax",
   "cover": "https://pbs.twimg.com/media/FJALvBfWUAQPMKM?format=jpg&name=large",
   "chapters": {
+    "0": {
+      "title": "Cover",
+      "volume": "1",
+      "last_updated": "1705360000",
+      "groups": {
+        "": [
+          "https://pbs.twimg.com/media/FJALvBfWUAQPMKM?format=jpg&name=large"
+        ]
+      }
+    },
     "1": {
       "title": "1",
       "volume": "1",
