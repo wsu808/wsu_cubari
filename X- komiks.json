@@ -1,0 +1,31 @@
+{
+  "title": "X- komiks",
+  "description": "24h 2015",
+  "artist": "Koko",
+  "author": "Koko",
+  "cover": "http://www.konradokonski.com/blog/wp-content/uploads/2015/10/x_000_cover.jpg",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1705410789",
+      "groups": {
+        "": [
+          "http://www.konradokonski.com/blog/wp-content/uploads/2015/10/x_000_cover.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2015/10/x_001.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2015/10/x_002.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2015/10/x_003.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2015/10/x_004.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2015/10/x_005.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2015/10/x_006.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2015/10/x_007.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2015/10/x_008.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2015/10/x_009.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2015/10/x_010.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2015/10/x_011.jpg",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2015/10/x_012.jpg"
+        ]
+      }
+    }
+  }
+}
