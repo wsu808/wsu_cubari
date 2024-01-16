@@ -1,0 +1,44 @@
+{
+  "title": "Gratka",
+  "description": "komiks24h 2018",
+  "artist": "Koko",
+  "author": "Koko",
+  "cover": "http://www.konradokonski.com/blog/wp-content/uploads/2018/10/24h2018_0000-cover-1.png",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1540159200",
+      "groups": {
+        "": [
+          "http://www.konradokonski.com/blog/wp-content/uploads/2018/10/24h2018_0000-cover-1.png",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2018/10/2018-09-21-24h2018_0001-1.png",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2018/10/2018-09-22-24h2018_0002-1.png",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2018/10/2018-09-23-24h2018_0003-1.png",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2018/10/2018-09-24-24h2018_0004-1.png",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2018/10/2018-09-25-24h2018_0005-2.png",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2018/10/2018-09-26-24h2018_0006-2.png",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2018/10/2018-09-27-24h2018_0007-2.png",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2018/10/2018-09-28-24h2018_0008-2.png",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2018/10/2018-09-29-24h2018_0009-2.png",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2018/10/2018-09-30-24h2018_0010-2.png",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2018/10/2018-10-01-24h2018_0011-2.png",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2018/10/2018-10-02-24h2018_0012-2.png",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2018/10/2018-10-03-24h2018_0013-2.png",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2018/10/2018-10-04-24h2018_0014-2.png",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2018/10/2018-10-05-24h2018_0015-2.png",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2018/10/2018-10-06-24h2018_0016-2.png",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2018/10/24h2018_0017.png",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2018/10/24h2018_0018.png",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2018/10/24h2018_0019.png",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2018/10/24h2018_0020.png",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2018/10/24h2018_0021.png",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2018/10/24h2018_0022.png",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2018/10/24h2018_0023.png",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2018/10/24h2018_0024.png",
+          "http://www.konradokonski.com/blog/wp-content/uploads/2018/10/24h2018_0025-endcover.png"
+        ]
+      }
+    }
+  }
+}
