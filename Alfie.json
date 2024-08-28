@@ -5,6 +5,16 @@
   "author": "InCase",
   "cover": "https://buttsmithy.com/wp-content/uploads/2015/11/11-alfie-chapter-61.jpg",
   "chapters": {
+    "0": {
+      "title": "World Map",
+      "volume": "",
+      "last_updated": "1724838686",
+      "groups": {
+        "": [
+          "https://buttsmithy.com/wp-content/uploads/2018/02/2-1.jpg"
+        ]
+      }
+    },
     "1": {
       "title": "1",
       "volume": "",
@@ -1433,16 +1443,6 @@
           "https://buttsmithy.com/wp-content/uploads/2019/10/11.jpg",
           "https://buttsmithy.com/wp-content/uploads/2019/10/12.jpg",
           "https://buttsmithy.com/wp-content/uploads/2019/10/13.jpg"
-        ]
-      }
-    },
-    "1e10": {
-      "title": "World Map",
-      "volume": "",
-      "last_updated": "1724838598",
-      "groups": {
-        "": [
-          "https://buttsmithy.com/wp-content/uploads/2018/02/2-1.jpg"
         ]
       }
     }
